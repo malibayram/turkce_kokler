@@ -1,0 +1,68 @@
+ozellik_id,ekno,kisa_adi,tam_adi,tur
+18,29,ünl.,ünlem,3
+19,30,a.,isim,3
+20,31,sf.,sıfat,3
+21,32,-e,-e,3
+22,33,-i,-i,3
+23,34,nsz.,nesnesiz,3
+24,35,zf.,zarf,3
+25,36,-le,-le,3
+26,37,-den,-den,3
+27,38,e.,edat,3
+28,39,bağ.,bağlaç,3
+29,40,zm.,zamir,3
+30,41,argo,argo,4
+31,42,esk.,eskimiş,4
+32,43,mec.,mecaz,4
+33,44,ağz.,ağızlardan,4
+34,45,tkz.,teklifsiz konuşmada,4
+35,46,alay,alay yollu,4
+36,47,kaba,kaba konuşmada,4
+37,48,şaka,şaka yollu,4
+38,49,hkr.,hakaret yollu,4
+39,88,müz.,müzik,1
+40,89,sp.,spor,1
+41,90,bit. b.,bitki bilimi,1
+42,91,den.,denizcilik,1
+43,92,tar.,tarih,1
+44,93,gök b.,gök bilimi,1
+45,94,coğ.,coğrafya,1
+46,95,db.,dil bilgisi,1
+47,96,ruh b.,ruh bilimi,1
+48,97,kim.,kimya,1
+49,98,anat.,anatomi,1
+50,99,tic.,ticaret,1
+51,100,huk.,hukuk,1
+52,101,mat.,matematik,1
+53,102,hay. b.,hayvan bilimi,1
+54,103,ed.,edebiyat,1
+55,104,sin.,sinema,1
+56,105,biy.,biyoloji,1
+57,106,fel.,felsefe,1
+58,108,fiz.,fizik,1
+59,109,tiy.,tiyatro,1
+60,110,jeol.,jeoloji,1
+61,112,tek.,teknik,1
+62,113,top. b.,toplum bilimi,1
+63,114,fizy.,fizyoloji,1
+64,115,meteor.,meteoroloji,1
+65,116,man.,mantık,1
+66,117,ekon.,ekonomi,1
+67,118,mim.,mimarlık,1
+68,119,min.,mineraloji,1
+69,120,eğt.,eğitim,1
+70,121,ark.,arkeoloji,1
+72,123,tıp.,tıp,1
+73,124,ask.,askerlik,1
+80,253,geom.,geometri,1
+81,264,tekno.,teknoloji,1
+82,271,yar.,yardımcı  fiil,3
+83,274,-de,-de,3
+84,289,dil b.,dil bilimi,1
+85,307,tıp,tıp,1
+87,325,TV,televizyon,1
+88,326,din b.,din bilimi,1
+96,364,mdn.,madencilik,1
+98,368,bl.,bilişim,1
+99,376,mit.,mit.,1
+105,404,ant.,antropoloji,1

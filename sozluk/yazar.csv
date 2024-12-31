@@ -1,0 +1,3471 @@
+yazar_id,ekno,kisa_adi,tam_adi
+1,8,S. F. Abasıyanık,Sait Faik Abasıyanık
+2,127,H. Taner,Haldun Taner
+3,128,Atasözü,Atasözü
+4,129,F. R. Atay,Falih Rıfkı Atay
+5,130,Karacaoğlan,Karacaoğlan
+6,131,E. B. Koryürek,Enis Behiç Koryürek
+7,132,T. Buğra,Tarık Buğra
+8,133,R. N. Güntekin,Reşat Nuri Güntekin
+9,134,M. Yesari,Mahmut Yesari
+10,135,M. Ş. Esendal,Memduh Şevket Esendal
+11,137,Yunus Emre,Yunus Emre
+12,138,F. N. Çamlıbel,Faruk Nafiz Çamlıbel
+13,139,Y. Z. Ortaç,Yusuf Ziya Ortaç
+14,141,H. E. Adıvar,Halide Edip Adıvar
+15,142,R. H. Karay,Refik Halit Karay
+16,143,N. H. Onan,Necmettin Halil Onan
+17,144,P. Safa,Peyami Safa
+18,145,A. Ş. Hisar,Abdülhak Şinasi Hisar
+19,146,Z. O. Saba,Ziya Osman Saba
+20,147,H. R. Gürpınar,Hüseyin Rahmi Gürpınar
+21,149,O. Rifat,Oktay Rifat
+22,151,M. C. Anday,Melih Cevdet Anday
+23,152,Ömer Seyfettin,Ömer Seyfettin
+24,153,Ziya Gökalp,Ziya Gökalp
+25,155,T. Dursun K,Tarık Dursun K
+26,156,T. Fikret,Tevfik Fikret
+27,158,Atatürk,Atatürk
+28,159,R. E. Ünaydın,Ruşen Eşref Ünaydın
+29,160,Y. K. Karaosmanoğlu,Yakup Kadri Karaosmanoğlu 
+30,161,Y. K. Beyatlı,Yahya Kemal Beyatlı
+31,162,Anayasa,Anayasa
+32,163,H. Z. Uşaklıgil,Halit Ziya Uşaklıgil
+33,164,O. C. Kaygılı,Osman Cemal Kaygılı
+34,165,A. İlhan,Attilâ İlhan
+35,166,O. V. Kanık,Orhan Veli Kanık
+36,167,C. S. Tarancı,Cahit Sıtkı Tarancı
+37,168,Y. N. Nayır,Yaşar Nabi Nayır
+38,169,Halk türküsü,Halk türküsü
+39,170,Namık Kemal,Namık Kemal
+40,171,O. Kemal,Orhan Kemal
+41,172,M. C. Kuntay,Mithat Cemal Kuntay
+42,173,N. Ataç,Nurullah Ataç
+43,174,Ç. Altan,Çetin Altan
+44,175,O. Hançerlioğlu,Orhan Hançerlioğlu
+45,176,B. K. Çağlar,Behçet Kemal Çağlar
+46,177,E. E. Talu,Ercüment Ekrem Talu
+47,178,E. M. Karakurt,Esat Mahmut Karakurt
+48,179,Ahmet Rasim,Ahmet Rasim
+49,180,B. Felek,Burhan Felek
+50,181,Süruri,Süruri
+51,182,Ruhi,Ruhi
+52,183,Halikarnas Balıkçısı,Halikarnas Balıkçısı
+53,184,Gevheri,Gevheri
+54,185,A. M. Dıranas,Ahmet Muhip Dıranas
+55,186,N. Araz,Nezihe Araz
+57,188,N. Cumalı,Necati Cumalı
+58,190,B. Necatigil,Behçet Necatigil
+59,191,S. M. Alus,Sermet Muhtar Alus
+60,193,H. C. Yalçın,Hüseyin Cahit Yalçın
+61,197,F. F. Tülbentçi,Feridun Fazıl Tülbentçi
+62,199,A. Sayar,Abbas Sayar
+63,201,Yavuz Sultan Selim,Yavuz Sultan Selim
+64,202,A. K. Tecer,Ahmet Kutsi Tecer
+65,203,Şeyh Galip,Şeyh Galip
+66,204,Âşık Veysel,Âşık Veysel
+67,205,Nabizade Nâzım,Nabizade Nâzım
+68,206,C. Uçuk,Cahit Uçuk
+69,207,F. Köprülü,Fuat Köprülü
+70,208,O. S. Orhon,Orhan Seyfi Orhon
+71,209,Evliya Çelebi,Evliya Çelebi
+72,210,A. Haşim,Ahmet Haşim
+73,211,Ahmet Midhat Efendi,Ahmet Midhat Efendi
+74,212,T. Oflazoğlu,Turan Oflazoğlu
+75,214,M. S. Sutüven,Mustafa Seyit Sutüven
+76,215,A. Gündüz,Aka Gündüz
+77,216,Baki,Baki
+78,217,F. H. Dağlarca,Fazıl Hüsnü Dağlarca
+79,218,M. E. Yurdakul,Mehmet Emin Yurdakul
+80,219,S. Birsel,Salâh Birsel
+81,220,Pir Sultan Abdal,Pir Sultan Abdal
+82,221,E. İ. Benice,Etem İzzet Benice
+83,223,A. H. Tanpınar,Ahmet Hamdi Tanpınar
+84,224,N. S. Örik,Nahid Sırrı Örik
+85,225,B. S. Erdoğan,Bekir Sıtkı Erdoğan
+86,226,R. Erduran,Refik Erduran
+88,228,Âşık Ömer,Âşık Ömer
+89,229,H. S. Tanrıöver,Hamdullah Suphi Tanrıöver
+90,231,A. N. Asya,Arif Nihat Asya
+91,232,H. F. Ozansoy,Halit Fahri Ozansoy
+92,233,Dede Korkut,Dede Korkut
+93,234,Âşık Ruhsati,Âşık Ruhsati
+94,235,Ö. B. Uşaklı,Ömer Bedrettin Uşaklı
+95,236,R. Çalapala,Rakım Çalapala
+96,237,S. Kocagöz,Samim Kocagöz
+97,238,M. And,Metin And
+98,240,Şarkı,Şarkı
+99,242,R. T. Bölükbaşı,Rıza Tevfik Bölükbaşı
+101,244,Enderunlu Vasıf,Enderunlu Vasıf
+102,246,R. Ilgaz,Rıfat Ilgaz
+104,249,Muallim Naci,Muallim Naci
+105,250,Seyrani,Seyrani
+106,251,N. Kurşunlu,Nazım Kurşunlu
+107,252,Bahai,Bahai
+108,254,S. Ayverdi,Sâmiha Ayverdi
+109,255,Muhibbi,Muhibbi
+111,257,Cem Sultan,Cem Sultan
+112,258,Erzurumlu Emrah,Erzurumlu Emrah
+113,260,F. İz,Fahir İz
+114,261,Âşık Ali İzzet,Âşık Ali İzzet
+115,262,Dadaloğlu,Dadaloğlu
+116,263,Nefi,Nefi
+117,265,Kul Mustafa,Kul Mustafa
+118,267,Nedim,Nedim
+119,268,Şemsettin Sami,Şemseddin Sami
+120,270,M. N. Sepetçioğlu,Mustafa Necati Sepetçioğlu
+121,272,E. C. Güney,Eflâtun Cem Güney
+122,275,A. Kabaklı,Ahmet Kabaklı
+124,277,K. Kamu,Kemalettin Kamu
+126,281,K. Tahir,Kemal Tahir
+127,282,Y. Kemal,Yaşar Kemal
+128,283,N. Nadi,Nadir Nadi
+129,284,S. Ertem,Sadri Ertem
+130,285,M. A. Ersoy,Mehmet Akif Ersoy
+131,286,Bayburtlu Zihni,Bayburtlu Zihni
+132,287,T. S. Halman,Talât Sait Halman
+133,290,Şinasi,Şinasi
+134,292,Ş. Rado,Şevket Rado
+135,293,N. F. Kısakürek,Necip Fazıl Kısakürek
+136,294,S. Ali,Sabahattin Ali
+137,297,N. Neyzi,Nezih Neyzi
+138,300,K. H. Koray,Kenan Hulûsi Koray
+139,301,C. Külebi,Cahit Külebi
+140,304,Z. Selimoğlu,Zeyyat Selimoğlu
+141,305,A. Kutlu,Ayla Kutlu
+143,310,A. H. Tarhan,Abdülhak Hamit Tarhan
+144,312,C. Meriç,Cemil Meriç
+145,314,B. R. Eyüboğlu,Bedri Rahmi Eyüboğlu
+146,315,C. Şehabettin,Cenap Şehabettin
+147,316,S. Derviş,Suat Derviş
+148,317,E. Bener,Erhan Bener
+151,320,Y. Z. Bahadınlı,Yusuf Ziya Bahadınlı
+153,324,Fahri Celâlettin,Fahri Celâlettin
+154,328,Süleyman Çelebi,Süleyman Çelebi
+155,331,İrfani,İrfani
+156,334,O. Asena,Orhan Asena
+157,336,Z. Ö. Defne,Zeki Ömer Defne
+158,338,Marş,Marş
+159,340,S. Eyüboğlu,Sabahattin Eyüboğlu
+160,341,Dertli,Dertli
+161,342,S. Ali,Sabahattin Ali
+162,344,Anonim şiir,Anonim şiir
+163,350,İ. H. Baltacıoğlu,İsmail Hakkı Baltacıoğlu
+164,351,H. M. Ebcioğlu,Hikmet Münir Ebcioğlu
+165,355,C. Bayar,Celal Bayar
+166,357,M. Çınarlı,Mehmet Çınarlı
+167,358,H. Â. Yücel,Hasan Âli Yücel
+168,359,M. İzgü,Muzaffer İzgü
+169,360,K. Bilbaşar,Kemal Bilbaşar
+170,361,E. Işınsu,Emine Işınsu
+171,362,İ. Sağır,İbrahim Sağır
+173,367,Koca Ragıp Paşa,Koca Ragıp Paşa
+174,369,S. Taşer,Suat Taşer
+175,370,M. Kaplan,Mehmet Kaplan
+177,375,H. N. Atsız,Hüseyin Nihal Atsız
+178,381,Atai,Atai
+179,382,Ziya Paşa,Ziya Paşa
+180,385,S. Batu,Selâhattin Batu
+181,386,Rasih,Rasih
+182,387,A. H. Müftüoğlu,Ahmet Hikmet Müftüoğlu
+183,388,F. Otyam,Fikret Otyam
+184,390,H. Pulur,Hasan Pulur
+185,391,Nâzım Hikmet,Nâzım Hikmet
+186,401,O. Atay,Oğuz Atay
+187,406,S. Dölek,Sulhi Dölek
+188,407,N. Eray,Nazlı Eray
+189,408,M. Seyda,Mehmet Seyda
+190,409,M. Rona,Mustafa Rona
+191,410,L. Tekin,Lâtife Tekin
+192,411,S. Çokum,Sevinç Çokum
+193,412,A. Ağaoğlu,Adalet Ağaoğlu
+194,413,İ. Sarıer,İlker Sarıer
+195,414,S. Soysal,Sevgi Soysal
+196,415,A. Dino,Abidin Dino
+197,422,B. Akyavaş,Beynun Akyavaş
+198,423,İ. Özel,İsmet Özel
+199,424,S. İleri,Selim İleri
+200,425,A. H. Çelebi,Asaf Halet Çelebi
+201,426,A. Erhat,Azra Erhat
+202,427,M. Mungan,Murathan Mungan
+203,428,A. Boysan,Aydın Boysan
+204,429,N. Meriç,Nezihe Meriç
+205,430,O. N. Akın,Osman Nihat Akın
+206,431,T. Uyar,Tomris Uyar
+207,432,T. Yücel,Tahsin Yücel
+208,433,M. Uyguner,Muzaffer Uyguner
+209,434,M. Buyrukçu,Muzaffer Buyrukçu
+210,435,R. Akyavaş,Ragıp Akyavaş
+211,436,B. Günel,Burhan Günel
+212,437,A. Kulin,Ayşe Kulin
+213,438,A. Ümit,Ahmet Ümit
+214,439,L. Erbil,Leylâ Erbil
+215,440,S. Hilav,Selâhattin Hilav
+216,441,A. Cemal,Ahmet Cemal
+217,442,A. N. Karacan,Ali Naci Karacan
+218,443,N. Bezmen,Nermin Bezmen
+219,445,İ. A. Gövsa,İbrahim Alâeddin Gövsa
+220,446,S. Sema,Sadri Sema
+221,448,Musahipzade Celâl,Musahipzade Celâl
+222,449,E. Şafak,Elif Şafak
+223,450,İ. O. Anar,İhsan Oktay Anar
+224,452,N. Uygur,Nermi Uygur
+225,454,H. Bayaz,Hüseyin Bayaz
+226,455,R. Mağden,Reha Mağden
+227,456,Y. Atılgan,Yusuf Atılgan
+228,457,M. Kutlu,Mustafa Kutlu
+229,458,A. Kilimci,Ayşe Kilimci
+230,459,G. Sazak,Gürbüz Sazak
+231,463,Fuzuli,Fuzuli
+232,464,Peride Celal,Peride Celal
+233,465,F. Erdinç,Fahri Erdinç
+234,466,M. İlhan,Mustafa İlhan
+236,468,S. Şengil,Salim Şengil
+237,469,M. Başaran,Mehmet Başaran
+238,470,Y. Koray,Yaman Koray
+239,471,H. Aytekin,Halil Aytekin
+240,472,H. Birand,Hikmet Birand
+241,473,F. Baykurt,Fakir Baykurt
+242,474,N. Üstün,Nevzat Üstün
+243,475,İ. Tarus,İlhan Tarus
+244,476,A. Özakın,Aysel Özakın
+245,477,K. Korcan,Kerim Korcan
+246,478,E. Atasü,Erendiz Atasü
+247,479,İ. Aral,İnci Aral
+248,480,O. Aysu,Osman Aysu
+249,481,A. Nesin,Aziz Nesin
+250,482,Ü. Dökmen,Üstün Dökmen
+251,483,H. Topuz,Hıfzı Topuz
+252,484,A. İ. Özkan,Ali İzzet Özkan
+253,485,S. Erez,Selçuk Erez
+254,487,Neyzen Tevfik,Neyzen Tevfik
+255,488,Füruzan,Füruzan
+256,489,F. Edgü,Ferit Edgü
+258,491,N. Elver,Nurcan Elver
+259,492,N. Duygulu,Necmi Duygulu
+261,494,E. B. Şapolyo,Enver Behnan Şapolyo
+262,495,A. Özcan,Abdülkadir Özcan
+263,496,O. Türker,Orhan Türker
+264,497,Y. Baştunç,Yüksel Baştunç
+265,498,T. Yeşilyurt,Türkân Yeşilyurt
+266,499,O. Özdeş,Oğuz Özdeş
+267,500,Ö. Serengil,Öztürk Serengil
+268,501,İ. H. Sevük,İsmail Habib Sevük
+269,502,Ö. Tekdemir,Özcan Tekdemir
+270,503,N. Gezer,Nadir Gezer
+271,504,M. R. Gazimihal,Mahmut Ragıp Gazimihal
+272,505,Ü. Kurtcan,Ülker Kurtcan
+273,506,E. Sarı,Eren Sarı
+275,508,Ş. Bulut,Şevket Bulut
+276,509,Ş. Sağlık,Şaban Sağlık
+277,510,A. B. Kafaoğlu,Arslan Başer Kafaoğlu
+278,511,M. Işık,Metin Işık
+279,512,E. Kongar,Emre Kongar
+280,513,S. Gümüş,Semih Gümüş
+281,514,İ. Şahin,İbrahim Şahin
+282,515,M. Yüzbaşıoğlu,Muammer Yüzbaşıoğlu
+283,516,F. O. Altay,Fırat Onur Altay
+284,517,A. Güzelce,Asuman Güzelce
+285,518,S. Soydan,Seyit Soydan
+286,519,A. T. Onay,Ahmet Talât Onay
+287,520,R. E. Koçu,Reşat Ekrem Koçu
+288,521,V. Sezer,Vildan Sezer
+289,522,F. Duman,Fatih Duman
+290,523,A. C. Saraçoğlu,Ahmet Cemaleddin Saraçoğlu
+291,524,S. Erol,Safiye Erol
+292,525,A. Güzel,Ahmet Güzel
+293,526,G. Öz,Gülağ Öz
+294,527,T. Kılınç,Tekin Kılınç
+295,528,S. Sabancı,Sakıp Sabancı
+297,530,M. Menteş,Murat Menteş
+298,531,S. Akça,Sakine Akça
+299,532,Y. İşgörenler,Yaşar İşgörenler
+300,533,A. Yalçın,Alemdar Yalçın
+301,534,B. Arpad,Burhan Arpad
+302,535,M. Eroğlu,Mehmet Eroğlu
+303,536,Ş. Akyol,Şadan Akyol
+305,538,C. Karadaş,Cemalettin Karadaş
+307,540,T. Dilligil,Turhan Dilligil
+308,541,İ. Önal,İbrahim Önal
+309,542,İ. Özer,İlbeyi Özer
+310,543,A. Kıyat,Atilla Kıyat
+311,544,A. S. Emon,Ayşe Saliha Emon
+312,545,Ş. Çakmak,Şule Çakmak
+313,546,M. Papuç,Murat Papuç
+314,547,A. E. Kavaklı,Ali Erkan Kavaklı
+315,548,C. Kayra,Cahit Kayra
+316,549,O. Özbaş,Osman Özbaş
+317,550,O. Kılıç,Osman Kılıç
+318,551,Y. Kalafat,Yaşar Kalafat
+319,552,G. Özcanar,Gözde Özcanar
+320,553,E. Kantaş,Ebru Kantaş
+321,554,S. Alkan,Selçuk Alkan
+322,555,H. N. Orkun,Hüseyin Namık Orkun
+323,556,S. Y. Ataman,Sadi Yaver Ataman
+324,557,E. Kökçü,Engin Kökçü
+325,558,S. Arkan,Sibel Arkan
+326,559,K. Yalçın,Kemal Yalçın
+327,560,E. Özkan,Erdal Özkan
+328,561,D. Kuban,Doğan Kuban
+329,562,H. Kıyafet,Hasan Kıyafet
+330,563,A. Arlısoy,Akın Arlısoy
+331,564,A. Şimşirgil,Ahmet Şimşirgil
+332,565,İ. H. Uzunçarşılı,İsmail Hakkı Uzunçarşılı
+333,566,M. S. Taşkıran,Mehmet Sait Taşkıran
+334,567,F. Ünal Şen,Fügen Ünal Şen
+335,568,O. Türkdoğan,Orhan Türkdoğan
+336,569,A. Bayındır,Ali Bayındır
+337,570,A. İ. Kolcu,Ali İhsan Kolcu
+338,571,R. O. Türkkan,Reha Oğuz Türkkan
+339,572,H. Akın,Hakan Akın
+340,573,İ. Emre,İsmet Emre
+341,574,E. İşeri,Erkan İşeri
+342,575,İ. Sarı,İbrahim Sarı
+343,576,S. Altan,Selim Altan
+344,577,Y. Dağlar,Yaşar Dağlar
+345,578,E. Can,Emine Can
+346,579,M. Çolak,Mikail Çolak
+347,580,M. D. Göksu,Mehmet Davut Göksu
+348,581,M. Öz,Mustafa Öz
+349,582,U. Becerikli,Uğur Becerikli
+350,583,İ. Pala,İskender Pala
+351,584,F. Tevetoğlu,Fethi Tevetoğlu
+352,585,H. Yakut Üstündağ,Hülya Yakut Üstündağ
+353,586,M. Çay,Mustafa Çay
+354,587,B. Büyükarkın,Bekir Büyükarkın
+355,588,M. Alagöz,Mustafa Alagöz
+356,589,S. Şen,Serdar Şen
+357,590,R. Özen,Rahmi Özen
+358,591,S. Yılmaz,Salih Yılmaz
+359,592,A. Söylemez,Ahmet Söylemez
+360,593,A. Kalkan,Atiye Kalkan
+361,594,V. Zat,Vefa Zat
+362,595,M. Karnas,Mustafa Karnas
+363,596,N. Tosuner,Necati Tosuner
+364,597,O. Çeviksoy,Osman Çeviksoy
+365,598,S. Tufan,Sinem Tufan
+366,599,A. Çamlıca,Alper Çamlıca
+367,600,Ü. Alan,Ümit Alan
+368,601,H. Özgü,Halis Özgü
+369,602,H. Çimrin,Hüseyin Çimrin
+370,603,Ö. İnce,Özdemir İnce
+371,604,M. Sönmez,Mustafa Sönmez
+372,605,M. Demirtaş,Mehmet Demirtaş
+373,606,M. K. Koca,Mustafa Kemal Koca
+374,607,D. Akçam,Dursun Akçam
+375,608,S. Gümüş,Sefer Gümüş
+376,609,G. Vassaf,Gündüz Vassaf
+378,611,M. Çelik,Mehmet Çelik
+380,613,R. Çavuş,Remzi Çavuş
+381,614,S. M. Şen,Seyit Mehmet Şen
+382,615,M. K. Pilavoğlu,Mehmet Kemal Pilavoğlu
+383,616,Y. Benligiray,"Yılmaz Benligiray, Kerim Banar"
+384,617,A. Kalender Önel,Arife Kalender Önel
+385,618,M. Deri,Mehmet Deri
+386,619,A. Timuçin,Afşar Timuçin
+387,620,N. Yeğinobalı,Nihal Yeğinobalı
+388,621,S. Erelvanlı,Semih Erelvanlı
+389,622,T. Demirkan,Tarık Demirkan
+390,623,M. H. Alşan,Mehmet Hakan Alşan
+391,624,G. G. Özdoğan,Günay Göksu Özdoğan
+392,625,A. Deliorman,Altan Deliorman
+393,626,T. Sönmez ,Temel Sönmez 
+394,627,E. Şefik,Eşref Şefik
+395,628,F. Ülkü,Faruk Ülkü 
+396,629,F. B. Aydın,Fatih Baha Aydın
+397,630,F. Çakmak,Fevzi Çakmak
+398,631,C. Gündoğdu,Cengiz Gündoğdu
+399,632,R. Seyhan,Recep Seyhan
+400,633,A. Işık ,Adem Işık 
+401,634,J. İnan,Jale İnan
+402,635,H. İ. Dinamo,Hasan İzzettin Dinamo
+403,636,F. Acunsal,Ferit Acunsal
+404,637,M. Yılmaz,Mutlu Yılmaz
+405,638,K. Gözler,Kemal Gözler
+406,639,Ö. Engin,Ömer Engin
+407,640,H. Altınkaynak,Hikmet Altınkaynak
+408,641,M. Kadıoğlu,Muhsin Kadıoğlu
+409,642,O. Erdoğan,Onur Erdoğan
+411,644,B. Taşçıoğlu,Behçet Taşçıoğlu
+412,645,E. Ergül,Ergin Ergül
+413,646,N. Tektaş,Nazım Tektaş
+414,647,İ. H. Yıldız,İbrahim Halil Yıldız
+415,648,İ. Tohumcu,İmran Tohumcu
+416,649,T. Erdağ,Turgay Erdağ
+417,650,İ. Kurt,İlyas Kurt
+418,651,O. Diler,Onur Diler
+419,652,S. Sinanlar,Seza Sinanlar
+420,653,A. Y. Özemre,Ahmed Yüksel Özemre
+421,654,C. Kepekçi,Celâl Kepekçi
+422,655,A. An,Ahmet An
+423,656,B. Atabay,Banu Atabay
+424,657,T. Z. Akıncı,Tarık Ziya Akıncı
+425,658,M. K. Öke,Mim Kemal Öke
+426,659,A. Çaycı,Abdurrahman Çaycı
+427,660,M. Oruçoğlu,Muzaffer Oruçoğlu
+428,661,Ş. Yetkin,Şerare Yetkin
+429,662,S. Gümüş,Sezer Gümüş
+430,663,A. Böke Önder,Alper Böke Önder
+431,664,E. Kılıç,Ercüment Kılıç
+432,665,S. Karakoç,Sezai Karakoç
+433,666,E. Noyan,Erdal Noyan
+434,667,M. T. Tan,M. Turhan Tan
+435,668,N. Kayabaşı,Nahit Kayabaşı
+436,669,H. İnanıcı,Haluk İnanıcı
+437,670,S. Yetkin,Sabri Yetkin
+438,671,E. Özkalp,Enver Özkalp
+439,672,Y. Aksoy,Yaşar Aksoy
+440,673,M. Cezar,Mustafa Cezar
+441,674,M. C. Yenigün,M. Cüneyt Yenigün
+442,675,Ö. Kurtbağ,Ömer Kurtbağ
+443,676,H. Şıvgın,Hale Şıvgın
+444,677,Ç. Karlıdağ,Çağrı Karlıdağ
+445,678,F. Çoker,Fahri Çoker
+446,679,O. Aslanapa,Oktay Aslanapa
+447,680,M. Özata,Metin Özata
+448,681,N. Bilgin,Nejla Bilgin
+449,682,A. Kaya,Ali Kaya
+450,683,E. Göze,Ergun Göze
+451,684,A. Mengi,Ayşegül Mengi
+452,685,A. Gündoğdu,Aysel Gündoğdu
+453,686,M. Z. Akgün,M. Zerrin Akgün
+454,687,B. Karpuz,Beyhan Karpuz
+455,688,M. Goloğlu,Mahmut Goloğlu
+456,689,H. Z. Yiğitler,H. Zekâi Yiğitler
+457,690,C. Erkmen,Cemal Erkmen
+458,691,N. Tekerek,Nurhan Tekerek
+459,692,Z. Kocasinan,Zeynep Kocasinan
+460,693,Z. Aydın,Zafer Aydın
+461,694,N. Haksun,Necati Haksun
+462,695,D. Özlem,Doğan Özlem
+463,696,M. Paksu,Mehmed Paksu
+465,698,A. Özsoy Özmen,Arzu Özsoy Özmen
+466,699,E. B. Ekinci,Ekrem Buğra Ekinci
+467,700,S. İsmail,Sabahattin İsmail
+469,702,Ü. Tamer,Ülkü Tamer
+470,703,H. Apan,Hüseyin Apan
+471,704,S. Atmaca,Sezer Atmaca
+472,705,D. Kent,Dilek Kent
+473,706,Y. Sarpdere,Yücel Sarpdere
+474,707,R. İzbırak,Reşat İzbırak
+475,708,S. Çolakoğlu,Selçuk Çolakoğlu
+477,710,Ö. Türk,Özlem Türk
+478,711,B. Kılıçaslan,Burak Kılıçaslan
+479,712,T. A. Beler,Turan Aziz Beler
+480,713,E. Bahadır,Elif Bahadır
+481,714,S. Taşkın,Serkan Taşkın
+482,715,N. Gümüş,Naci Gümüş
+483,716,Y. Dikmelik,Yalçın Dikmelik
+484,717,R. Duru,Refik Duru
+485,718,Y. Koç,Yıldırım Koç
+486,719,M. Zencirkıran,Memet Zencirkıran
+487,720,A. Bezirci,Asım Bezirci
+488,721,İ. İnsaf Turan,İlknur İnsaf Turan
+489,722,A. Bilgin,Arif Bilgin
+490,723,E. H. Tepeyran,Ebubekir Hazım Tepeyran
+491,724,O. Burian,Orhan Burian
+492,725,B. Seyidoğlu,Bilge Seyidoğlu
+493,726,Ö. Celep,Ömer Celep
+494,727,T. Morgül,Tan Morgül
+495,728,Y. Ertürk,Yaşar Ertürk
+496,729,Ü. Değerli,Ünal Değerli
+497,730,R. Genç,Reşat Genç
+498,731,A. Avanas,Ahmet Avanas
+499,732,S. Başman,Sevgi Başman
+500,733,A. Çeçen,Anıl Çeçen
+501,734,A. G. Yıldız,Ahmet Günbay Yıldız
+502,735,S. Yıldızlı,Sinan Yıldızlı
+503,736,O. Şahin,Osman Şahin
+504,737,I. Ergüden,Işık Ergüden
+505,738,H. Mahir,Hasan Mahir
+506,739,R. Bilginer,Recep Bilginer
+507,740,Ö. Eren,Özhan Eren
+509,742,A. Uysal,Asiye Uysal
+510,743,T. Baytop,Turhan Baytop
+512,745,G. Boralıoğlu,Gaye Boralıoğlu
+513,746,N. Gerek,Nüvit Gerek
+514,747,T. Uzer,Tahsin Uzer
+515,748,Ş. Belli,Şemsi Belli
+516,749,İ. Selçuk,İlhan Selçuk
+517,750,R. Mutluay,Rauf Mutluay
+518,751,A. Sarıkoyuncu,Ali Sarıkoyuncu
+519,752,İ. Tokalak,İsmail Tokalak
+520,753,M. Kahveci,Mesut Kahveci
+521,754,T. Yücel,Talip Yücel
+522,755,N. Abadan Unat,Nermin Abadan Unat
+523,756,G. Eke,Gazi Eke
+524,757,O. Acıpayamlı,Orhan Acıpayamlı
+525,758,H. Özdemir,Hüseyin Özdemir
+526,759,M. K. Su,Mükerrem Kâmil Su
+527,760,Z. Danışman,Zuhuri Danışman
+528,761,A. Binyazar,Adnan Binyazar
+529,762,Y. Kopan,Yekta Kopan
+530,763,M. Bardak,Mustafa Bardak
+531,764,A. Aras,Alp Aras
+532,765,G. Dayıoğlu,Gülten Dayıoğlu
+533,766,M. Uysal,Murat Uysal
+534,767,M. A. Eser,Mehmet Ali Eser
+535,768,O. Sinanoğlu,Oktay Sinanoğlu
+536,769,İ. İncecik,İbrahim İncecik
+537,770,Ç. Acar,Çiğdem Acar
+538,771,A. Alatlı,Alev Alatlı
+540,773,B. N. Şimşir,Bilal N. Şimşir
+541,774,S. Z. Ekinci,Salih Zeki Ekinci
+542,775,O. Ünal,Oğuz Ünal
+543,776,A. B. Taymas,Abdullah Battal Taymas
+544,777,F. Bilir,Faruk Bilir
+545,778,F. Ergut,Ferdan Ergut
+546,779,R. Keskin,Rıza Keskin
+547,780,F. Bildirici,Faruk Bildirici
+548,781,F. Yıldırım,Fatmagül Yıldırım
+549,782,A. Kurtuluş,Akif Kurtuluş
+550,783,A. Karaosmanoğlu,Attila Karaosmanoğlu
+551,784,M. Çubukçu,Mete Çubukçu
+552,785,U. Kavas,Uğur Kavas
+553,786,İ. Ortaylı,İlber Ortaylı
+554,787,B. Onur,Bekir Onur
+555,788,M. Ertuğrul,Muhsin Ertuğrul
+556,789,D. Ceyhun,Demirtaş Ceyhun
+557,790,Ş. S. Aydemir,Şevket Süreyya Aydemir
+558,791,C. Özakıncı,Cengiz Özakıncı
+559,792,T. Güler,Turgut Güler
+560,793,U. Yördem,Usame Yördem
+561,794,H. Şahan,Halil Şahan
+562,795,Ö. Öze,Özkan Öze
+563,796,M. K. Kurşunluoğlu,Mehmed Kemal Kurşunluoğlu
+565,798,A. Hız,Aydın Hız
+566,799,N. Kösoğlu,Nevzat Kösoğlu
+567,800,A. Mumcu,Ahmet Mumcu
+568,801,N. Gün,Nil Gün
+569,802,N. Hacıeminoğlu,Necmettin Hacıeminoğlu
+570,803,A. Çimen,Altan Çimen
+571,804,A. N. Tarlan,Ali Nihad Tarlan
+572,805,G. Akçura,Gökhan Akçura
+573,806,L. Koradan,Lilay Koradan
+574,807,H. Batu,Hâmit Batu
+575,808,B. S. Oransay,Bekir Sıtkı Oransay
+576,809,H. Duru,Hilmi Duru
+577,810,Ş. Keçeli,Şakir Keçeli
+578,811,A. İnan,Abdülkadir İnan
+579,812,Ü. Kurtçu,Ünal Kurtçu
+580,813,A. Efe,Ahmet Efe
+581,814,V. Taş,Vadullah Taş
+582,815,A. C. Yöntem,Ali Canip Yöntem
+583,816,O. Ş. Uludağ,Osman Şevki Uludağ
+584,817,Ü. Özmen,Ünsal Özmen
+585,818,M. Tatcı,Mustafa Tatcı
+586,819,M. Belge,Murat Belge
+587,820,E. B. Merdivan,Emrah Bilge Merdivan
+588,821,B. Baykara,Barbaros Baykara
+589,822,C. Bektaş,Cengiz Bektaş
+590,823,A. T. Barniç,Ali Turan Barniç
+591,824,Ö. Süslü,Özden Süslü
+592,825,İ. H. Danişmend,İsmail Hami Danişmend
+593,826,S. Demiray,Sebahattin Demiray
+594,827,H. Yıldırım,Hasan Yıldırım
+595,828,K. İnan,Kamran İnan
+596,829,P. Mermer,Pınar Mermer
+598,831,C. Özcan,Cumali Özcan
+599,832,M. Tahsin Berkand,Muazzez Tahsin Berkand
+600,833,C. Baysu,Cengiz Baysu
+601,834,N. Demir,Necati Demir
+602,835,Ö. Güven,Özbay Güven
+603,836,K. N. Duru,Kâzım Nami Duru
+604,837,N. Eren,Naci Eren
+605,838,C. Kavukçu,Cemil Kavukçu
+606,839,B. Oğuz,Burhan Oğuz
+607,840,M. S. Koz,Mehmet Sabri Koz
+608,841,M. Ekdal,Müfid Ekdal
+609,842,N. Aydın,Nurettin Aydın
+610,843,M. Özdemir,Mehmet Özdemir
+611,844,M. Üçer,Müjgân Üçer
+612,845,Mahmut Şevket Paşa,Mahmut Şevket Paşa
+613,846,M. S. Gürsel,Mahmud Selim Gürsel
+614,847,İ. Demirbaş,İrem Demirbaş
+615,848,Y. Bozyiğit,Yaşar Bozyiğit
+616,849,H. N. Atsız,Hüseyin Nihal Atsız
+617,850,P. Kür,Pınar Kür
+619,852,C. Dağcı,Cengiz Dağcı
+620,853,O. Baydar,Oya Baydar
+621,854,S. Bektöre,Saadet Bektöre
+622,855,M. H. Doğan,Mehmet H. Doğan
+623,856,G. Bilgehan,Gülsün Bilgehan
+624,857,K. Erzurum,Kenan Erzurum
+625,858,K. Köroğlu,Kemalettin Köroğlu
+626,859,M. Erendil,Muzaffer Erendil
+627,860,Y. Nadi,Yunus Nadi
+628,861,K. Büyüktaşkın,Keremcan Büyüktaşkın
+629,862,M. Yücel,Müslüm Yücel
+630,863,H. A. Avcı,Haydar A. Avcı
+631,864,R. Zelyut,Rıza Zelyut
+632,865,A. Tekin,Arslan Tekin
+633,866,J. Baysal,Jale Baysal
+634,867,H. E. Erkilet,H. Emir Erkilet
+635,868,H. T. Akarsu,Hikmet Temel Akarsu
+636,869,Ç. Yiğenoğlu,Çetin Yiğenoğlu
+637,870,C. Atbaşoğlu,Cem Atbaşoğlu
+638,871,K. Arslanoğlu,Kaan Arslanoğlu
+639,872,Ö. F. Dere,Ömer Faruk Dere
+641,874,Y. Taşçıoğlu,Yılmaz Taşçıoğlu
+642,875,G. Erdem,Galip Erdem
+643,876,B. F. Akın,Bedii Faik Akın
+645,878,A. Yılmaz,Ayfer Yılmaz
+646,879,E. Ocak,Eren Ocak
+647,880,Z. Sarıhan,Zeki Sarıhan
+649,882,O. Gündüz,Osman Gündüz
+650,883,S. Şener,Sevda Şener
+651,884,M. F. Ekinci,Mehmet Fatih Ekinci
+652,885,M. Bayrakdar,Mehmed Bayrakdar
+653,886,Y. Karakoyunlu,Yılmaz Karakoyunlu
+654,887,N. Alsan,Necip Alsan
+655,888,Ç. Öner,Çetin Öner
+656,889,F. İrfan Serhan,Fatma İrfan Serhan
+657,890,Ş. N. Başar,Şükûfe Nihal Başar
+658,891,Ş. Mardin,Şerif Mardin
+659,892,İ. Vurucu,İkbal Vurucu
+660,893,T. Özlü,Tezer Özlü
+662,895,C. Zarifoğlu,Cahit Zarifoğlu
+663,896,D. Karakurt,Deniz Karakurt
+664,897,K. Sezer,Kemal Sezer
+665,898,P. N. Boratav,Pertev Naili Boratav
+666,899,M. Gülsoy,Murat Gülsoy
+667,900,N. Bekiroğlu,Nazan Bekiroğlu
+668,901,S. İ. Sedes,Selami İzzet Sedes
+669,902,B. Uzuner,Buket Uzuner
+670,903,T. Apaydın,Talip Apaydın
+671,904,F. Baysal,Faik Baysal
+672,905,A. M. İnan,Ali Mithat İnan
+673,906,F. R. Civelekoğlu,Fatih Reşit Civelekoğlu
+674,907,Kerime Nadir,Kerime Nadir
+675,908,C. A. Kansu,Ceyhun Atuf Kansu
+676,909,H. Erimez,Hasan Erimez
+677,910,R. Vırmiça,Raif Vırmiça
+678,911,E. Batur,Enis Batur
+679,912,S. Aydın,Suavi Aydın
+680,913,N. Kandemir,Naim Kandemir
+681,914,D. Aksan,Doğan Aksan
+682,915,A. Çimen Balaban,Ayfer Çimen Balaban
+683,916,Ö. Nutku,Özdemir Nutku
+684,917,O. Boran,Orhan Boran
+685,918,F. Andaç,Feridun Andaç
+686,919,T. Cansever,Turgut Cansever
+687,920,G. Aytaş,Gıyasettin Aytaş
+688,921,Ö. Yaşın,Özker Yaşın
+689,922,K. Konduk,Kandemir Konduk
+690,923,A. Aksoy,Alper Aksoy
+692,925,G. Cengiz,Gülsüm Cengiz
+693,926,Y. K. Tengirşek,Yusuf Kemal Tengirşek
+694,927,B. Eryılmaz,Bilal Eryılmaz
+695,928,M. Levi,Mario Levi
+696,929,Cevdet Kudret,Cevdet Kudret
+697,930,D. Özlü,Demir Özlü
+698,931,B. Bıçakçı,Barış Bıçakçı
+699,932,A. Balkız,Ali Balkız
+700,933,C. Conk,Cemil Conk
+701,934,M. Tunçay,Mete Tunçay
+702,935,A. Saraç,Adem Saraç
+703,936,Adil Hikmet Bey,Adil Hikmet Bey
+704,937,K. Binici,Kasım Binici
+705,938,V. Sağlam,Vedat Sağlam
+706,939,B. Karakoç,Bahaettin Karakoç
+707,940,H. B. Gayretullah,Hızır Bek Gayretullah
+708,941,D. Sofracıoğlu,Doğan Sofracıoğlu
+709,942,Y. Pekşen,Yalçın Pekşen
+710,943,T. Tan,Turhan Tan
+711,944,M. Urgan,Mina Urgan
+712,945,Ü. Deniz,Ümit Deniz
+713,946,Mehmed Niyazi,Mehmed Niyazi
+714,947,T. Banguoğlu,Tahsin Banguoğlu
+715,948,E. Özdemir,Emin Özdemir
+716,949,Recaizade Mahmut Ekrem,Recaizade Mahmut Ekrem
+717,950,Ş. A. Bayır,Şule Aydın Bayır
+718,951,İ. Yaşayan,İnanç Yaşayan
+720,953,M. Miyasoğlu,Mustafa Miyasoğlu
+721,954,M. Yalçın,Murat Yalçın
+722,955,T. Çayırcı,Tülin Çayırcı
+723,956,M. Altunkaynak,Mesut Altunkaynak
+724,957,A. Z. Kozanoğlu,Abdullah Ziya Kozanoğlu
+725,958,S. Koz,Sabri Koz
+726,959,Ş. Gürbüz,Şule Gürbüz
+728,961,S. Sever,Sıla Sever
+729,962,A. Altıntaş,Alper Altıntaş
+730,963,R. Özdenören,Rasim Özdenören
+731,964,C. Aydoğan,Cansu Aydoğan
+732,965,A. Erinç,Aysu Erinç
+733,966,C. Özer,Cemil Özer
+734,967,A. Koyuncu,Ali Koyuncu
+735,968,M. Altun,Mustafa Altun
+736,969,A. Büke,Ahmet Büke
+737,970,M. Savaş,Metin Savaş
+738,971,T. Alangu,Tahir Alangu
+739,972,A. R. Balaban,Ali Rıza Balaban
+740,973,D. Asena,Duygu Asena
+741,974,Ç. Yetkin,Çetin Yetkin
+742,975,H. B. Kahraman,Hasan Bülent Kahraman
+743,976,D. Sümer,Dinçer Sümer
+744,977,C. Atay,Cahit Atay
+745,978,M. Metinsoy,Murat Metinsoy
+746,979,İ. Deniz,İsmail Deniz
+747,980,A. Atalay,Atilla Atalay
+748,981,G. Gündüz,Gökhan Gündüz
+749,982,İ. Ongun,İpek Ongun
+750,983,L. Ö. Akad,Lütfi Ömer Akad
+751,984,D. Tarıncı,Dilek Tarıncı
+752,985,G. Hacır,Gürkan Hacır
+753,986,F. Çiçekoğlu,Feride Çiçekoğlu
+754,987,Z. Ç. Erus,Zeynep Çetin Erus
+755,988,F. Özbay,Ferhunde Özbay
+756,989,N. Kuyaş,Nilüfer Kuyaş
+757,990,A. Murat,Ahmet Murat
+758,991,İ. Pınar,İlhan Pınar
+759,992,Z. Mert,Zübeyde Mert
+760,993,İ. Eroğlu,İsmail Eroğlu
+761,994,Y. Yeşilkaya,Yusuf Yeşilkaya
+762,995,N. Ekici,Necdet Ekici
+763,996,F. Naci,Fethi Naci
+764,997,N. Sezgin,Neslihan Sezgin
+765,998,H. Atay,Hüseyin Atay
+766,999,A. Kalender Önel,Arife Kalender Önel
+767,1000,B. S. Bozdemir,Bilal Semih Bozdemir
+768,1001,K. Sayar,Kemal Sayar
+769,1002,R. Kızgut,Rahim Kızgut
+770,1003,E. Dölen,Emre Dölen
+771,1004,Ö. Özorak,Özlem Özorak
+772,1005,A. Erginoğlu,Alim Erginoğlu
+773,1006,N. F. Eczacıbaşı,Nejat F. Eczacıbaşı
+774,1007,Ü. Aktaş,Ümit Aktaş
+775,1008,B. Öner,Binnaz Öner
+776,1009,O. Hayran,Osman Hayran
+777,1010,S. Topuz,Sinan Topuz
+778,1011,O. Öymen,Onur Öymen
+779,1012,V. Çıracıoğlu,Vecdi Çıracıoğlu
+780,1013,B. Erenus,Bilge Erenus
+781,1014,D. Ünal,Dilek Ünal
+782,1015,O. Tez,Orhan Tez
+783,1016,N. Cehiz,Neşe Cehiz
+784,1017,N. Akgün,Nejat Akgün
+785,1018,C. Muyan,Cansu Muyan
+786,1019,S. Aksüt,Sadun Aksüt
+787,1020,S. K. Yetkin,Suut Kemal Yetkin
+788,1021,S. A. Arkonaç,Sibel Ayşen Arkonaç
+789,1022,H. Arslan Erol,Hülya Arslan Erol
+791,1024,O. Akbal,Oktay Akbal
+792,1025,A. Sayılı,Aydın Sayılı
+793,1026,S. Bozok,Salih Bozok
+794,1027,A. Güneş,Adem Güneş
+795,1028,V. Günyol,Vedat Günyol
+796,1029,B. Ayvazoğlu,Beşir Ayvazoğlu
+797,1030,S. Çömlekçi,Seçil Çömlekçi
+798,1031,F. Armaoğlu,Fahir Armaoğlu
+799,1032,A. Caferoğlu,Ahmet Caferoğlu
+800,1033,A. Ural,Ayşegül Ural
+801,1034,N. Ayyıldız,Nigâr Ayyıldız
+802,1035,A. R. Güngen,Ali Rıza Güngen
+803,1036,O. Yamaç,Osman Yamaç
+804,1037,İ. Şimşek,İhsan Şimşek
+805,1038,D. Kavukçuoğlu,Deniz Kavukçuoğlu
+806,1039,F. Hakan,Fikret Hakan
+807,1040,İ. B. Özpazarcık,İsmail Barış Özpazarcık
+808,1041,F. Ulay,Faruk Ulay
+809,1042,A. Özyalçıner,Adnan Özyalçıner
+810,1043,F. Bozkurt,Fuat Bozkurt
+811,1044,H. Yavuz,Hilmi Yavuz
+812,1045,B. Parmaksız,Burak Parmaksız
+813,1046,S. Ezgü,Sema Ezgü
+814,1047,S. Kaymaz,Sezgin Kaymaz
+815,1048,S. Nizam,Salim Nizam
+816,1049,E. Toy,Erol Toy
+817,1050,R. O. Arık,Remzi Oğuz Arık
+818,1051,N. Mert,Necati Mert
+819,1052,S. Baran,Selçuk Baran
+820,1053,İ. H. Altuntaş,İsmail Hakkı Altuntaş
+821,1054,D. Hızlan,Doğan Hızlan
+822,1055,H. F. Es,Hikmet Feridun Es
+824,1057,M. Güler,Mehmet Güler
+825,1058,İ. E. Atnur,İbrahim E. Atnur
+826,1059,Ö. Seçkin,Özgen Seçkin
+827,1060,N. Tosun,Necip Tosun
+828,1061,M. Makal,Mahmut Makal
+829,1062,İ. K. Mimaroğlu,İlhan Kemaleddin Mimaroğlu
+830,1063,Ü. Turan,Ümit Turan
+831,1064,O. Tektaş,Oğuz Tektaş
+832,1065,Ş. Engin Atmaca,Şükran Engin Atmaca
+833,1066,M. H. Dosdoğru,M. Hulûsi Dosdoğru
+834,1067,A. K. Hacısalihoğlu,A. Kenan Hacısalihoğlu
+835,1068,Z. Uluant,Zeynep Uluant
+836,1069,H. Kıvanç,Halit Kıvanç
+837,1070,E. Öz,Erdal Öz
+838,1071,T. Özakman,Turgut Özakman
+840,1073,R. N. Bali,Rıfat N. Bali
+841,1074,M. Ö. Sezer,Melek Özlem Sezer
+842,1075,A. T. Berkman,Ahmet Tevfik Berkman
+843,1076,Ş. S. İlter,Şahap Sıtkı İlter
+844,1077,Z. Celâsun,Zehra Celâsun
+845,1078,M. Küçüksarp,Merve Küçüksarp
+846,1079,İ. Kara,İlyas Kara
+847,1080,N. İçözü,Nur İçözü
+848,1081,M. Duman,Mustafa Duman
+849,1082,B. Özkişi,Bahaeddin Özkişi
+850,1083,Ş. Baykurt,Şerif Baykurt
+851,1084,Ş. İşigüzel,Şebnem İşigüzel
+852,1085,R. Şeşen,Ramazan Şeşen
+853,1086,M. Soysal,Mine Soysal
+854,1087,Ş. Yücel,Şükran Yücel
+855,1088,F. Samuk,Fevzi Samuk
+856,1089,B. Asiltürk,Bâki Asiltürk
+857,1090,Z. Toprak,Zafer Toprak
+858,1091,R. Balcı,Ramazan Balcı
+859,1092,H. B. Kunter,Halim Baki Kunter
+860,1093,S. Ulağlı,Serhat Ulağlı
+861,1094,A. İnan,Afet İnan
+862,1095,R. E. Aygen,Reşat Enis Aygen
+863,1096,Y. Balcı,Yunus Balcı
+864,1097,T. Alpaslan,Teoman Alpaslan
+865,1098,S. S. Üçer,S. Sırrı Üçer
+866,1099,B. Tezcan Aksu,Belgin Tezcan Aksu
+867,1100,S. Ağaoğlu,Samet Ağaoğlu
+868,1101,S. Irmak,Sezgin Irmak
+869,1102,C. Çelik,Celalettin Çelik
+870,1103,M. A. Sinan,Meryem Aybike Sinan
+871,1104,K. Özer,Kemal Özer
+872,1105,B. Çelik,Behçet Çelik
+873,1106,Y. Sertel,Yıldız Sertel
+874,1107,A. Kafkas,Ayfer Kafkas
+875,1108,C. Albayrak,Cemal Albayrak
+876,1109,S. S. Cihanoğlu,Sait Selâhattin Cihanoğlu
+877,1110,Ö. Ergenç,Özer Ergenç
+878,1111,B. Aslan,Bahar Aslan
+879,1112,E. Erdim,Erol Erdim
+880,1113,K. Varol,Kemal Varol
+881,1114,M. Azazi,Muzaffer Azazi
+882,1115,S. Ulusoy,Saffet Ulusoy
+883,1116,A. Kurt,Ali Kurt
+884,1117,İ. Kara,İsmail Kara
+885,1118,S. Y. Baydur,Suat Yakup Baydur
+886,1119,A. Girgin,Atalay Girgin
+887,1120,M. Törenek,Mehmet Törenek
+888,1121,G. Pultar,Gönül Pultar
+889,1122,F. Bayat,Fuzuli Bayat
+890,1123,A. E. Bolayır,Ali Ekrem Bolayır
+891,1124,R. Hanadan,Reşit Hanadan
+892,1125,A. S. Levend,Agâh Sırrı Levend
+893,1126,C. Güzel,Can Güzel
+894,1127,İ. A. Çubukçu,İ. Agâh Çubukçu
+895,1128,A. A. Araslı,Alhan Altan Araslı
+896,1129,M. A. Demirer,Mehmet Arif Demirer
+898,1131,Ö. L. Mete,Ömer Lütfi Mete
+899,1132,D. Duman,Defne Duman
+901,1134,E. Y. Urfalıoğlu,E. Yağmur Urfalıoğlu
+902,1135,M. Ataç,Meral Ataç
+903,1136,T. Olgun,Tahir Olgun
+904,1137,Ç. Simsoy,Çağlar Simsoy
+905,1138,Y. Ağanoğlu,Yüce Ağanoğlu
+906,1139,A. Kahraman,Ahmet Kahraman
+907,1140,E. Sarıyıldız,Erkan Sarıyıldız
+908,1141,A. Arslan,Ali Arslan
+909,1142,F. Yeşilyurt,Fatih Yeşilyurt
+910,1143,M. Göğüş Tan,Mine Göğüş Tan
+911,1144,H. Erol,Hatice Erol
+912,1145,E. Hiçyılmaz,Ergun Hiçyılmaz
+913,1146,R. Durbaş,Refik Durbaş
+915,1148,O. Öztürk,Oğuzhan Öztürk
+916,1149,H. Dormen,Haldun Dormen
+917,1150,N. Bölügiray,Nejat Bölügiray
+918,1151,S. Öztürk,Sami Öztürk
+919,1152,T. Akpınar,Turgut Akpınar
+920,1153,S. Büker,Seçil Büker
+921,1154,K. Polat,Kemal Polat
+922,1155,A. S. Ünver,Ahmet Süheyl Ünver
+923,1156,Y. Çongar,Yılmaz Çongar
+924,1157,T. Tankut,Tülin Tankut
+925,1158,N. Arzık,Nimet Arzık
+926,1159,İ. F. Akın,İlhan F. Akın
+927,1160,T. Özcan,Tahsin Özcan
+928,1161,G. Gönenç,Günay Gönenç
+929,1162,T. Pirselimoğlu,Tayfun Pirselimoğlu
+931,1164,S. İzzet,Selâmi İzzet
+932,1165,Ö. Yalçınkaya,Özlem Yalçınkaya
+933,1166,M. Özer,Metin Özer
+934,1167,N. Abacı,Nurcan Abacı
+935,1168,Y. Sezen,Yümni Sezen
+936,1169,O. Erözden,Olcay Erözden
+937,1170,C. Kutay,Cemal Kutay
+940,1173,O. Akbaş,Oya Akbaş
+941,1174,A. Durakbaşa,Ayşe Durakbaşa
+942,1175,A. Deniz,Ahmet Deniz
+943,1176,F. Uysal,Filiz Uysal
+944,1177,E. Mütercimler,Erol Mütercimler
+945,1178,Ahmet Cevdet Paşa,Ahmet Cevdet Paşa
+946,1179,M. Şölen,Mert Şölen
+947,1180,F. Kadri,Faruk Kadri
+948,1181,A. Özen,Aslıhan Özen
+949,1182,N. Başgelen,Nezih Başgelen
+950,1183,A. Nusret,Aysel Nusret
+951,1184,H. Alkan,Halûk Alkan
+952,1185,E. Eroğlu,Ebubekir Eroğlu
+953,1186,Ş. S. Okay,Şenay Sezen Okay
+954,1187,S. Kazmaz,Süleyman Kazmaz
+955,1188,M. Kömür,Murat Kömür
+956,1189,M. Kışlalıoğlu,Mine Kışlalıoğlu
+957,1190,N. Şentürk,Nazır Şentürk
+958,1191,S. Gürtürk,Sami Gürtürk
+959,1192,K. Özsezgin,Kaya Özsezgin
+960,1193,U. Mumcu,Uğur Mumcu
+961,1194,F. Türkoğlu,Faruk Türkoğlu
+962,1195,A. B. Ercilasun,Ahmet Bican Ercilasun
+963,1196,Ö. Öztekin,Özge Öztekin
+964,1197,N. S. Banarlı,Nihat Sami Banarlı
+965,1198,A. A. Adıvar,Abdülhak Adnan Adıvar
+966,1199,M. İ. Şimşek,M. İhsan Şimşek
+967,1200,B. Karasu,Bilge Karasu
+968,1201,G. Düzgün,Gülhan Düzgün
+969,1202,Y. Asal,Yusuf Asal
+970,1203,N. Güreli,Nail Güreli
+971,1204,P. Karayel,Perihan Karayel
+972,1205,U. Güzel,Uğur Güzel
+973,1206,O. Göze,Oğuz Göze
+974,1207,B. Başarır,Başar Başarır
+975,1208,H. Tolasa,Harun Tolasa
+976,1209,M. Öz,Mehmet Öz
+977,1210,D. Avcıoğlu,Doğan Avcıoğlu
+978,1211,C. R. Atilhan,Cevat Rıfat Atilhan
+979,1212,Z. Halim,Zeyneb Halim
+980,1213,M. Bulut,Mehmet Bulut
+981,1214,İ. H. Temel,İbrahim Halil Temel
+982,1215,M. Kentel,Mehmet Kentel
+983,1216,H. C.Tanju,Haluk Cemil Tanju
+984,1217,M. Tuzcuoğlu,Müge Tuzcuoğlu
+985,1218,N. Doymuş,Namık Doymuş
+986,1219,D. Derman,Deniz Derman
+987,1220,S. G. Aslaner,Serda Gül Aslaner
+988,1221,A. İnan,Afet İnan
+989,1222,S. Fırat,Sabri Fırat
+990,1223,G. Cindemir,Gökhan Cindemir
+991,1224,C. Bozkurt,Cuma Bozkurt
+992,1225,M. B. Ayaz,M. Bayram Ayaz
+993,1226,C. Çiçek,Cumali Çiçek
+994,1227,S. Kandoğmuş Şahin,Selvigül Kandoğmuş Şahin
+995,1228,S. Kuyumcu,Süleyman Kuyumcu
+996,1229,B. Uysal,Burhanettin Uysal
+997,1230,E. Barın,Esra Barın
+998,1231,Y. Onay,Yılmaz Onay
+999,1232,H. Durucan,Halit Durucan
+1000,1233,S. Saygı,Sevgi Saygı
+1001,1234,S. Demirci,Senai Demirci
+1002,1235,S. Sözen,Suzan Sözen
+1003,1236,D. Şahin,Dilan Şahin
+1004,1237,F. Uslu,Fadime Uslu
+1005,1238,S. Güngörürler,Sevim Güngörürler
+1006,1239,Ö. Yurdalan,Özcan Yurdalan
+1007,1240,N. Ersan,Nihal Ersan
+1008,1241,E. Atabek,Erdal Atabek
+1009,1242,S. Aren,Sadun Aren
+1010,1243,M. S. Küçükaşçı,Mustafa Sabri Küçükaşçı
+1011,1244,N. Elibol,Nejat Elibol
+1012,1245,Z. Coşkun,Zebercet Coşkun
+1013,1246,G. Zileli,Gün Zileli
+1014,1247,E. Kesal,Ercan Kesal
+1015,1248,A. Gencer Tunçyürek,Aslı Gencer Tunçyürek
+1016,1249,K. Yılmaz,Kâmil Yılmaz
+1017,1250,S. Oğuzertem,Süha Oğuzertem
+1018,1251,S. Gürbüz Özeren,Sara Gürbüz Özeren
+1019,1252,M. A. Ertaş,Mehmet Akif Ertaş
+1020,1253,T. Güven,Turan Güven
+1021,1254,Ü. Şahin,Ümit Şahin
+1022,1255,İ. U. Yavuz,İbrahim Ulvi Yavuz
+1023,1256,C. Canlı,Cemalettin Canlı
+1024,1257,M. Çulcu,Murat Çulcu
+1025,1258,Y. Özkaya,Yücel Özkaya
+1026,1259,Z. Uymur,Zeynep Uymur
+1027,1260,H. Turnalı,Hürriyet Turnalı
+1028,1261,M. K. Baş,Münire Kevser Baş
+1029,1262,N. Gültepe,Necati Gültepe
+1031,1264,Z. Bingöl,Zeki Bingöl
+1032,1265,G. Adaklı,Gülseren Adaklı
+1033,1266,A. Açıkgöz,Ahmet Açıkgöz
+1034,1267,H. İbrahim,Halil İbrahim
+1035,1268,F. Serdar,Filiz Serdar
+1036,1269,İ. Alpaslan,İsmet Alpaslan
+1037,1270,H. Fakioğlu Bağcı,Hatice Fakioğlu Bağcı
+1038,1271,S. Emir,Sabahat Emir
+1039,1272,İ. Güzel,İbrahim Güzel
+1040,1273,M. Adıbeş,Mahir Adıbeş
+1041,1274,E. Erdoğdu,Ebubekir Erdoğdu
+1042,1275,İ. Köken,İbrahim Köken
+1043,1276,M. Cimi,Mehmet Cimi
+1044,1277,M. Açıl,Mahmut Açıl
+1045,1278,H. Z. Ülken,Hilmi Ziya Ülken
+1046,1279,N. A. Banoğlu,Niyazi Ahmet Banoğlu
+1047,1280,M. Fuat,Memet Fuat
+1048,1281,A. Bektan,Ali Bektan
+1049,1282,M. Çayırdağ,Mehmet Çayırdağ
+1050,1283,E. Bağ,Eyüp Bağ
+1051,1284,H. Menç,Hüseyin Menç
+1052,1285,M. Solmaz,Metin Solmaz
+1053,1286,B. Kutlu Atay,Başak Kutlu Atay
+1054,1287,A. Çeker,Alper Çeker
+1055,1288,C. Çalgüner,Cemil Çalgüner
+1056,1289,U. Günay,Umay Günay
+1057,1290,B. Öztin Koparanoğlu,Belkıs Öztin Koparanoğlu
+1058,1291,F. Akatlı,Füsun Akatlı
+1059,1292,Ş. Ural,Şafak Ural
+1060,1293,D. Uçar,Demet Uçar
+1061,1294,T. Kır,Tuba Kır
+1062,1295,N. Özbek,Nizamettin Özbek
+1063,1296,S. K. Karaalioğlu,Seyit Kemal Karaalioğlu
+1064,1297,A. Yılmaz,Aytekin Yılmaz
+1066,1299,Y. Aktaş,Yaşar Aktaş
+1067,1300,Z. Akçakaya,Zehra Akçakaya
+1069,1302,A. Akbay Yarpuzlu,Ayşegül Akbay Yarpuzlu
+1071,1304,M. Dizer,Muammer Dizer
+1072,1305,Ş. G. Karacan,Şebnem Güler Karacan
+1073,1306,A. Balboa,Aylin Balboa
+1074,1307,Z. K. Coşkun,Zeki Kayahan Coşkun
+1075,1308,H. İ. Bahar,Halil İbrahim Bahar
+1076,1309,Ö. Z. Altan,Ömer Zühtü Altan
+1077,1310,A. Ivgın,Ali Ivgın
+1078,1311,R. Sönmezsoy,Refik Sönmezsoy
+1079,1312,İ. H. Tonguç,İsmail Hakkı Tonguç
+1080,1313,Y. Demirkaya,Yüksel Demirkaya
+1081,1314,N. Kırsaçlı Duran,Nurcan Kırsaçlı Duran
+1082,1315,İ. Artuç,İbrahim Artuç
+1083,1316,E. Zat,Erdir Zat
+1084,1317,M. Akus,Meriç Akus
+1085,1318,N. Güngör,Necati Güngör
+1086,1319,U. Güner,Utku Güner
+1087,1320,B. S. Ediboğlu,Bâki Süha Ediboğlu
+1088,1321,N. A. Doster,Neşe Aküzüm Doster
+1089,1322,M. Aycı,Mehmet Aycı
+1090,1323,G. Gülsevin,Gürer Gülsevin
+1091,1324,M. Argunşah,Mustafa Argunşah
+1092,1325,S. Özertem,Süha Özertem
+1093,1326,S. Bayramoğlu,Sonay Bayramoğlu
+1094,1327,H. Kaya,Hümeyra Kaya
+1095,1328,T. Ergene,Teoman Ergene
+1096,1329,Ö. Ergiydiren,Özcan Ergiydiren
+1097,1330,S. Mutver,Sinan Mutver
+1099,1332,Ü. Fışkın,Ümit Fışkın
+1100,1333,H. Cöntürk,Hüseyin Cöntürk
+1101,1334,İ. Cem,İsmail Cem
+1102,1335,M. Karakuş,Müslüm Karakuş
+1103,1336,A. Kekeç,Ahmet Kekeç
+1104,1337,G. Gencer,Gün Gencer
+1105,1338,H. Mutlu,Havva Mutlu
+1106,1339,S. Engin,Sabahattin Engin
+1107,1340,Z. Korkmaz,Zeynep Korkmaz
+1108,1341,H. Bardakçı,Halit Bardakçı
+1109,1342,E. Ercan,Enver Ercan
+1110,1343,C. Tuncer,Cengiz Tuncer
+1111,1344,M. Kurtoğlu,Mehmet Kurtoğlu
+1112,1345,R. Kurtoğlu,Ramazan Kurtoğlu
+1113,1346,A. Dursun,Aysun Dursun
+1114,1347,M. Yardımcı,Mehmet Yardımcı
+1115,1348,M. Cemal,Mustafa Cemal
+1116,1349,M. S. Karayel,M. Sami Karayel
+1117,1350,F. Elekberli,Faik Elekberli
+1118,1351,Ebüzziya Tevfik,Ebüzziya Tevfik
+1119,1352,M. Aydın,Mehmet Aydın
+1121,1354,U. Barlas,Uğurol Barlas
+1122,1355,Y. Köse,Yakup Köse
+1123,1356,O. Ö. Dora,O. Özcan Dora 
+1124,1357,C. Culpan,Cevdet Culpan
+1125,1358,Y. K. Kaya,Yahya Kemal Kaya
+1126,1359,S. H. Eldem,Sedad Hakkı Eldem
+1127,1360,B. Falay,Burak Falay
+1128,1361,R. Aker,Raşit Aker
+1129,1362,N. Okan,Nimet Okan
+1130,1363,M. Gürses,Melek Gürses
+1131,1364,E. Sarı,Emre Sarı
+1132,1365,S. Özbudun,Sibel Özbudun
+1133,1366,Ü. Burhan,Ülkü Burhan
+1134,1367,M. S. Kütükoğlu,Mübahat S. Kütükoğlu
+1135,1368,O. Tüleylioğlu,Orhan Tüleylioğlu
+1136,1369,O. B. Kula,Onur Bilge Kula
+1137,1370,,
+1138,1371,F. Bayram,Fatma Bayram
+1139,1372,K. Ş. Batıbey,Kemâl Şevket Batıbey
+1140,1373,A. Çelik,Aysun Çelik
+1141,1374,T. T. İnan,Tüzün Tolga İnan
+1142,1375,V. Çavlı,Vivet Çavlı
+1143,1376,M. Ö. Mengüşoğlu,Metin Önal Mengüşoğlu
+1144,1377,K. Toygar,Kâmil Toygar
+1145,1378,K. Arı,Kemal Arı
+1146,1379,B. Güvenç,Bozkurt Güvenç
+1147,1380,K. Üstünova,Kerime Üstünova
+1148,1381,N. Öktem,Niyazi Öktem
+1149,1382,V. Bayhan,Vehbi Bayhan
+1150,1383,S. Gökmen,Salih Gökmen
+1151,1384,A. Karaca,Alâattin Karaca
+1152,1385,İ. Engin,İsmail Engin
+1153,1386,A. Y. Ocak,Ahmet Yaşar Ocak
+1155,1388,R. Okçabol,Rıfat Okçabol
+1156,1389,H. Alpaslan,Hamdi Alpaslan
+1157,1390,M. İ. Erdost,Muzaffer İlhan Erdost
+1158,1391,M. Yazıcıoğlu,Muhsin Yazıcıoğlu
+1159,1392,İ. Tekeli,İlhan Tekeli
+1161,1394,K. Tuncel,Kürşat Tuncel
+1162,1395,N. Muallimoğlu,Nejat Muallimoğlu
+1163,1396,Y. Sencer,Yakut Sencer
+1164,1397,M. Z. Üskül,Mehmet Zafer Üskül
+1165,1398,S. Savran,Sungur Savran
+1166,1399,K. Aydın,Köksal Aydın
+1167,1400,E. Tuncer,Erol Tuncer
+1168,1401,E. Han,Ergül Han
+1169,1402,A. E. Özgür,Ali Ercan Özgür
+1170,1403,S. Aşkın,Samim Aşkın
+1171,1404,Musahipzade Celal,Musahipzade Celal
+1172,1405,A. Uğur,Aydın Uğur
+1174,1407,A. Çamalan,Ahmet Çamalan
+1175,1408,M. Tarakçı,Mustafa Tarakçı
+1176,1409,A. Ünal,Ayfer Ünal
+1177,1410,T. Cücenoğlu,Tuncer Cücenoğlu
+1178,1411,A. Taneri,Aydın Taneri
+1179,1412,D. Gürel,Dilara Gürel
+1180,1413,E. Akıllı,Erman Akıllı
+1181,1414,İ. Soysal,İsmail Soysal
+1182,1415,S. Metintaş,Selma Metintaş
+1183,1416,A. Sirman,Alp Sirman
+1184,1417,M. Ünal,Mecit Ünal
+1185,1418,G. Taneri,Gökhan Taneri
+1186,1419,B. Çivicioğlu,Büşra Çivicioğlu
+1187,1420,A. Odyak,Adalet Odyak
+1188,1421,S. Tural,Secattin Tural
+1189,1422,N. Ö. Çuhadar,Nuriye Özlem Çuhadar
+1190,1423,S. Erdemli,Sinan Erdemli
+1191,1424,M. Gülmez,Mesut Gülmez
+1192,1425,R. Aybay,Rona Aybay
+1193,1426,M. Işık,Murşit Işık-Reşit Kolay
+1194,1427,A. Cengizhan,Ali Cengizhan
+1195,1428,Y. Çağlar,Yücel Çağlar
+1196,1429,F. Türkmenoğlu,Fatih Türkmenoğlu
+1197,1430,S. Turhan,Salih Turhan
+1199,1432,A. Oktay,Ahmet Oktay
+1200,1433,S. E. Balkır,Süleyman Edip Balkır
+1201,1434,A. M. Olcay,Ayşe Mine Olcay
+1202,1435,K. Ulusoy,Kıvanç Ulusoy
+1203,1436,C. Güler,Ceyhun Güler
+1204,1437,A. S. Akat,Asaf Savaş Akat
+1205,1438,Z. Taştan,Zeki Taştan
+1206,1439,N. Mazıcı,Nurşen Mazıcı
+1207,1440,T. Demiray,Tahsin Demiray
+1208,1441,E. E. Ergir,Ertuğrul Erol Ergir
+1209,1442,M. Musaoğlu,Mehman Musaoğlu
+1210,1443,Talat Bey,Talat Bey
+1211,1444,A. Bilgi,Alaattin Bilgi
+1212,1445,B. Saka,Barış Saka
+1213,1446,S. Günüç,Selim Günüç
+1214,1447,T. Alkan,Türker Alkan
+1215,1448,S. Selçuk,Sami Selçuk
+1217,1450,C. Özusan,Cuma Özusan
+1218,1451,İ. Soysal,İlhami Soysal
+1219,1452,A. Gölpınarlı,Abdülbaki Gölpınarlı
+1220,1453,Ş. Tortop,Şerife Tortop
+1221,1454,A. Kartal,Ahmet Kartal
+1222,1455,İ. Bertan,İsmet Bertan
+1223,1456,U. Karaca,Uğur Karaca
+1224,1457,H. Tanyu,Hikmet Tanyu
+1225,1458,A. Akakuş Akgün,Ayşegül Akakuş Akgün
+1226,1459,H. Bıçakcı,Hakan Bıçakcı
+1227,1460,M. H. Umar,Mustafa Halit Umar
+1228,1461,M. Yazıcı,Mustafa Yazıcı
+1229,1462,S. Uçar,Sabahattin Uçar
+1230,1463,Z. Aygül,Zehra Aygül
+1231,1464,A. A. Taşan,A. Aziz Taşan
+1232,1465,E. Şahin,Erman Şahin
+1233,1466,Ş. Demir,Şerif Demir
+1234,1467,C. Dilçin,Cem Dilçin
+1235,1468,O. Tansel,Oğuz Tansel
+1236,1469,B. Bülbül,Banu Bülbül
+1237,1470,E. Karasu,Erdal Karasu
+1238,1471,S. Süren,Semih Süren
+1239,1472,H. Hürel,Haldun Hürel
+1240,1473,H. Adıgüzel,Hüseyin Adıgüzel
+1241,1474,F. Bingölçe,Filiz Bingölçe
+1242,1475,A. Günel,Aziz Günel
+1243,1476,D. Saral,Dursun Saral
+1244,1477,C. Çetintaş,Cengiz Çetintaş
+1245,1478,N. Akkan,Necdet Akkan
+1246,1479,M. Kaya,Murat Kaya
+1247,1480,H. Cillov,Haluk Cillov
+1248,1481,M. E. Elmacı,Mehmet Emin Elmacı
+1249,1482,V. Kocagüney,Vehbi Kocagüney
+1250,1483,T. Öğün,Tuncay Öğün
+1251,1484,N. Tarhan,Nevzat Tarhan
+1252,1485,A. Özgürel,Avni Özgürel
+1253,1486,M. Orçan,Murat Orçan
+1254,1487,M. Saygın,Mehmet Saygın
+1255,1488,N. Tunç,Nursel Tunç
+1256,1489,B. Noyan,Bedri Noyan
+1257,1490,B. Eren,Bahtiyar Eren
+1258,1491,S. Kolhan,Saim Kolhan
+1259,1492,R. Beyru,Rauf Beyru
+1260,1493,L. Neyzi,Leyla Neyzi
+1261,1494,B. Erdem,Bora Erdem
+1262,1495,M. Fatsa,Mehmet Fatsa
+1263,1496,G. Turan,Güven Turan
+1264,1497,V. Özkaya,Vecihi Özkaya
+1265,1498,A. Osmanoğlu,Ayşe Osmanoğlu
+1266,1499,İ. Görkem,İsmail Görkem
+1267,1500,Y. Keş,Yusuf Keş
+1268,1501,N. Satlıgan,Nail Satlıgan
+1269,1502,B. Tosun,Bekir Tosun
+1270,1503,M. Arda,Muhsine Arda
+1271,1504,A. Çankaya,Ali Çankaya
+1272,1505,E. Yetkin,Ela Yetkin
+1274,1507,H. Tokdemir,Hayrettin Tokdemir
+1275,1508,M. Z. Korgunal,Muharrem Zeki Korgunal
+1276,1509,C. Avcı,Cenk Avcı
+1277,1510,M. Kahramanyol,Mustafa Kahramanyol
+1278,1511,M. Ergin,Muharrem Ergin
+1279,1512,Y. Ünal,Yusuf Ünal
+1280,1513,T. Atay,Tayfun Atay
+1281,1514,A. Özgüç,Agâh Özgüç
+1282,1515,E. Subaşı,Ebubekir Subaşı
+1283,1516,O. K. Görener,Osman Kemal Görener
+1284,1517,E. Başak,Enes Başak
+1285,1518,H. Erdem,Hasan Erdem
+1286,1519,M. Kaya,Muharrem Kaya
+1287,1520,C. Suavi,Cüneyd Suavi
+1288,1521,İ. Uşar,İrem Uşar
+1289,1522,K. Has,Kadir Has
+1290,1523,M. Aslan,Mustafa Aslan
+1291,1524,M. N. Yavuz,Mehmet Niyazi Yavuz
+1292,1525,C. Tuna,Celâl Tuna
+1293,1526,G. Dal,Güney Dal
+1294,1527,Â. Kahraman,Âtıf Kahraman
+1295,1528,A. R. Saklı,Ali Rıza Saklı
+1296,1529,D. Özek,Dağhan Özek
+1297,1530,T. Uslu,Tarık Uslu
+1298,1531,Z. Güvemli,Zahir Güvemli
+1299,1532,K. M. Gül,Kubilay Mehmet Gül
+1300,1533,N. Uslu,Nasuh Uslu
+1301,1534,N. Sakaoğlu,Necdet Sakaoğlu
+1302,1535,F. Sağlam,Feyyaz Sağlam
+1303,1536,S. Kuyumcu,Sibel Kuyumcu
+1304,1537,A. Bozfırat,Ayhan Bozfırat
+1305,1538,A. Yıldız,Ali Yıldız
+1306,1539,A. Yaka,Aydın Yaka
+1307,1540,Y. Kanbolat,Yahya Kanbolat
+1308,1541,S. F. Göncüoğlu,Süleyman Faruk Göncüoğlu
+1309,1542,A. Eren,Aslı Eren
+1310,1543,E. Yakıtal,Emin Yakıtal
+1311,1544,H. Mercan,Hasan Mercan
+1312,1545,S. Sezen,Saim Sezen
+1313,1546,M. Yaşar,Mehmet Yaşar
+1314,1547,E. Kâhya,Esin Kâhya
+1315,1548,İ. Dilek,İbrahim Dilek
+1316,1549,E. Cenkmen,Emin Cenkmen
+1317,1550,A. Arslanyan,Agop Arslanyan
+1318,1551,Ş. O. Alpkaya,Şükrü Oğuz Alpkaya
+1319,1552,O. Cengiz,Oğuzhan Cengiz
+1320,1553,H. V. Velidedeoğlu,Hıfzı Veldet Velidedeoğlu
+1321,1554,C. Baban,Cihad Baban
+1322,1555,N. Köymen,Niyazi Köymen
+1323,1556,Ö. Polat,Ömer Polat
+1324,1557,S. Yemni,Sadık Yemni
+1325,1558,N. Z. Gezer,Necdet Zeki Gezer
+1326,1559,M. Ş. Güzel,Mehmet Şehmus Güzel
+1327,1560,Y. Öztuna,Y. Öztuna
+1328,1561,R. Kırıkçı,Recep Kırıkçı
+1329,1562,R. Çalışlar,Reşat Çalışlar
+1330,1563,E. Uğur,Erol Uğur
+1331,1564,H. Gerger,Haluk Gerger
+1332,1565,Ç. Ö. Özcan,Çınar Özhan Özcan
+1333,1566,N. Gedik,Neslihan Gedik
+1334,1567,E. Polat,Enver Polat
+1335,1568,G. Korkmaz,Gökhan Korkmaz
+1336,1569,A. Atun,Ata Atun
+1337,1570,E. Geven,Eda Geven
+1338,1571,T. Ural,Taceddin Ural
+1339,1572,A. Özkan,Abdullah Özkan
+1340,1573,E. Tuşalp,Erbil Tuşalp
+1341,1574,S. Hiçyılmaz,Semih Hiçyılmaz
+1342,1575,R. C. Ulunay,Refî Cevad Ulunay
+1343,1576,A. Çankırılı,Ali Çankırılı
+1344,1577,E. Bitiren,Erol Bitiren
+1345,1578,C. Yurtsever,Cezmi Yurtsever
+1346,1579,O. Belli,Oktay Belli
+1347,1580,D. Helvacı,Deniz Helvacı
+1349,1582,A. Denizli,Ali Denizli
+1350,1583,U. Keser,Ulvi Keser
+1351,1584,F. Kayacan,Feyyaz Kayacan
+1352,1585,H. Deringör,Halit Deringör
+1353,1586,N. Gökmen,Nihat Gökmen
+1354,1587,O. Aytekin,Osman Aytekin
+1355,1588,S. Tanilli,Server Tanilli
+1356,1589,S. Zaim,Sabahattin Zaim
+1357,1590,S. Bulut,Sebahattin Bulut
+1359,1592,C. Kozanoğlu,Can Kozanoğlu
+1360,1593,A. Yılmaz,Atıf Yılmaz
+1361,1594,B. Bozgeyik,Burhan Bozgeyik
+1362,1595,B. İ. Seyran,B. İsa Seyran
+1363,1596,E. Gökmen,Ertan Gökmen
+1364,1597,A. R. Kars,Ali Rıza Kars
+1365,1598,S. Özen,Saadet Özen
+1366,1599,E. Ünür,Ece Ünür
+1367,1600,İ. Aslanoğlu,İbrahim Aslanoğlu
+1368,1601,T. Bulutay,Tuncer Bulutay
+1369,1602,G. Beşe Erginsoy,Güliz Beşe Erginsoy
+1370,1603,P. Yücel Sarı,Pınar Yücel Sarı
+1371,1604,G. Karabuda,Gül Karabuda
+1372,1605,E. Demir,Ergün Demir
+1373,1606,M. Gürsoy,Melih Gürsoy
+1374,1607,E. Özbayır,Ekrem Özbayır
+1375,1608,F. Akkaya,Fevzi Akkaya
+1376,1609,S. Gündoğar,Sinan Gündoğar
+1377,1610,R. Nezih,Raif Nezih
+1378,1611,H. Aydın,Hakan Aydın
+1379,1612,M. A. Gürol,Mehmet Ali Gürol
+1380,1613,Y. Odabaşı,Yılmaz Odabaşı
+1381,1614,A. Hünalp,Ayhan Hünalp
+1382,1615,H. Özgül,Hakan Özgül
+1383,1616,H. Alkan,Hakan Alkan
+1384,1617,T. Öztin,Tahsin Öztin
+1385,1618,N. Yiğit,Nuyan Yiğit
+1386,1619,Ş. Altun,Şafak Altun
+1387,1620,C. Yılmaz,Cemal Yılmaz
+1388,1621,A. Genç,Ayşegül Genç
+1389,1622,V. O. Bener,Vüs'at Orhan Bener
+1390,1623,A. Givda,Avni Givda
+1391,1624,S. K. Aksal,Sabahattin Kudret Aksal
+1393,1626,G. Mızrak,Gürbüz Mızrak
+1394,1627,M. Eröz,Mehmet Eröz
+1395,1628,B. Ögel,Bahaeddin Ögel
+1396,1629,D. Uluç,Doğan Uluç
+1397,1630,H. R. Öktem,Haydar Rüştü Öktem
+1398,1631,A. Sevim,Ali Sevim
+1399,1632,M. Aksoy,Muammer Aksoy
+1400,1633,Selahattin Âdil Paşa,Selahattin Âdil Paşa
+1401,1634,N. Yıldırım,Nuran Yıldırım
+1402,1635,B. Yenişehirlioğlu,Bahadır Yenişehirlioğlu
+1403,1636,E. Tavuz,Emine Tavuz
+1404,1637,L. Kaleli,Lütfi Kaleli
+1405,1638,E. Cansever,Edip Cansever
+1406,1639,C. Ersen,Cavit Ersen
+1407,1640,M. Kaçan,Metin Kaçan
+1408,1641,Küçük İskender,Küçük İskender
+1409,1642,Tahsin Paşa,Tahsin Paşa
+1410,1643,A. Süğlün,Ahmet Süğlün
+1411,1644,A. H. Dursun,Ahmet Halûk Dursun
+1412,1645,E. Cihangir,Erol Cihangir
+1413,1646,İ. Berk,İlhan Berk
+1414,1647,M. Aksel,Malik Aksel
+1415,1648,S. Yurtoğlu,Selâhattin Yurtoğlu
+1416,1649,M. E. Bozkurt,Mahmut Esat Bozkurt
+1419,1652,M. Tuğrul,Mehmet Tuğrul
+1420,1653,N. Beratlı,Nazım Beratlı
+1421,1654,S. Cem,Ser Cem
+1422,1655,B. Ocak,Başak Ocak
+1423,1656,M. Ş. Örs,Mehmet Şakir Örs
+1424,1657,A. Ş. Ak,Ahmet Şahin Ak
+1425,1658,M. Arabul,Muzaffer Arabul
+1426,1659,G. Öztürk,Güzin Öztürk
+1427,1660,B. Şener,Binnur Şener
+1428,1661,O. Okay,Orhan Okay
+1429,1662,A. İ. Sabis,Ali İhsan Sabis
+1430,1663,M. E. Erişirgil,Mehmet Emin Erişirgil
+1431,1664,F. M. Emecen,Feridun Mustafa Emecen
+1432,1665,A. Suver,Akkan Suver
+1433,1666,C. F. Başkut,Cevat Fehmi Başkut
+1434,1667,B. Yıldız,Bekir Yıldız
+1435,1668,B. Balcıoğlu,Barış Balcıoğlu
+1436,1669,H. R. Çongur,H. Rıdvan Çongur
+1437,1670,L. Köselioğlu,Lütfü Köselioğlu
+1438,1671,B. Akarsu,Bedia Akarsu
+1439,1672,A. Çelik,Abdullah Çelik
+1440,1673,A. Oy,Aydın Oy
+1441,1674,R. H. Özdem,Ragıp Hulusi Özdem
+1442,1675,K. Ateş,Kemal Ateş
+1443,1676,C. Beğenç,Cahit Beğenç
+1444,1677,O. N. Ergin,Osman Nuri Ergin
+1445,1678,M. N. Özgür,M. Necat Özgür
+1446,1679,A. M. Armağan,A. Munis Armağan
+1447,1680,M. Z. Pakalın,Mehmed Zeki Pakalın
+1448,1681,A. Mahiroğlu,Adnan Mahiroğlu
+1449,1682,N. Sefercioğlu,Necmeddin Sefercioğlu
+1450,1683,Ş. Kurdakul,Şükran Kurdakul
+1451,1684,Y. S. Ulu,Yavuz Sinan Ulu
+1452,1685,V. M. Kocatürk,Vasfi Mahir Kocatürk
+1453,1686,A. N. Kurat,Akdes Nimet Kurat
+1454,1687,Ş. H. Akalın,Şükrü Halûk Akalın
+1455,1688,A. F. Cebesoy,Ali Fuat Cebesoy
+1456,1689,A. Öymen,Altan Öymen
+1457,1690,F. Sevim,Fuat Sevim
+1459,1692,F. Şensoy,Ferhan Şensoy
+1460,1693,N. H. Neyzi,Nezih Halim Neyzi
+1461,1694,M. Ayaşlı,Münevver Ayaşlı
+1462,1695,V. Türkali,Vedat Türkali
+1463,1696,N. Özdemir,Nurdane Özdemir
+1465,1698,H. R. Tankut,Hasan Reşit Tankut
+1466,1699,E. Artun,Erman Artun
+1467,1700,T. İleri,Tevfik İleri
+1468,1701,E. Gözügüzelli,Emete Gözügüzelli
+1469,1702,A. Budak,Ali Budak
+1470,1703,Y. Karakurt,Yahya Karakurt
+1471,1704,C. Akar,Celal Akar
+1473,1706,A. Akar,Atillâ Akar
+1474,1707,B. Kaya,Bayram Kaya
+1475,1708,K. H. Koray,Kenan Hulûsi Koray
+1476,1709,Ö. Özgür,Özlem Özgür
+1477,1710,S. E. Ertem,Sadri Etem Ertem
+1478,1711,İ. C. Atılcan,İhsan Coşkun Atılcan
+1479,1712,İ. Bardakçı,İlhan Bardakçı
+1480,1713,H. Su,Hüseyin Su
+1482,1715,M. Selekler,Macit Selekler
+1483,1716,T. Cebeci,Tuba Cebeci
+1484,1717,M. Tanaç Zeren,Mine Tanaç Zeren
+1485,1718,A. Dönmez,Adem Dönmez
+1486,1719,G. Bekdemir,Gültekin Bekdemir
+1487,1720,B. Yılmaz,Beyzanur Yılmaz
+1488,1721,A. R. Öge,Ali Rıza Öge
+1489,1722,E. A. Tayşir,Eyüp Aygün Tayşir
+1490,1723,T. N. Eralp,T. Nejat Eralp
+1491,1724,S. Yeşildağ,Suzan Yeşildağ
+1492,1725,Y. Dündar,Yılmaz Dündar
+1493,1726,S. Karabaş,Seyfi Karabaş
+1494,1727,A. Dorsay,Atilla Dorsay
+1495,1728,İ. Önder,İzzettin Önder
+1496,1729,B. Yılmaz,Bülent Yılmaz
+1497,1730,K. Yetiş,Kâzım Yetiş
+1498,1731,M. Akkuş,Metin Akkuş
+1499,1732,G. Özdoğan,Gülbahar Özdoğan
+1500,1733,E. Çetin,Erol Çetin
+1501,1734,N. Özön,Nijat Özön
+1502,1735,Y. Sey,Yıldız Sey
+1503,1736,M. Çoruh,Mustafa Çoruh
+1504,1737,Y. Kaynak,Yılmaz Kaynak
+1505,1738,İ. Hamamizade,İhsan Hamamizade
+1506,1739,P. Buzluk,Pelin Buzluk
+1507,1740,A. Cihan,Avşar Cihan
+1508,1741,Y. Pazarkaya,Yüksel Pazarkaya
+1509,1742,İ. Enginün,İnci Enginün
+1510,1743,H. Yorulmaz,Hüseyin Yorulmaz
+1511,1744,Y. Öz,Yusuf Öz
+1512,1745,O. Çelik,Osman Çelik
+1513,1746,A. Çelikkaya,Ayşe Çelikkaya
+1514,1747,E. Torun,Ethem Torun
+1515,1748,B. Ayan,Bülent Ayan
+1516,1749,A. Çelik,Ali Çelik
+1517,1750,C. Kayakuş,Cenk Kayakuş
+1519,1752,Y. Önge,Yılmaz Önge
+1520,1753,D. Yıldız,Doğan Yıldız
+1521,1754,M. Kesmez,Melisa Kesmez
+1522,1755,S. Balcıoğlu,Semih Balcıoğlu
+1523,1756,H. Yücebaş,Hilmi Yücebaş
+1524,1757,S. Mümtaz,Semih Mümtaz
+1526,1759,Y. Çetiner,Yılmaz Çetiner
+1527,1760,S. Tanaltay,Suna Tanaltay
+1528,1761,B. D. Erdoğan,Başak Deniz Erdoğan-Ayşegül Oğuz
+1529,1762,M. Oluç,Mehmet Oluç
+1531,1764,Ö. Başkan,Özcan Başkan
+1532,1765,E. Yavuzer,Emre Yavuzer
+1533,1766,S. Meydan,Sinan Meydan
+1534,1767,C. Eroğul,Cem Eroğul
+1535,1768,U. Baker,Ulus Baker
+1537,1770,F. Demir Güreş,Fatma Demir Güreş
+1538,1771,K. Kahramanoğlu,Kemal Kahramanoğlu
+1540,1773,S. Bala,Sabahattin Bala
+1541,1774,K. İmer,Kâmile İmer
+1542,1775,E. Yalçın,Emruhan Yalçın
+1543,1776,H. Latif,Hüseyin Latif
+1545,1778,H. Zülfikar,Hamza Zülfikar
+1546,1779,A. İpekçi,Abdi İpekçi
+1547,1780,Ş. Aktaş,Şerif Aktaş
+1548,1781,A. Göktürk,Akşit Göktürk
+1550,1783,M. K. Özgül,M. Kayahan Özgül
+1553,1786,Y. Yavuz,Yılmaz Yavuz
+1554,1787,A. Muhteremoğlu Ilgaz,Afet Muhteremoğlu Ilgaz
+1555,1788,S. Kaygusuz,Sema Kaygusuz
+1556,1789,E. Z. Karal,Enver Ziya Karal
+1557,1790,O. Cebeci,Oğuz Cebeci
+1558,1791,O. Demiralp,Oğuz Demiralp
+1559,1792,M. K. Yunusoğlu,Mağrifet K. Yunusoğlu
+1560,1793,B. Moran,Berna Moran
+1561,1794,A. Kafaoğlu Büke,Asuman Kafaoğlu Büke
+1562,1795,G. Aytaç,Gürsel Aytaç
+1564,1797,Ziya Şakir,Ziya Şakir
+1565,1798,C. O. Tütengil,Cavit Orhan Tütengil
+1566,1799,H. Refiğ,Halit Refiğ
+1567,1800,G. Bilgili,Gülderen Bilgili
+1568,1801,O. Güven,Onur Güven
+1569,1802,M. Z. Niksarlı,Mehmet Zeki Niksarlı
+1570,1803,M. Balel,Mustafa Balel
+1571,1804,M. Eloğlu,Metin Eloğlu
+1572,1805,T. N. Gencan,Tahir Nejat Gencan
+1573,1806,Ö. Asaf,Özdemir Asaf
+1574,1807,A. Akova,Akgün Akova
+1575,1808,E. Arol,Ender Arol
+1576,1809,T. Baytok,Taner Baytok
+1577,1810,M. Körükçü,Muhtar Körükçü
+1578,1811,E. Geçtan,Engin Geçtan
+1579,1812,İ. Balcı,İbrahim Balcı
+1580,1813,N. Batur,Nur Batur
+1582,1815,M. Yılmaz,Metin Yılmaz
+1583,1816,Âşık Hasan,Âşık Hasan
+1584,1817,Ç. Eroğlu,Çağatay Eroğlu
+1585,1818,T. Erer,Tekin Erer
+1586,1819,H. Can,Hayri Can
+1587,1820,M. Çelebi,Mevlüt Çelebi
+1588,1821,G. Kurt Öncel,Gülen Kurt Öncel
+1589,1822,Y. Ecevit,Yıldız Ecevit
+1590,1823,F. Yavuz,Fehmi Yavuz
+1591,1824,İ. Özalp,İnan Özalp
+1592,1825,U. Özmakas,Utku Özmakas
+1593,1826,H. Sazyek,Hakan Sazyek
+1594,1827,İ. Ş. Aydın,İsmail Şefik Aydın
+1595,1828,İ. Z. Eyüboğlu,İsmet Zeki Eyüboğlu
+1596,1829,C. Süreya,Cemal Süreya
+1597,1830,A. E. Bozyiğit,Ali Esat Bozyiğit
+1598,1831,A. Ünsal,Artun Ünsal
+1599,1832,Y. Alparslan,Yaşar Alparslan
+1600,1833,M. Selâhattin,Mehmet Selâhattin
+1601,1834,E. Candan,Ergun Candan
+1603,1836,N. Hazar,Numan Hazar
+1604,1837,C. Yavuz,Celalettin Yavuz
+1605,1838,Z. Tez,Zeki Tez
+1606,1839,M. Aça,Mehmet Aça
+1607,1840,İ. Altın,İsa Altın
+1608,1841,M. Öztürk,Murat Öztürk
+1609,1842,B. Göksel,Burhan Göksel
+1610,1843,A. Özdemir,Ali Özdemir
+1611,1844,T. Z. Tunaya,Tarık Zafer Tunaya
+1612,1845,B. Çakıroğlu,Basri Çakıroğlu
+1613,1846,K. Yeşiltaş,Kevser Yeşiltaş
+1614,1847,M. Ün,Memduh Ün
+1615,1848,F. Atasoy,Fahri Atasoy
+1617,1850,Ü. Kıvanç,Ümit Kıvanç
+1618,1851,M. Ü. Eriş,Mahir Ünsal Eriş
+1619,1852,H. Erdemir,Hüseyin Erdemir
+1620,1853,İ. Sungurbey,İsmet Sungurbey
+1621,1854,P. Ülger,Poyraz Ülger
+1622,1855,S. Z. Çetin,Salih Zeki Çetin
+1623,1856,Ç. Sunay,Çağlar Sunay
+1624,1857,M. Koraltürk,Murat Koraltürk
+1625,1858,E. Şen,Erdal Şen
+1626,1859,B. Erdoğdu,Burkay Erdoğdu
+1627,1860,L. Yavuz,Lütfullah Yavuz
+1628,1861,H. Atmaca,Hüseyin Atmaca
+1629,1862,M. Enç,Mitat Enç
+1630,1863,H. Hatemi,Hüseyin Hatemi
+1631,1864,Y. Bener,Yiğit Bener
+1633,1866,E. Yavi,Ersal Yavi
+1634,1867,M. E. Kılıç,Mahmut Erol Kılıç
+1635,1868,B. Nebati,Büşra Nebati
+1636,1869,H. Köseoğlu,Hamdullah Köseoğlu
+1637,1870,S. B. Kuş,Salih Burak Kuş
+1638,1871,M. Harmancı,Mahmut Harmancı
+1639,1872,O. Tatlı,Osman Tatlı
+1640,1873,H. Dilevurgun,Hamdi Dilevurgun
+1641,1874,M. Ayar,Mesut Ayar
+1642,1875,M. İ. İsmetoğlu,Mehmet İdo İsmetoğlu
+1643,1876,G. Dinç,Güney Dinç
+1644,1877,Ç. Kurtuluş,Çiyil Kurtuluş
+1645,1878,İ. Ohri,İskender Ohri
+1646,1879,N. Gürcan,Nedret Gürcan
+1647,1880,M. Yılmaz,Müzeyyen Yılmaz
+1648,1881,A. N. Turgut,Arif Nüshet Turgut
+1649,1882,F. Halıcı,Feyzi Halıcı
+1650,1883,R. Osma,Rabia Osma
+1651,1884,İ. Metin,İsmail Metin
+1652,1885,H. Türk,Hüseyin Türk
+1653,1886,A. Kaynardağ,Arslan Kaynardağ
+1654,1887,Y. Kocasavaş,Yıldız Kocasavaş
+1655,1888,S. Ok,Sema Ok
+1656,1889,C. Yörük,Cengiz Yörük
+1657,1890,M. Ofluoğlu,Mücap Ofluoğlu
+1658,1891,,
+1659,1892,O. Limon,Onur Limon
+1660,1893,A. İlker,Ayşe İlker
+1661,1894,İ. Emiroğlu,İbrahim Emiroğlu
+1662,1895,O. N. Gürmen,Osman Necmi Gürmen
+1663,1896,S. S. Uysal,Sermet Sami Uysal
+1664,1897,M. Tolluoğlu,Meral Tolluoğlu
+1665,1898,H. Memoğlu-Süleymanoğlu,Hayriye Memoğlu-Süleymanoğlu
+1666,1899,E. Işın,Ekrem Işın
+1667,1900,H. N. Zorlutuna,Halide Nusret Zorlutuna
+1668,1901,M. E. Yıldırım,Mehmet Emin Yıldırım
+1669,1902,E. Gürson,Eser Gürson
+1670,1903,S. Kantarcıoğlu,Sevim Kantarcıoğlu
+1671,1904,A. M. İdil,Ahmet Mümtaz İdil
+1672,1905,S. K. Türker,Sibel K. Türker
+1673,1906,V. Timuroğlu,Vecihi Timuroğlu
+1674,1907,G. Süngü,Güray Süngü
+1675,1908,N. Topçu,Nurettin Topçu
+1677,1910,H. Aktunç,Hulki Aktunç
+1678,1911,A. Özkırımlı,Atilla Özkırımlı
+1679,1912,A. Karahan,Akartürk Karahan
+1680,1913,M. O. Okay,Mehmet Orhan Okay
+1681,1914,G. Elibal,Gültekin Elibal
+1682,1915,R. Kaynar,Reşat Kaynar
+1683,1916,F. Tokar,Feyyaz Tokar
+1685,1918,M. Öcal,Mustafa Öcal
+1686,1919,S. Sargın,Sevil Sargın
+1687,1920,F. Ö. Şeran,Funda Özlem Şeran
+1688,1921,Y. Zihnioğlu,Yaprak Zihnioğlu
+1689,1922,B. Şahin,Bekir Şahin
+1690,1923,İ. Taşyürek,İlker Taşyürek
+1691,1924,B. Kutlu Atay,Başak Kutlu Atay
+1692,1925,N. Kaplan,Neşe Kaplan
+1693,1926,Y. Gül,Yusuf Gül
+1694,1927,B. Yorulmaz,Bilâl Yorulmaz
+1695,1928,E. Şama,Ekrem Şama
+1696,1929,A. U. Erşahin,Ali Uğur Erşahin
+1697,1930,E. Delebe,Erdal Delebe
+1698,1931,A. Galip,Anat Galip
+1699,1932,İ. Tombul,İhsan Tombul
+1700,1933,M. Özsan,Murat Özsan
+1702,1935,A. Erol,Ahmet Erol
+1703,1936,C. Arcayürek,Cüneyt Arcayürek
+1704,1937,Ö. Karabulut,Özcan Karabulut
+1705,1938,S. Tunaşar,Seyhun Tunaşar
+1706,1939,N. Berkes,Niyazi Berkes
+1707,1940,H. Erdem,Hüsameddin Erdem
+1708,1941,D. Dinçer,Deniz Dinçer
+1709,1942,Ş. Cındık,Şadi Cındık
+1710,1943,A. Akal,Aytül Akal
+1711,1944,E. Baba,Enes Baba
+1712,1945,K. Gençoğlu,Kaan Gençoğlu
+1713,1946,M. F. Oğuz,M. Fahri Oğuz
+1714,1947,Ş. Ceviz,Şenol Ceviz
+1715,1948,A. Keskin,Atilla Keskin
+1716,1949,İ. Palalı,İrfan Palalı
+1717,1950,M. Hekimoğlu,Müşerref Hekimoğlu
+1718,1951,M. H. Karaarslan,Mustafa Halid Karaarslan
+1719,1952,N. Özcan,Nezahat Özcan
+1720,1953,F. Yalçın,Fazlı Yalçın
+1721,1954,R. Kara,Ruhi Kara
+1722,1955,R. Köknar,Rikkat Köknar
+1723,1956,N. Köşgeroğlu,Nedime Köşgeroğlu
+1724,1957,T. Karabulut,Timur Karabulut
+1725,1958,N. Karamağaralı,Nihal Karamağaralı
+1726,1959,M. Asoğlu,Mustafa Asoğlu
+1728,1961,S. Kaya,Soner Kaya
+1730,1963,F. Altay,Fahrettin Altay
+1732,1965,O. Akınhay,Osman Akınhay
+1733,1966,C. Öztürk,Cenk Öztürk
+1734,1967,F. Tarımcıoğlu,Faik Tarımcıoğlu
+1735,1968,İ. Bozdağ,İsmet Bozdağ
+1737,1970,G. Korkmaz,Gürkan Korkmaz
+1738,1971,Y. H. Bayur,Yusuf Hikmet Bayur
+1739,1972,M. Mazak,Mehmet Mazak
+1740,1973,C. Aksu,Cemal Aksu
+1741,1974,A. Aymutlu,Ahmed Aymutlu
+1742,1975,P. Tükoğlu,Pakize Tükoğlu
+1743,1976,O. Güvemli,Oktay Güvemli
+1744,1977,Ü. Oral,Ünver Oral
+1745,1978,M. Bayrak,Mehmet Bayrak
+1746,1979,N. Akı,Niyazi Akı
+1747,1980,B. Sarısakal,Baki Sarısakal
+1748,1981,K. Sülker,Kemal Sülker
+1749,1982,R. Tanör,Reha Tanör
+1750,1983,G. Mete Yuva,Gül Mete Yuva
+1751,1984,V. Mihri,Vefa Mihri
+1752,1985,A. Elevli,Avni Elevli
+1753,1986,F. Hepçilingirler,Feyza Hepçilingirler
+1754,1987,F. Erbulak,Füsun Erbulak
+1755,1988,N. Behram,Nihat Behram
+1756,1989,N. Boydaş,Nihat Boydaş
+1757,1990,H. Tokak,Harun Tokak
+1758,1991,N. Peker,Nurettin Peker
+1759,1992,S. Küçük,Seda Küçük
+1760,1993,V. R. Sevig,Vasfi Raşid Sevig
+1761,1994,A. Kal’a,Ahmet Kal’a
+1762,1995,H. Cin,Halil Cin
+1764,1997,İ. Türk,İsmail Türk
+1765,1998,T. İybar,Tahsin İybar
+1766,1999,Ç. Gülersoy,Çelik Gülersoy
+1767,2000,M. Ukray,Murat Ukray
+1768,2001,A. Akca,Alim Akca
+1769,2002,H. İ. Genç,Halil İbrahim Genç
+1770,2003,N. G. Arslan,Nur Gürani Arslan
+1771,2004,H. Taşkın,Hilmi Taşkın
+1772,2005,N. Karas,Nursen Karas
+1773,2006,H. S. Aktaş,Harun Serkan Aktaş
+1774,2007,A. F. Başgil,Ali Fuat Başgil
+1775,2008,Z. Gürel,Ziya Gürel
+1776,2009,S. Kaplan,Sadettin Kaplan
+1777,2010,M. Emre,Mehmet Emre
+1778,2011,M. S. Tayşi,Mehmet Serhan Tayşi
+1779,2012,M. Şahingöz,Mehmet Şahingöz
+1780,2013,Ş. Gültekin,Şahin Gültekin
+1781,2014,T. Uzbay,Tayfun Uzbay
+1782,2015,N. Becenen,Nilgün Becenen-Aynur Sarıca
+1783,2016,N. T. Ateş,N. Toygar Ateş
+1784,2017,C. Badem,Candan Badem
+1785,2018,Ş. Pamuk,Şevket Pamuk
+1786,2019,E. Baş,Ersan Baş
+1787,2020,N. Göle,Nilüfer Göle – Kenan Çayır
+1788,2021,S. Demirtaş,Sait Demirtaş
+1789,2022,M. Taşyürek,Muzaffer Taşyürek
+1790,2023,G. İşeri,Gülşen İşeri
+1791,2024,S. Ç. Elmalı,Seher Çarkım Elmalı
+1792,2025,B. Aksun,Belma Aksun
+1793,2026,A. S. Özbaşar,Ahmet Sera Özbaşar
+1794,2027,M. Sertoğlu,Murat Sertoğlu
+1795,2028,H. L. Sarıyüce,Hasan Lâtif Sarıyüce
+1796,2029,Vâlâ Nureddin,Vâlâ Nureddin
+1797,2030,F. Yıldırım,Filiz Yıldırım
+1798,2031,S. Ezber,Süleyman Ezber
+1799,2032,A. F. Ayral,Ali Fuat Ayral
+1800,2033,F. Yücebaş,Ferit Yücebaş
+1801,2034,B. Elçi,Burak Elçi
+1802,2035,K. Girgin,Kemal Girgin
+1803,2036,K. Berkkan,Kürşat Berkkan
+1804,2037,H. H. Yıldırım,Hasan H. Yıldırım
+1805,2038,Y. Büyükadıgüzel,Yeşim Büyükadıgüzel
+1806,2039,M. Sertbarut,Miyase Sertbarut
+1807,2040,N. Meriç,Nevin Meriç
+1808,2041,İ. Akkaş,İbrahim Akkaş
+1809,2042,Y. Dalyan,Yılmaz Dalyan
+1810,2043,T. Koç,Tahsin Koç
+1811,2044,M. M. Kansu,M. Müfit Kansu
+1812,2045,Ö. Akdemir,Özer Akdemir
+1813,2046,G. Kömürcü,Giray Kömürcü
+1814,2047,İ. H. Sunata,İ. Hakkı Sunata
+1815,2048,Ş. Baştav,Şerif Baştav
+1816,2049,O. Çetinoğlu,Oğuz Çetinoğlu
+1817,2050,A. Y. Güner,A. Yaşar Güner
+1818,2051,N. H. Uluğ,Naşit Hakkı Uluğ
+1819,2052,G. Kutal,Gülten Kutal
+1820,2053,T. Dilci,Tuncay Dilci
+1821,2054,A. Mert,Ayşem Mert
+1822,2055,H. Gostak,Habip Gostak
+1823,2056,N. Ekin,Nusret Ekin
+1824,2057,A. Hilmi,Ahmed Hilmi
+1825,2058,İ. Pazan,İbrahim Pazan
+1826,2059,M. Gürsel,Musa Gürsel
+1827,2060,E. Şeyda,Emre Şeyda
+1828,2061,T. Keçeci,Tugay Keçeci
+1829,2062,R. Tözüm,Rükneddin Tözüm
+1830,2063,E. Eren,Emrah Eren
+1831,2064,M. Çelik,Muzaffer Çelik
+1832,2065,H. Erdem,Halil Erdem
+1833,2066,A. Şasa,Ayşe Şasa
+1834,2067,R. Ziyaoğlu,Rakım Ziyaoğlu
+1835,2068,M. Tandoğan,Mustafa Tandoğan
+1836,2069,R. Çolpan,Rıza Çolpan
+1837,2070,A. Türk,Aycan Türk
+1838,2071,M. Tezcan,Mahmut Tezcan
+1839,2072,G. Güneş,Gökhan Güneş
+1840,2073,M. R. Belgesay,Mustafa Reşit Belgesay
+1841,2074,M. Akar,Metin Akar
+1842,2075,B. Aksoy,Beyza Aksoy
+1843,2076,R. Sel,Ruhi Sel
+1844,2077,U. Gökerman,Uzay Gökerman
+1845,2078,G. Türkmen,Gülüş Türkmen
+1846,2079,M. K. Dursun,Mustafa Kâmil Dursun
+1847,2080,H. Hakeri,Hakan Hakeri
+1848,2081,A. Abdulkadiroğlu,Abdülkerim Abdulkadiroğlu
+1849,2082,B. Aslan,Betül Aslan
+1850,2083,T. Duran,Tansu Duran
+1851,2084,Âşık Veli,Âşık Veli
+1852,2085,N. Devlet,Nadir Devlet
+1853,2086,A. Nil,Ayşe Nil
+1854,2087,A. Say,Ahmet Say
+1855,2088,M. Yüksel,Muammer Yüksel
+1856,2089,H. B. Öngel,Hasan Basri Öngel
+1857,2090,H. Tülüceoğlu,Hasan Tülüceoğlu
+1859,2092,T. Temir,Temirağa Temir
+1860,2093,Ş. Y. Yağan,Şahin Yüksel Yağan
+1861,2094,A. Aktar,Ayhan Aktar
+1862,2095,M. A. Eminoğlu,Mehmet Ali Eminoğlu
+1863,2096,J. Parla,Jale Parla
+1864,2097,S. Tuğtepe,Süha Tuğtepe
+1865,2098,H. Kıyar,Hüseyin Kıyar
+1866,2099,Z. V. Togan,Zeki Velidi Togan
+1867,2100,D. Özgül,Deniz Özgül
+1868,2101,S. N. Dikmen,Saide Nur Dikmen
+1869,2102,E. Üner,Ece Üner
+1870,2103,Y. Kemal,Yusuf Kemal
+1871,2104,O. Yılmaz,Orhan Yılmaz
+1872,2105,E. M. Köksal,Esad Muhlis Köksal
+1873,2106,N. Özkaya,Necdet Özkaya
+1874,2107,E. G. Sandalcı,Emil Galip Sandalcı
+1875,2108,Ç. Can,Çağdaş Can
+1876,2109,İ. Kıllıoğlu,İsmail Kıllıoğlu
+1877,2110,A. Ars,Aytaç Ars
+1878,2111,A. Kurdoğlu,Ali Kurdoğlu
+1879,2112,M. Gökman,Muzaffer Gökman
+1880,2113,A. L. Kazancı,Ahmet Lütfi Kazancı
+1881,2114,A. Neşet,Ali Neşet
+1882,2115,İ. Kaygusuz,İsmail Kaygusuz
+1883,2116,İ. S. Kalkavanoğlu,İlyas Sami Kalkavanoğlu
+1884,2117,K. Memiş,Kadriye Memiş
+1885,2118,B. Soykıran,Berk Soykıran
+1886,2119,M. Cankurtaran,Mümtaz Cankurtaran
+1887,2120,A. Abakay,Ahmet Abakay
+1888,2121,C. Gezgez Abdullah,Cafer Gezgez Abdullah
+1889,2122,M. Zaloğlu,Mustafa Zaloğlu
+1890,2123,Rıza Tevfik,Rıza Tevfik
+1891,2124,B. Uygur,Barış Uygur
+1892,2125,M. A. Çay,M. Abdulhalık Çay
+1893,2126,S. Günay,Sadi Günay
+1894,2127,,
+1895,2128,İ. Bozkurt,İbrahim Bozkurt
+1896,2129,E. Özbay,Ekrem Özbay
+1897,2130,C. Sevinçtay,Cihan Sevinçtay
+1898,2131,Z. Küçümen,Zihni Küçümen
+1899,2132,M. H. Bayrı,Mehmet Halit Bayrı
+1900,2133,N. Çeleğen,Nuriye Çeleğen
+1901,2134,H. K. Taşkıran,Hakan Kâzım Taşkıran
+1902,2135,E. Kılıç,Ezgin Kılıç
+1903,2136,T. Üzgör,Tahir Üzgör
+1904,2137,N. Akbayar,Nuri Akbayar
+1906,2139,A. Gündüz,Altay Gündüz
+1907,2140,H. Cemil,Hasan Cemil
+1908,2141,O. Turan,Osman Turan
+1909,2142,A. Çelik,Ayhan Çelik
+1910,2143,A. Budak,Ali Budak - Yusuf Belbağı
+1911,2144,M. N. Özalp,Mehmet Nazmi Özalp
+1912,2145,Z. Afşin,Zeki Afşin
+1913,2146,K. Yamak,Kemal Yamak
+1914,2147,M. Gönül,Macide Gönül
+1915,2148,H. Züber,Hüsnü Züber
+1916,2149,M. Yazıcı,Musa Yazıcı
+1917,2150,H. Odabaş,Hüseyin Odabaş
+1918,2151,O. T. Aybaş,Osman Tekin Aybaş
+1919,2152,Ş. Kutlu,Şemsettin Kutlu
+1920,2153,A. Davaz-Mardin,Aslı Davaz-Mardin
+1921,2154,D. Oğuz,Derya Oğuz
+1922,2155,N. Toksoy,Nurcan Toksoy
+1923,2156,S. S. Dedeçay,Servet Sami Dedeçay
+1924,2157,E. Burak,Ertuğrul Burak
+1925,2158,M. Kayaoğlu,Mehtap Kayaoğlu
+1926,2159,D. İmançer,Dilek İmançer
+1927,2160,E. Ezmeci,Esra Ezmeci
+1928,2161,L. Navaro,Leylâ Navaro
+1929,2162,M. Uraz,Murat Uraz
+1930,2163,A. Doğan,Ahmet Doğan
+1931,2164,M. Özcan,Muhammet Özcan
+1932,2165,T. Özertem,Tekin Özertem
+1933,2166,H. Esendir,Halit Esendir
+1934,2167,Âşık Kul Himmet,Âşık Kul Himmet
+1935,2168,D. Gürpınar,Doğan Gürpınar
+1936,2169,Z. Genç,Zeki Genç
+1937,2170,R. Yılmaz,Recep Yılmaz
+1938,2171,T. Ünal,Tahsin Ünal
+1939,2172,M. Z. Sungur,Mehmet Z. Sungur
+1941,2174,İ. M. An,İsmail Metin An
+1942,2175,U. Serdaroğlu,Ufuk Serdaroğlu
+1943,2176,F. M. Uğurlu,Fatih Mehmet Uğurlu
+1944,2177,A. Berktay Hacımirzaoğlu,Ayşe Berktay Hacımirzaoğlu
+1945,2178,Y. Özdek,Yasemin Özdek
+1946,2179,K. Fişek,Kurthan Fişek
+1947,2180,M. Arslan,Mehmet Arslan
+1948,2181,İ. Dinçer,İhsan Dinçer
+1949,2182,Ş. T. Kaptan,Şükrü Tekin Kaptan
+1950,2183,G. Tiryaki,Göksel Tiryaki
+1951,2184,Ö. Öztürk,Özhan Öztürk
+1953,2186,Z. Kitapçı,Zekeriya Kitapçı
+1954,2187,A. Giz,Adnan Giz
+1955,2188,C. Perin,Cevdet Perin
+1956,2189,A. Sefünç,Ali Sefünç
+1957,2190,F. Savaşçı,Fethi Savaşçı
+1958,2191,E. Mavioğlu,Ertuğrul Mavioğlu
+1959,2192,S. Sarıoğlu,Sezai Sarıoğlu
+1960,2193,A. Tilbe,Ali Tilbe
+1961,2194,M. Saraç,Mehmet Saraç
+1962,2195,F. Şakacı,Figen Şakacı
+1963,2196,İ. N. Taşer,İrem Nur Taşer
+1964,2197,H. Kayhan,Himmet Kayhan
+1965,2198,F. Önal,Füsun Önal
+1966,2199,H. Yılmaz,Hakkı Yılmaz
+1967,2200,S. Albek,Suzan Albek
+1968,2201,E. B. Lav,Ercümend Behzad Lav
+1969,2202,S. Elibol,Sadettin Elibol
+1970,2203,S. Karahasanoğlu,Songül Karahasanoğlu
+1971,2204,R. A. Sevengil,Refik Ahmet Sevengil
+1972,2205,N. Tanyolaç,Necmi Tanyolaç
+1973,2206,A. Tanrıverdi,Ahmet Tanrıverdi
+1974,2207,A. Duman,Ali Duman - Mehmet Azimli - Vehbi Ecer
+1975,2208,H. Döndüren,Hamdi Döndüren
+1976,2209,E. Tokdemir,Ertuğrul Tokdemir
+1977,2210,S. Ateş,Süleyman Ateş
+1978,2211,M. Önder,Mehmet Önder
+1979,2212,A. H. Alpaslan,A. H. Alpaslan
+1980,2213,K. Güdek,Kemal Güdek
+1981,2214,Z. Livaneli,Zülfü Livaneli
+1982,2215,A. Benice,Ali Benice
+1983,2216,Ö. Okyay,Özden Okyay
+1985,2218,H. Önkal,Hakkı Önkal
+1987,2220,K. İnal,Kemal İnal
+1988,2221,F. İşleyen,Faruk İşleyen
+1989,2222,H. Yalçın,Hatice Yalçın
+1990,2223,K. Alkan,Kudret Alkan
+1991,2224,A. Yaman,Ali Yaman
+1992,2225,H. Turgut,Hulûsi Turgut
+1993,2226,A. Özbay,Adem Özbay
+1994,2227,E. Duran,Ezgi Duran
+1995,2228,S. Öz,Sibel Öz
+1999,2232,Ö. Temel,Özcan Temel
+2000,2233,Y. Paşmakçı,Yücel Paşmakçı
+2001,2234,G. Özkılınç,Güney Özkılınç
+2002,2235,M. Saydur,M. Saydur
+2003,2236,M. Kırış,Mehmet Kırış
+2004,2237,K. Çeçen,Kâzım Çeçen
+2005,2238,N. Hafız,Nimetullah Hafız
+2006,2239,A. Kurter,Ajun Kurter
+2007,2240,B. Atan,Burhan Atan
+2008,2241,V. Evsal,Vedii Evsal
+2009,2242,M. B. Varlık,M. Bülent Varlık
+2010,2243,S. Günver,Semih Günver
+2012,2245,Y. Gürbüz,Yılmaz Gürbüz
+2013,2246,N. Keleş,Nevzat Keleş
+2015,2248,S. Göney,Süha Göney
+2016,2249,L. Belkıs,Lale Belkıs
+2017,2250,M. A. Asna,M. Alâeddin Asna
+2018,2251,F. Öndağ,Faruk Öndağ
+2019,2252,S. Ergiydiren,Sevinç Ergiydiren
+2020,2253,M. S. Aslankara,M. Sadık Aslankara
+2021,2254,F. Erdoğan,Fatih Erdoğan
+2022,2255,R. Yıldırım,Reyhan Yıldırım
+2023,2256,R. Ateş,Ramazan Ateş
+2024,2257,N. N. Tepedelenlioğlu,Nizamettin Nazif Tepedelenlioğlu
+2025,2258,Ö. Kosbatar,Önder Kosbatar
+2026,2259,S. Ertuğrul,Sara Ertuğrul
+2027,2260,M. Ş. Yazman,M. Şevki Yazman
+2028,2261,E. Torun,Elif Torun
+2029,2262,K. Kayalı,Kurtuluş Kayalı
+2031,2264,E. Töre,Enver Töre
+2032,2265,N. Yağız,Nebat Yağız
+2034,2267,R. Gözen,Ramazan Gözen
+2036,2269,F. Mercan,Faruk Mercan
+2037,2270,L. Tülek,Levent Tülek
+2038,2271,E. Akçiçek,Eren Akçiçek
+2039,2272,H. Süer,Hikmet Süer
+2040,2273,E. Pekin,Ersu Pekin
+2041,2274,Ü. Erginsoy,Ülkü Erginsoy
+2042,2275,M. Meriç,Murat Meriç
+2043,2276,G. Paçacı,Gönül Paçacı
+2044,2277,Ü. S. Topçuoğlu,Ümit Sayan Topçuoğlu
+2045,2278,C. Yurga,Cemal Yurga
+2046,2279,A. Makal,Ahmet Makal
+2047,2280,Ö. Yaylagül,Özen Yaylagül
+2048,2281,B. Evren,Burçak Evren
+2049,2282,Ü. Şişik,Ülkü Şişik
+2050,2283,N. S. Osmanlı,Nur Sümeyye Osmanlı
+2051,2284,G. Akyar,Gültekin Akyar
+2052,2285,H. Köksal,Hayal Köksal
+2053,2286,A. H. Koyunoğlu,Arif Hikmet Koyunoğlu
+2054,2287,N. Karaçam,Nazif Karaçam
+2055,2288,İ. Şıklar,İlyas Şıklar
+2056,2289,B. Madan,Barış Madan
+2057,2290,M. Ü. Menteş,Melih Ümit Menteş
+2058,2291,A. Ozanemre,Ali Ozanemre
+2059,2292,A. R. Akyavaş,Ahmet Ragıp Akyavaş
+2060,2293,B. Manav,Bekir Manav
+2061,2294,M. Sılay,Mehmet Sılay
+2062,2295,R. İleri,Reşat İleri
+2063,2296,K. M. Altınkaya,Kemal M. Altınkaya
+2064,2297,H. Ercan,Hamit Ercan
+2065,2298,M. Yener,Mümtaz Yener
+2066,2299,Resmî Gazete,Resmî Gazete
+2068,2301,S. Kolukırık,Suat Kolukırık
+2069,2302,G. Erçel,Gülser Erçel
+2070,2303,B. Özgüven,Burcu Özgüven
+2071,2304,İ. Topaloğlu,İsmet Topaloğlu
+2072,2305,E. Savrun,Ergenekon Savrun
+2073,2306,A. Noyan,Abdulkadir Noyan
+2074,2307,N. Aytürk,Nihat Aytürk
+2075,2308,M. Gerenler,Metin Gerenler
+2076,2309,Ö. İrman,Özkan İrman
+2077,2310,Â. Güçer,Âdem Güçer
+2078,2311,A. Aziz,Aysel Aziz
+2079,2312,N. İntepe,Nazım İntepe
+2080,2313,M. Yiğitbaş,Maksut Yiğitbaş
+2081,2314,Y. Balku,Yücel Balku
+2082,2315,M. Aksu,Meriç Aksu
+2083,2316,H. Şencan,Hüner Şencan
+2084,2317,T. Ataöv,Türkkaya Ataöv
+2085,2318,A. Ayda,Adile Ayda
+2086,2319,B. Soydan,Barış Soydan
+2087,2320,Ö. Külcü,Özgür Külcü
+2088,2321,E. Solmaz,Ercüment Solmaz
+2089,2322,G. Bektaş,Garip Bektaş
+2090,2323,G. İnanç Berkay,Gül İnanç Berkay
+2091,2324,F. Aydıner,Furkan Aydıner
+2092,2325,M. Yıldırımoğlu,Murat Yıldırımoğlu
+2093,2326,A. Sayılgan,Aclan Sayılgan
+2094,2327,F. D. Sürünme,F. Dize Sürünme
+2095,2328,S. İzcioğlu,Sabahattin İzcioğlu
+2096,2329,C. Demir,C. Demir
+2097,2330,E. Yazıcı,Emre Yazıcı
+2098,2331,Z. Turan,Zülküf Turan
+2099,2332,H. Yurdakul,Hasan Yurdakul
+2100,2333,B. S. Bozdemir,Bilal Semih Bozdemir
+2101,2334,H. Gökhan,Halil Gökhan
+2102,2335,A. Nesin,Aziz Nesin-Ali Nesin
+2103,2336,M. Atamer,Metin Atamer
+2104,2337,F. Koca,Ferhat Koca
+2105,2338,A. Bayram,Ali Bayram
+2106,2339,O. Göker,Osman Göker
+2107,2340,E. Sanay,Eyyüp Sanay
+2108,2341,S. Esen Eruz,Sakine Esen Eruz
+2109,2342,Y. Toker,Yalçın Toker
+2110,2343,İ. Açan,İbrahim Açan
+2111,2344,H. Karataş,Haydar Karataş
+2112,2345,K. Emiroğlu,Kudret Emiroğlu
+2113,2346,Ö. Mardi Bayar,Özge Mardi Bayar
+2114,2347,S. N. Ergun,Saadettin Nüzhet Ergun
+2115,2348,R. Çamuroğlu,Reha Çamuroğlu
+2116,2349,E. B. Kalkan,Engin Barış Kalkan
+2117,2350,G. Öz,Gürgen Öz
+2119,2352,R. Metel,Raşit Metel
+2120,2353,Z. F. Fındıkoğlu,Ziyaeddin Fahri Fındıkoğlu
+2121,2354,H. Altıntaş,Hayrani Altıntaş
+2122,2355,M. Avcı,Mahmut Avcı
+2123,2356,M. Atasever,Mehmet Atasever
+2124,2357,G. Müjde,Gani Müjde
+2125,2358,A. Kulak,Aydın Kulak
+2127,2360,H. Uysal,Hakan Uysal
+2128,2361,T. Cantay,Tanju Cantay
+2129,2362,M. S. Kara,Mehtap Serra Kara
+2130,2363,H. Demirtaş,Hüseyin Demirtaş
+2131,2364,V. N. Karaoğlan,Vildan Nur Karaoğlan
+2132,2365,V. R. Zobu,Vasfi Rıza Zobu
+2133,2366,A. Farz,Arslan Farz
+2134,2367,Mehmed Niyazi,Mehmed Niyazi
+2135,2368,A. Uraz,Abdullah Uraz
+2136,2369,F. Büyükünal,Feriha Büyükünal
+2137,2370,V. Engin,Vahdettin Engin
+2138,2371,M. Atilla,Mehmet Atilla
+2139,2372,Ö. A. Erginoğlu,Ömer Alim Erginoğlu
+2140,2373,R. Akın,Rıdvan Akın
+2141,2374,Y. Demir Uslu,Yeter Demir Uslu
+2142,2375,N. Çiçek,Niyazi Çiçek
+2144,2377,M. Sözen,Metin Sözen
+2146,2379,Y. A. Arsoy,Yesari Asım Arsoy
+2147,2380,B. Gökbulut,Bayram Gökbulut
+2148,2381,Y. Bahadıroğlu,Yavuz Bahadıroğlu
+2149,2382,A. Portakal,Asuman Portakal
+2150,2383,Ş. Gürsoy,Şahin Gürsoy
+2151,2384,G. Dino,Güzin Dino
+2152,2385,O. Ekici,Ozan Ekici
+2153,2386,Y. Selim,Yavuz Selim
+2154,2387,Y. Çekirge,Yavuz Çekirge
+2155,2388,Y. Akkılıç,Yılmaz Akkılıç
+2156,2389,Ş. Çamoğlu,Şemsettin Çamoğlu
+2157,2390,K. N. Duru,Kâzım Nami Duru
+2158,2391,E. Esin,Emel Esin
+2159,2392,H. Özkök,Hidayet Özkök
+2160,2393,S. Akşin,Sina Akşin
+2161,2394,M. Turhan,Mümtaz Turhan
+2162,2395,C. T. Sadıklar,Cafer Tayyar Sadıklar
+2163,2396,M. Aydemir,Melike Aydemir
+2164,2397,Y. Alparslan,Yaşar Alparslan - Ali Özturan
+2165,2398,E. Kalkan,Emir Kalkan
+2166,2399,İ. Çağlı,İlhame Çağlı
+2168,2401,Ş. K. Akar,Şevket Kâmil Akar
+2169,2402,H. Gezer,Hasan Gezer
+2170,2403,O. Karatay,Osman Karatay
+2171,2404,T. Akkuş,Turgay Akkuş
+2172,2405,R. Örsan,Rasin Örsan
+2173,2406,N. Turhan,Naile Turhan
+2174,2407,S. Ökten,Sadettin Ökten
+2175,2408,U. Kocatürk,Utkan Kocatürk
+2176,2409,A. Ş. Şerefli,Ahmet Şerif Şerefli
+2177,2410,Y. Erkan,Yusuf Erkan
+2178,2411,K. Elbingil,Kaan Elbingil
+2179,2412,V. Serdar,Vildan Serdar
+2180,2413,H. P. Kiper,H. Perihan Kiper
+2181,2414,M. Ağ,Murat Ağ
+2182,2415,N. Çağlar,Nafi Çağlar
+2183,2416,F. Duman,Faruk Duman
+2184,2417,Ü. Özünlü,Ünsal Özünlü
+2185,2418,T. Seçer,Turhan Seçer
+2186,2419,A. Bayramoğlu Alada,Adalet Bayramoğlu Alada
+2187,2420,Z. Çon,Zafer Çon
+2188,2421,B. Kamböre,Bade Kamböre
+2189,2422,A. Özkiraz,Ahmet Özkiraz
+2190,2423,Ö. S. Turan,Ömer Serkan Turan
+2191,2424,T. Demir,Talip Demir
+2192,2425,M. Öz,Murat Öz
+2193,2426,S. Eminel,Semra Eminel
+2194,2427,M. Akyol,Mete Akyol
+2195,2428,F. Onaydın,Fatih Onaydın
+2196,2429,Mehmet Semih,Mehmet Semih
+2197,2430,D. Tarsus,Deniz Tarsus
+2198,2431,S. Tekil,Süleyman Tekil
+2199,2432,T. Feyzioğlu,Turhan Feyzioğlu
+2200,2433,Mehmet Niyazi,Mehmet Niyazi Özdemir
+2201,2434,TBMM tutanakları,TBMM tutanakları
+2202,2435,A. B. Karataş,Abdülkadir Bülent Karataş
+2203,2436,Ü. Kaftancıoğlu,Ümit Kaftancıoğlu
+2204,2437,O. Tiryakioğlu,Okay Tiryakioğlu
+2206,2439,M. Kara,Mustafa Kara
+2207,2440,N. Ç. Atabey,N. Çiğdem Atabey
+2208,2441,N. Genç,Nihat Genç
+2210,2443,P. Tuğlacı,Pars Tuğlacı
+2211,2444,H. Erbay,Hasan Erbay
+2212,2445,A. Z. Kozanoğlu,Abdullah Ziya Kozanoğlu
+2213,2446,M. Bilgili,Mustafa Bilgili
+2214,2447,A. Ulukaya,Ahmet Ulukaya
+2215,2448,E. Yıldız,Ethem Yıldız
+2216,2449,M. R. Şirin,Mustafa Ruhi Şirin
+2217,2450,M. Pekdemir,Melih Pekdemir
+2218,2451,E. Cansen,Ege Cansen
+2219,2452,E. Aktel,Engin Aktel
+2220,2453,İ. Ünlüer,İhsan Ünlüer
+2221,2454,S. Tansuğ,Sezer Tansuğ
+2222,2455,E. Ataman Koç,Emine Ataman Koç
+2223,2456,M. Fuat,Memet Fuat
+2224,2457,E. Nutku,Emrullah Nutku
+2225,2458,H. Çelik,Hilmi Çelik
+2226,2459,T. Çelebi,Tülay Çelebi
+2227,2460,N. Ertaş,Neşet Ertaş
+2228,2461,E. Akpınar,Ertekin Akpınar
+2229,2462,B. Özdal,Buket Özdal
+2230,2463,H. Akpınar,Hakan Akpınar
+2231,2464,Ö. Şenyapılı,Önder Şenyapılı
+2232,2465,A. Tekin,Akgün Tekin
+2233,2466,N. B. Ceylan,Nuri Bilge Ceylan
+2234,2467,K. Öztürk,Kâzım Öztürk
+2235,2468,R. Önsoy,Rifat Önsoy
+2236,2469,M. Utar,Mahmut Utar
+2237,2470,S. Çataltepe,Sipahi Çataltepe
+2238,2471,H. Yel,Hakan Yel
+2239,2472,T. K. Makal,Tahir Kutsi Makal
+2240,2473,M. A. Aykut,Mahmut Attilâ Aykut
+2241,2474,M. Dikmen,Mutlu Dikmen
+2242,2475,İ. Güneş,İhsan Güneş
+2243,2476,Ş. Çolakoğlu,Şinasi Çolakoğlu
+2244,2477,M. Dağıtmaç,Murat Dağıtmaç - Şehadet Ekmen
+2245,2478,R. Alpaslan,Ramazan Alpaslan
+2246,2479,S. Uçar,Sevim Uçar
+2247,2480,E. Pehlivan,Ethem Pehlivan
+2249,2482,O. Sakarya,Onur Sakarya
+2250,2483,O. Makal,Oğuz Makal
+2251,2484,M. İlkin,Metin İlkin
+2252,2485,A. Y. Özemre,Ahmet Yüksel Özemre
+2253,2486,H. Çelebi,Hayati Çelebi
+2254,2487,N. Özer,Nazmi Özer
+2255,2488,İ. Ünal,İbrahim Ünal
+2256,2489,M. Önal,Mücahit Önal
+2257,2490,Cevat Rüştü,Cevat Rüştü
+2258,2491,M. Necati,Mustafa Necati
+2259,2492,M. Toker,Metin Toker
+2260,2493,İ. M. K. İnal,İbnülemin Mahmut Kemal İnal
+2261,2494,E. Afşar Aral,Esin Afşar Aral
+2263,2496,H. İpekten,Halûk İpekten
+2264,2497,A. Çelik,Ayşegül Çelik
+2265,2498,M. Beyazyüz,Murat Beyazyüz
+2266,2499,H. Ortaç,Hüsnü Ortaç
+2267,2500,A. Akyıldız,Ali Akyıldız
+2268,2501,H. Küçüktülü,Halit Küçüktülü
+2269,2502,M. Özpehlivan,Murat Özpehlivan
+2270,2503,F. Esendal,Fethi Esendal
+2271,2504,M. Çapa,Mesut Çapa
+2272,2505,Z. Özlü,Zeynel Özlü
+2273,2506,Ö. Kurtuluş,Özgür Kurtuluş
+2274,2507,B. Ünsal,Burcu Ünsal
+2275,2508,B. Öztin Koparanoğlu,Belkıs Öztin Koparanoğlu
+2276,2509,E. N. Duran,Elif Nazlı Duran
+2277,2510,E. Ayverdi,Ekrem Ayverdi
+2278,2511,F. Özdem,Filiz Özdem
+2279,2512,B. Öz,Baki Öz
+2280,2513,E. Göksü,Ekrem Göksü
+2281,2514,T. Arı,Tekgül Arı
+2282,2515,B. Darkot,Besim Darkot
+2283,2516,N. Günal,Nurten Günal
+2284,2517,S. Somersan,Semra Somersan
+2285,2518,O. Koloğlu,Orhan Koloğlu
+2286,2519,K. Olşen,Koray Olşen
+2287,2520,M. Boydak,Melih Boydak
+2288,2521,R. Unan,Rasim Unan
+2289,2522,G. Çiğdem,Güneş Çiğdem
+2290,2523,U. Kocabaşoğlu,Uygur Kocabaşoğlu
+2291,2524,F. Şahin,Faruk Şahin
+2292,2525,S. Hekimoğlu,Sertaç Hekimoğlu
+2293,2526,Ş. Eczacıbaşı,Şakir Eczacıbaşı
+2294,2527,B. T. Salihoğlu,Bekir Tuncer Salihoğlu
+2295,2528,V. Z. Serter,Vehbi Zeki Serter
+2296,2529,R. Çini,Rıfat Çini
+2297,2530,V. S. Devrim,Vahmet Saffet Devrim
+2298,2531,T. Bilgin,Turgut Bilgin
+2299,2532,A. Korkut,Ahmet Korkut
+2300,2533,F. Kurtoğlu,Fevzi Kurtoğlu
+2301,2534,T. Kütükçü,Tamer Kütükçü
+2302,2535,K. Tolga,Kemal Tolga
+2303,2536,N. N. Çam,Nuhan Nebi Çam
+2304,2537,N. Özkan,Niyazi Özkan
+2305,2538,B. Z. Yılmazer,Bahadır Ziya Yılmazer
+2306,2539,H. İ. Balkaş,Halil İbrahim Balkaş
+2307,2540,E. Engin,Emel Engin
+2308,2541,C. Çetin,Celâlettin Çetin
+2309,2542,C. S. Kırımer,Cafer Seydahmet Kırımer
+2310,2543,O. Erdem,Osman Erdem
+2311,2544,G. Mesara,Gülbün Mesara
+2312,2545,H. Kızılırmak,Hamza Kızılırmak
+2313,2546,B. Ünver,Bircan Ünver
+2314,2547,E. Caner,Emre Caner
+2315,2548,M. O. Sağırcı,Mehmet Oğuz Sağırcı
+2316,2549,M. K. Kolcuoğlu,Mutlu Kerem Kolcuoğlu
+2317,2550,N. V. Çakırhan,Nail V. Çakırhan
+2318,2551,İ. Şahinbaş,İsmail Şahinbaş
+2319,2552,N. H. Bahtiyar,Niyazi Hüseyin Bahtiyar
+2320,2553,U. Gündüz,Uğur Gündüz
+2321,2554,K. Tülücü,Kâzım Tülücü
+2322,2555,Ö. Çam,Ömer Çam
+2323,2556,S. Sezer,Sennur Sezer
+2324,2557,Y. Dursun,Yusuf Dursun
+2325,2558,E. Aysan,Eren Aysan
+2326,2559,,
+2327,2560,Z. Oral,Zeynep Oral
+2328,2561,M. Varol,Muharrem Varol
+2329,2562,P. Göktaş,Pınar Göktaş
+2330,2563,T. Turhan,Talat Turhan
+2331,2564,N. Kalkan,Nevzat Kalkan
+2332,2565,C. Burak,Cihat Burak
+2333,2566,S. Y. Arvas,Selcen Yüksel Arvas
+2334,2567,E. Karadeniz,Engin Karadeniz
+2335,2568,R. Keleş,Ruşen Keleş
+2336,2569,N. Canefe,Nergis Canefe
+2337,2570,E. Okumuş,Ejder Okumuş
+2338,2571,M. Sarıkaya,Mehmet Sarıkaya
+2339,2572,C. Şener,Cemal Şener
+2340,2573,H. Bal,Hüseyin Bal
+2341,2574,İ. C. Erseven,İlhan Cem Erseven
+2342,2575,H. Ertuğrul,Halit Ertuğrul
+2344,2577,Y. Okur,Yiğit Okur
+2345,2578,M. Keskin Köylü,Meltem Keskin Köylü
+2346,2579,Ş. Balkı,Şakir Balkı
+2347,2580,İ. Işık,İhsan Işık
+2348,2581,A. Akbıyık,Abuzer Akbıyık
+2349,2582,Ö. Akışoğlu,Özgür Akışoğlu
+2350,2583,D. Aytar,Dündar Aytar
+2352,2585,O. Yalçın,Osman Yalçın
+2353,2586,İ. Arakon,İlhan Arakon
+2355,2588,Ö. Atacık,Özcan Atacık
+2356,2589,Z. Akçagüner,Zeliha Akçagüner
+2357,2590,U. İğdemir,Uluğ İğdemir
+2358,2591,N. Yalçın,Nevzat Yalçın
+2359,2592,E. Çınar,Elif Çınar
+2360,2593,M. Akoğlan Kozak,Meryem Akoğlan Kozak
+2361,2594,M. Çelen,Meral Çelen
+2362,2595,T. Sar,Tanju Sar
+2363,2596,G. Erol,Gülbuğ Erol
+2364,2597,C. Geray,Cevat Geray
+2365,2598,S. Bayındır,Servet Bayındır
+2366,2599,H. Köroğlu,Hüseyin Köroğlu
+2367,2600,M. Apaydın,Mustafa Apaydın
+2368,2601,T. Çeviker,Turgut Çeviker
+2369,2602,Ş. F. Erlaçin,Şükrü F. Erlaçin
+2370,2603,A. Ödekan,Ayla Ödekan
+2372,2605,E. Key,Elif Key
+2373,2606,A. Kızılca,Ali Kızılca
+2374,2607,A. Erden,Aysu Erden
+2375,2608,F. C. Erdinç,F. Cengiz Erdinç
+2376,2609,D. Çetin,Duran Çetin
+2377,2610,C. Tanrıkorur,Cinuçen Tanrıkorur
+2379,2612,H. Alpin,Hakan Alpin
+2380,2613,İ. Savaş,İlhami Savaş
+2381,2614,A. Cemil,Arif Cemil
+2382,2615,A. N. Bıçakçı,Ali Naci Bıçakçı
+2383,2616,B. Yaman,Bahattin Yaman
+2384,2617,H. Evrensel,Hakan Evrensel
+2385,2618,M. Sümer,Mahmut Sümer
+2386,2619,F. Dereköylü,Fatmanur Dereköylü
+2387,2620,E. Acar,Ekrem Acar
+2388,2621,C. Berker,Caner Berker
+2390,2623,K. Temizel,Kaan Temizel
+2391,2624,Y. Değirmenci,Yaşar Değirmenci
+2392,2625,M. Karayaman,Mehmet Karayaman
+2393,2626,A. Turani,Adnan Turani
+2394,2627,A. F. Okyar,Ali Fethi Okyar
+2396,2629,Ü. Akmen,Üstün Akmen
+2397,2630,B. Semerci,Bekir Semerci
+2398,2631,G. Akın,Gülten Akın
+2399,2632,C. Otacı,Cengiz Otacı
+2400,2633,A. Altındal,Aytunç Altındal
+2401,2634,T. Çavdar,Tevfik Çavdar
+2402,2635,N. Koç,Nurettin Koç
+2403,2636,Y. Ercan,Yavuz Ercan
+2405,2638,I. Yurtışığı,Işıl Yurtışığı
+2406,2639,A. Alıcı,Akın Alıcı
+2407,2640,İ. Özkeçeci,İlhan Özkeçeci
+2408,2641,E. Güçbilmez,Erdoğan Güçbilmez
+2409,2642,M. L. Kaya,Muhammet Lütfü Kaya
+2410,2643,S. Dönmezer,Sulhi Dönmezer
+2411,2644,A. Uçan,Ali Uçan
+2412,2645,M. B. Arık,M. Bilâl Arık
+2413,2646,K. Demircan,Kadir Demircan
+2414,2647,F. Teymur Artır,Farika Teymur Artır
+2415,2648,A. Aktaş Yasa,Azize Aktaş Yasa
+2416,2649,A. L. Alkan,A. Levent Alkan
+2417,2650,S. Öztürk,Serhat Öztürk
+2418,2651,Ö. Balkılıç,Özgür Balkılıç
+2419,2652,S. F. Ülgener,Sabri F. Ülgener
+2420,2653,S. Özer Pınarbaşı,Simge Özer Pınarbaşı
+2421,2654,K. Batır,Kerem Batır
+2422,2655,E. Öz,Erkan Öz
+2423,2656,K. Alemdar,Korkmaz Alemdar
+2424,2657,S. Çağırıcı,Sabriye Çağırıcı
+2425,2658,N. U. Ucuzsatar,Necati Ulunay Ucuzsatar
+2426,2659,Z. Kuyaş,Zuhal Kuyaş
+2427,2660,Y. Gürbüz,Yaşar Gürbüz
+2428,2661,B. Şimşek,Bedrettin Şimşek
+2429,2662,K. Taşkent,Kâzım Taşkent
+2431,2664,E. Mataracı,Ertan Mataracı
+2432,2665,B. B. Alperen,Bilâl Bülent Alperen
+2434,2667,Z. Öztek,Zafer Öztek
+2435,2668,K. Bayram,Kemal Bayram
+2436,2669,F. İzbudak Akıncı,Ferda İzbudak Akıncı
+2437,2670,S. Koca,Salih Koca
+2438,2671,A. Kurtkan Bilgiseven,Amiran Kurtkan Bilgiseven
+2439,2672,V. Kanetti,Vivet Kanetti
+2440,2673,K. Özen,Kutlu Özen
+2441,2674,D. Kadıoğlu,Demirhan Kadıoğlu
+2442,2675,F. S. Oral,Fuat Süreyya Oral
+2443,2676,H. Uluğbay,Hikmet Uluğbay
+2444,2677,S. Kılıçoğlu,Safa Kılıçoğlu
+2445,2678,Ö. Demircan,Ömer Demircan
+2446,2679,S. Eyice,Semavi Eyice
+2447,2680,Memduh Şevket Paşa,Memduh Şevket Paşa
+2448,2681,C. Akçakayalıoğlu,Cihat Akçakayalıoğlu
+2449,2682,S. Akinan,Serdar Akinan
+2450,2683,H. Y. Biçen,Hüseyin Yüksel Biçen
+2451,2684,M. Karpuzcu,Mehmet Karpuzcu
+2452,2685,S. Çakır,Serkan Çakır
+2453,2686,A. Nacaroğlu,Arif Nacaroğlu
+2454,2687,H. M. Yalçıner,H. Mustafa Yalçıner
+2455,2688,A. Alp,Aycan Alp
+2456,2689,O. Ulagay,Osman Ulagay
+2458,2691,Y. Silier,Yıldız Silier
+2459,2692,N. Onk,Nizamettin Onk
+2460,2693,A. Tacemen,Ahmet Tacemen
+2461,2694,N. Öner,Nazmi Öner
+2462,2695,A. B. Altunboğa,A. Bilâl Altunboğa
+2463,2696,TBMM tutanakları,TBMM tutanakları
+2464,2697,D. Akhanlı,Doğan Akhanlı
+2465,2698,G. Becerikli,Gökce Becerikli
+2466,2699,M. Ş. Bülbül,M. Şahin Bülbül
+2467,2700,İ. Özmel,İsmail Özmel
+2468,2701,A. Çubukçu,Akın Çubukçu
+2469,2702,M. Esen,Mehmet Esen
+2470,2703,S. Yeşilyurt,Süleyman Yeşilyurt
+2471,2704,O. Çevik,Osman Çevik
+2472,2705,A. Kozanoğlu,Ali Kozanoğlu
+2473,2706,H. Balcı,Hilmi Balcı
+2474,2707,M. Y. Kandemir,Mehmet Yaşar Kandemir
+2475,2708,A. Arslan,Akif Arslan
+2476,2709,Z. Bayar,Zühtü Bayar
+2477,2710,M. T. Demirtepe,M. Turgut Demirtepe
+2478,2711,A. R. Gürel,Ayşe Rahşan Gürel
+2479,2712,F. Tığlı,Fatih Tığlı
+2480,2713,A. S. Odabaşı,Ahmet Sefa Odabaşı
+2481,2714,A. Aldoğan,Abuzer Aldoğan
+2482,2715,B. Bayraklı,Bayraktar Bayraklı
+2484,2717,A. Önel,Arzu Önel
+2485,2718,D. Seyhan,Dündar Seyhan
+2486,2719,A. Tekin,Akın Tekin
+2487,2720,M. Elden,Müge Elden
+2488,2721,H. Saraçoğlu,Hüseyin Saraçoğlu
+2489,2722,A. İsmail,Ahmetcan İsmail
+2490,2723,F. C. Onat,Fuat Cenk Onat
+2491,2724,M. Aydın,Mithat Aydın
+2492,2725,M. Cemiloğlu,Mustafa Cemiloğlu
+2493,2726,İ. G. Arcan,İ. Galip Arcan
+2494,2727,N. H. Uluğ,Naşit Hakkı Uluğ
+2495,2728,N. İslimyeli,Nüzhet İslimyeli
+2496,2729,S. Öztürk,Sırrı Öztürk
+2498,2731,Ş. Tekeli,Şirin Tekeli
+2499,2732,T. Demirdelen,Tamer Demirdelen
+2500,2733,A. C. Gazioğlu,Ahmet C. Gazioğlu
+2501,2734,D. Ateş,Doruk Ateş
+2502,2735,Z. Özge,Zeynep Özge
+2503,2736,A. Dağlar,Ali Dağlar
+2504,2737,A. K. Balkanlı,Ali Kemal Balkanlı
+2505,2738,U. Aktaş,Uğur Aktaş
+2506,2739,H. Koç,Hamdi Koç
+2507,2740,N. Sevin,Nureddin Sevin
+2508,2741,O. Karakartal,Oğuz Karakartal
+2509,2742,M. Tansu,Muzaffer Tansu
+2510,2743,L. Alev,Levent Alev
+2511,2744,B. Evren,Burçak Evren - Dilek Girgin Can
+2512,2745,Z. Bildirici,Ziyaettin Bildirici
+2513,2746,H. Hatemi,Hüsrev Hatemi
+2514,2747,M. Yurdakök,Murat Yurdakök
+2515,2748,S. A. Tan,Serhat Ahmet Tan
+2516,2749,Y. Akkaya,Yusuf Akkaya
+2517,2750,S. Kemal,Seyit Kemal
+2518,2751,M. Turan,Metin Turan
+2519,2752,B. Altuniş Gürsoy,Belkıs Altuniş Gürsoy
+2520,2753,N. Kaya,Nusret Kaya
+2521,2754,İ. Çetişli,İsmail Çetişli
+2522,2755,R. Tamer,Rauf Tamer
+2523,2756,B. Yıldız,Bahattin Yıldız
+2524,2757,O. Z. Özturanlı,O. Zeki Özturanlı
+2525,2758,P. Ergun,Pervin Ergun
+2526,2759,E. Mutlu,Erol Mutlu
+2527,2760,E. A. Bulut,Eduard Alan Bulut
+2528,2761,S. İzcioğlu,Sabahattin İzcioğlu
+2529,2762,Y. Aktar,Yücel Aktar
+2530,2763,Z. Sönmez,Zeki Sönmez
+2531,2764,Ş. Kuzgun,Şaban Kuzgun
+2532,2765,M. Atabarut,Murat Atabarut
+2533,2766,A. Olgun,Akın Olgun
+2534,2767,Y. Çoruhlu,Yaşar Çoruhlu
+2535,2768,K. Z. Taş,Kenan Ziya Taş
+2537,2770,F. Güventürk,Faruk Güventürk
+2538,2771,M. İksel,Meliha İksel
+2539,2772,E. Uluöz,Eren Uluöz
+2540,2773,A. Bayram,Ali Bayram - Özlem Cebeci
+2541,2774,A. A. Han,Ahmet Alp Han
+2542,2775,E. Maranki,Elmas Maranki - Ahmet Maranki
+2543,2776,S. Hiçşaşmaz,Serpil Hiçşaşmaz
+2544,2777,M. A. Demir,Mehmed Akif Demir - ‎Yaşar Fersahoğlu
+2545,2778,Ö. Tümer,Ömer Tümer
+2546,2779,E. Koray,Erkin Koray
+2547,2780,M. Aydın,Mahir Aydın
+2548,2781,F. Erdoğan,Fatih Erdoğan - Keriman Güldiken
+2549,2782,Â. Kahraman,Âlim Kahraman
+2550,2783,M. Pala,Mustafa Pala
+2551,2784,E. Eren,Erol Eren
+2552,2785,A. Ay,Ahmet Ay
+2553,2786,C. E. Arseven,Celâl Esat Arseven
+2554,2787,Ö. Nida,Ömer Nida
+2555,2788,A. Yiğitler,Aytaç Yiğitler
+2556,2789,H. H. Korkmazgil,Hasan Hüseyin Korkmazgil
+2557,2790,H. F. Beşik,Halit Fuat Beşik
+2558,2791,Ş. S. Aydemir,Şevket Süreyya Aydemir
+2559,2792,V. O. Bener,Vüs’at Orhan Bener
+2561,2794,M. Turgut,Mehmet Turgut
+2562,2795,C. Yücel,Can Yücel
+2563,2796,N. E. Uzun,Nadir Engin Uzun
+2564,2797,M. Söğüt,Mine Söğüt
+2565,2798,C. Y. Madran,Cumhur Yılmaz Madran
+2566,2799,M. Kabataş,Mehtap Kabataş
+2567,2800,O. Kocamaz,Oktay Kocamaz
+2568,2801,H. N. Boztepe,Halil Nihad Boztepe
+2569,2802,E. Erkoç,Ethem Erkoç
+2570,2803,P. Tınaz Gürmen,Pınar Tınaz Gürmen
+2571,2804,A. Yazmacı,Ayşegül Yazmacı
+2572,2805,M. H. Vahapoğlu,M. Hidayet Vahapoğlu
+2573,2806,M. Temel,Mehmet Temel
+2574,2807,O. Usta,Orkun Usta
+2575,2808,S. Gezgin,Suat Gezgin - Ali Efe İralı
+2576,2809,S. Özdemir,Sait Özdemir
+2577,2810,G. Suveren,Gülten Suveren
+2578,2811,N. Alan,Nevin Alan
+2579,2812,S. Ural,Selçuk Ural
+2580,2813,E. Macit,Erkan Macit
+2581,2814,Ö. Candaş,Ömür Candaş
+2582,2815,İ. Sağdilek,İlker Sağdilek
+2583,2816,K. Tilavel Turan,Kâmile Tilavel Turan - Feride Akturan
+2584,2817,A. İsmailoğulları,Adnan İsmailoğulları
+2585,2818,O. Haznedar,Ozan Haznedar
+2586,2819,K. Zengin,Kaya Zengin
+2587,2820,M. Ferik,Muhammer Ferik
+2588,2821,Âşık Abdi,Âşık Abdi
+2589,2822,H. C. Çambel,Hasan Cemil Çambel
+2590,2823,B. Parlak,Bekir Parlak
+2591,2824,O. Hanbay,Orhan Hanbay
+2592,2825,Y. O. Duman,Yiğit Oğuz Duman
+2593,2826,S. Öztemiz,Semanur Öztemiz
+2594,2827,K. Yüksel,Kerim Yüksel
+2595,2828,M. Karagözoğlu Aslıyürek,Mehlika Karagözoğlu Aslıyürek
+2596,2829,D. Ergil,Doğu Ergil
+2597,2830,N. Keleş,Nevzat Keleş
+2598,2831,İ. Kayacan,İsa Kayacan
+2599,2832,L. Aydın,Lütfiye Aydın
+2600,2833,Z. Temizel,Zekeriya Temizel
+2601,2834,H. Örgün,Halûk Örgün
+2602,2835,A. Z. Muslu,Ahmet Zeki Muslu
+2603,2836,T. Sorgun,Taylan Sorgun
+2604,2837,İ. Dumanoğlu,İlhami Dumanoğlu
+2605,2838,A. Dede,Abdürrahim Dede
+2606,2839,H. Düşmez,Hanifi Düşmez
+2607,2840,B. Yaşar,Banu Yaşar
+2609,2842,U. Yeni,Uygar Yeni
+2610,2843,E. Gürdoğan,Ersin Gürdoğan
+2611,2844,M. G. Genel,Mehmet Gökhan Genel
+2612,2845,M. Akar,Mehmet Akar
+2613,2846,M. Aksoy,Murat Aksoy
+2615,2848,E. Göka,Erol Göka
+2616,2849,A. K. Anıt,Ali Kadri Anıt
+2617,2850,L. Onat,Leylâ Onat
+2618,2851,O. Akay,Oğuz Akay
+2619,2852,E. Başak,Enes Başak - Celal Süha Dağlı
+2620,2853,C. Esin,Candan Esin
+2621,2854,D. Soyer,Dündar Soyer
+2622,2855,C. Orhon,Cüneyd Orhon
+2623,2856,S. E. Sönmezler,Süleyman E. Sönmezler
+2624,2857,F. Andaç,Feridun Andaç
+2625,2858,A. Y. Zengin,Ahmet Yaşar Zengin
+2626,2859,A. Engin,Arın Engin
+2627,2860,M. Bardakçı,M. Bardakçı
+2628,2861,A. Toros,Aykut Toros
+2629,2862,H. Ataoğlu,Hüseyin Ataoğlu
+2630,2863,E. Güngör,Erol Güngör
+2631,2864,K. Özalp,Kâzım Özalp
+2632,2865,H. Tezcan,Hülya Tezcan
+2633,2866,M. Sertoğlu,Midhat Sertoğlu
+2634,2867,E. Akyüz,Emrah Akyüz
+2635,2868,A. Güleç,Aykut Güleç
+2636,2869,F. Kasım,Ferihan Kasım
+2637,2870,M. Coral,Mehmet Coral
+2638,2871,A. A. Tırpan,Ahmed Adil Tırpan
+2639,2872,M. Köseali,Mustafa Köseali
+2640,2873,M. E. Erkal,Mustafa E. Erkal
+2641,2874,A. Özaydın,Abdülkerim Özaydın
+2642,2875,Ö. Çakır,Özlem Çakır
+2643,2876,O. Aktan,Oğuz Aktan
+2644,2877,S. Özkan,Serdar Özkan
+2645,2878,N. Altunya,Niyazi Altunya
+2646,2879,M. Barlas,Mete Barlas
+2647,2880,İ. Mantıoğlu,İsmail Mantıoğlu
+2648,2881,Ç. Varış,Çağlar Varış
+2649,2882,M. S. Koçaş,Mehmet Sadi Koçaş
+2650,2883,A. Aktaş,Ali Aktaş
+2651,2884,B. Özdeniz,Bahri Özdeniz
+2652,2885,A. Yaşargün,Abdülkadir Yaşargün
+2653,2886,F. Sümer,Faruk Sümer
+2654,2887,Ö. F. Yaldızkaya,Ömer Faruk Yaldızkaya
+2655,2888,N. Kaya,Nihat Kaya
+2656,2889,B. Eczacıbaşı,Bülent Eczacıbaşı
+2657,2890,Mesut Cemil,Mesut Cemil
+2658,2891,H. Yıldız,Halime Yıldız
+2659,2892,H. Şahin,Haluk Şahin
+2660,2893,F. Ankara,Feridun Ankara
+2661,2894,D. Topaloğlu,Dilera Topaloğlu
+2662,2895,M. Karagözoğlu Aslıyüksek,Mehlika Karagözoğlu Aslıyüksek
+2663,2896,M. Bilginer,Mesut Bilginer
+2664,2897,T. Büyükkerpiç,Tuğba Büyükkerpiç
+2665,2898,P. B. Ernas,P. Betül Ernas
+2666,2899,N. İlhan,Nadir İlhan
+2667,2900,E. Alemdağ,Ebru Alemdağ
+2668,2901,K. Erguner,Kudsi Erguner
+2669,2902,I. Kırışkan,Işın Kırışkan
+2670,2903,T. Tarcan Çandar,Tûba Tarcan Çandar
+2671,2904,Z. Kurşun,Zekeriya Kurşun
+2672,2905,H. İnalcık,Halil İnalcık
+2673,2906,L. S. Akalın,L. Sami Akalın
+2675,2908,S. Divitçioğlu,Sencer Divitçioğlu
+2677,2910,M. Ülküsal,Müstecib Ülküsal
+2678,2911,Y. Armağan,Yalçın Armağan
+2679,2912,Ü. Garih,Üzeyir Garih
+2680,2913,S. Büyükkarcı,Süleyman Büyükkarcı
+2681,2914,B. Sezer,Baykan Sezer
+2682,2915,Y. H. Erdem,Y. Hakan Erdem
+2683,2916,A. Uçman,Abdullah Uçman
+2684,2917,G. A. Ernek Alan,Gülseli Aygül Ernek Alan
+2685,2918,R. Şentürk,Recep Şentürk
+2686,2919,H. Suphi,Hamdullah Suphi
+2687,2920,A. K. Meram,Ali Kemal Meram
+2688,2921,K. Boratav,Korkut Boratav
+2689,2922,C. F. Şendil,Cihat Furkan Şendil
+2691,2924,E. Özyürek,Ercan Özyürek
+2692,2925,C. Çiftçi,Cafer Çiftçi
+2693,2926,Köroğlu,Köroğlu
+2694,2927,Fahri Celâlettin,Fahri Celâlettin
+2696,2929,A. Tohumcu,Aslı Tohumcu
+2697,2930,F. Gök,Fatma Gök
+2698,2931,Y. Donat,Yavuz Donat
+2699,2932,N. Selen,Nevin Selen
+2700,2933,O. Ş. Gökyay,Orhan Şahin Gökyay
+2701,2934,S. Albayrak,Sadık Albayrak
+2702,2935,B. Nakip,Bülent Nakip
+2703,2936,B. Özbay,Bilal Özbay
+2704,2937,Ö. Başargan,Özdemir Başargan
+2705,2938,N. Tunçdilek,Necdet Tunçdilek
+2706,2939,İ. Çalışlar,İzzettin Çalışlar
+2707,2940,H. Z. Koşay,Hamit Zübeyr Koşay
+2708,2941,H. K. Tongar,Hatice Kübra Tongar
+2709,2942,A. S. Güneyçal,Aydın Sami Güneyçal
+2711,2944,H. Akçay,Hamit Akçay
+2712,2945,O. Öndeş,Osman Öndeş
+2713,2946,F. Tilbe,Fethiye Tilbe
+2714,2947,S. Kocabay,Sabri Kocabay
+2715,2948,Ö. N. Bilmen,Ömer Nasuhi Bilmen
+2716,2949,Y. Mardin,Yusuf Mardin
+2717,2950,G. Karadağ Ağkurt,Gülhan Karadağ Ağkurt
+2718,2951,K. Karabekir,Kâzım Karabekir
+2719,2952,E. Altunay,Erhan Altunay
+2720,2953,C. Gener,Cihangir Gener
+2722,2955,Ahmet Vefik Paşa,Ahmet Vefik Paşa
+2723,2956,C. Kafkas,Cüneyt Kafkas
+2724,2957,E. Tonguç,Engin Tonguç
+2725,2958,F. Alemdar,Fatih Alemdar
+2726,2959,İ. Başgöz,İlhan Başgöz
+2727,2960,R. Karalar,Ridvan Karalar
+2728,2961,E. Güzel,Erdal Güzel
+2729,2962,M. Özel,Mustafa Özel
+2730,2963,T. Konca,Tamer Konca
+2731,2964,S. B. Uğurlu,Seyit Battal Uğurlu
+2732,2965,M. Uslu,Mustafa Uslu
+2733,2966,H. Karakuş,Hidayet Karakuş
+2734,2967,M. Belli,Mihri Belli
+2735,2968,İ. Parlatır,İsmail Parlatır
+2736,2969,M. Salman,Mustafa Salman
+2737,2970,N. Alpman,Nazım Alpman
+2739,2972,L. R. Okyay,Leyla Ruhan Okyay
+2740,2973,H. Şentürk,Hakan Şentürk
+2741,2974,A. S. Biricik,Ali Selçuk Biricik
+2742,2975,N. Aydeniz,Nurullah Aydeniz
+2743,2976,A. C. Çelebi,Ali Cihan Çelebi
+2744,2977,M. Özarslan,Metin Özarslan
+2745,2978,L. Arif,Lütfi Arif
+2746,2979,S. Aycil,Sercan Aycil
+2747,2980,S. Zaman,Süleyman Zaman
+2748,2981,C. Şakar,Cemal Şakar
+2749,2982,K. Uluer,Kemal Uluer
+2750,2983,L. Sezal,Levent Sezal
+2751,2984,S. Temimhan,Sumru Temimhan
+2752,2985,C. Erikan,Celâl Erikan
+2753,2986,Y. Gülmen,Yüksel Gülmen
+2754,2987,Y. Arıkan,Yunus Arıkan
+2755,2988,A. Kara,Abdulvahap Kara
+2756,2989,İ. Alaton,İshak Alaton
+2757,2990,M. A. Köymen,Mehmet Altay Köymen
+2758,2991,F. Topallı,Fikret Topallı
+2759,2992,G. Akıncı,Gündüz Akıncı
+2760,2993,E. Kefeli,Emel Kefeli
+2761,2994,E. Yaman,Ertuğrul Yaman
+2762,2995,Ö. Kalpakçıoğlu,Özdemir Kalpakçıoğlu
+2763,2996,Ş. Kozalı,Şükran Kozalı
+2764,2997,S. Taş,Songül Taş
+2765,2998,S. Özher,Sema Özher
+2766,2999,N. Tınas,Nezih Tınas
+2767,3000,E. Yarar,Erhan Yarar
+2768,3001,Ö. N. Soykan,Ömer Naci Soykan
+2769,3002,A. Merdivenci,Ahmet Merdivenci
+2770,3003,R. Dara,Ramis Dara
+2771,3004,H. Altay,Halife Altay
+2772,3005,Y. Altuntaş,Yener Altuntaş
+2773,3006,H. Seyidoğlu,Halil Seyidoğlu
+2774,3007,P. M. Işın,Priscilla Mary Işın
+2775,3008,E. Hiçyılmaz,Ergun Hiçyılmaz - Meral Altındal
+2776,3009,A. Birkiye,Atilla Birkiye
+2777,3010,B. E. Naliş,Birten Engin Naliş
+2778,3011,T. Görgün,Tahsin Görgün
+2779,3012,S. Sarıöz,Sezer Sarıöz
+2780,3013,A. Sipahioğlu,Ahmet Sipahioğlu
+2781,3014,O. Erdenen,Orhan Erdenen
+2782,3015,H. Mengüç,Hakan Mengüç
+2783,3016,S. Sancar,Serpil Sancar
+2784,3017,Ö. Çolakoğlu Çam,Öznur Çolakoğlu Çam
+2785,3018,H. Y. Celkan,Hikmet Yıldırım Celkan
+2786,3019,D. Yalman Polatlar,Duygu Yalman Polatlar
+2787,3020,O. Aslanoğlu,Osman Aslanoğlu
+2788,3021,Y. H. Aytekin,Y. Halûk Aytekin
+2789,3022,R. Vural,Reyhan Vural
+2790,3023,B. Özden,Bülent Özden
+2791,3024,I. Bayraktar,Işıl Bayraktar
+2792,3025,S. Almış,Sait Almış
+2793,3026,A. Martal,Abdullah Martal
+2794,3027,V. Vakkasoğlu,Vehbi Vakkasoğlu
+2795,3028,Ö. Sevinçgül,Ömer Sevinçgül
+2796,3029,Ş. Gülen,Şendoğan Gülen
+2797,3030,Z. Türkmen,Zekeriya Türkmen
+2798,3031,Ö. A. Atasoy,Ömer Adil Atasoy
+2799,3032,M. Çiftci,Mustafa Çiftci
+2800,3033,N. Serimoğlu,Nilgün Serimoğlu
+2801,3034,A. Sümbül,Ali Sümbül
+2802,3035,A. Müderrisoğlu,Alptekin Müderrisoğlu
+2803,3036,Ş. Erdoğdu,Şeref Erdoğdu
+2804,3037,M. Göktepe,Mehmet Göktepe
+2805,3038,A. A. Bolak,Ahmet Aydın Bolak
+2806,3039,T. Öztürk,Teoman Öztürk
+2807,3040,H. Karakaya,Hüseyin Karakaya
+2808,3041,N. Turinay,Necmettin Turinay
+2809,3042,Y. Çotuksöken,Yusuf Çotuksöken
+2810,3043,S. Seçkiner,Sancar Seçkiner
+2811,3044,A. Başaran,Atahan Başaran
+2812,3045,G. Atılgan,Gökhan Atılgan
+2813,3046,H. Eygü,Hakan Eygü
+2814,3047,İ. Adnan,İsmail Adnan
+2815,3048,İ. H. Balkaş,İbrahim Halil Balkaş
+2816,3049,A. Galanti,Avram Galanti
+2817,3050,Y. Besalel,Yusuf Besalel
+2818,3051,Sinan Reşat,Sinan Reşat
+2819,3052,K. Yusufoğlu,Kahraman Yusufoğlu
+2820,3053,S. S. Öğün,Süleyman Seyfi Öğün
+2821,3054,M. Gündem,Mehmet Gündem
+2822,3055,A. Takkaç,Ali Takkaç
+2824,3057,M. Karahan,Muharrem Karahan
+2825,3058,B. Onaran,Burak Onaran
+2826,3059,R. T. Burak,Ratip Tahir Burak
+2827,3060,A. N. Bayezid,Ali Naci Bayezid
+2829,3062,E. Balta,Evangelia Balta
+2830,3063,M. Bicik,Mehmet Bicik
+2831,3064,S. Karacelil,Süleyman Karacelil
+2832,3065,T. Çarıklı,Turgut Çarıklı
+2833,3066,S. Akbayır,Sıddık Akbayır
+2834,3067,A. Kılıçbay,Ahmet Kılıçbay
+2835,3068,E. Ersöz,Emin Ersöz
+2836,3069,B. Sait,Baha Sait
+2837,3070,S. Sürmen,Süleyman Sürmen
+2838,3071,A. Yürük,Ali Yürük
+2839,3072,M. Sucu Polat,Müge Sucu Polat
+2840,3073,S. Ayata,Sencer Ayata
+2841,3074,İ. Çolak,İsmail Çolak
+2842,3075,T. Kortantamer,Tunca Kortantamer
+2843,3076,E. Aksoy,Enver Aksoy
+2844,3077,C. Örs,Cüneyt Örs
+2845,3078,O. Aydın,Ozan Aydın
+2846,3079,İ. Kaplan,İsmail Kaplan
+2847,3080,A. D. Uslu,A. Didem Uslu
+2848,3081,R. Baydur,Refik Baydur
+2849,3082,M. Senar,Müzeyyen Senar
+2850,3083,S. Gençler,Serap Gençler
+2851,3084,Y. Benekay,Yahya Benekay
+2852,3085,Ahmet İzzet Paşa,Ahmet İzzet Paşa
+2853,3086,M. Sözer,Meltem Sözer
+2854,3087,N. Muhiddin,Nezihe Muhiddin
+2855,3088,G. Tekçe,Güngör Tekçe
+2856,3089,S. Aydüz,Salim Aydüz
+2857,3090,A. Ağar,Abdullah Ağar
+2858,3091,Basiretçi Ali Efendi,Basiretçi Ali Efendi
+2860,3093,D. Ergenç,Damla Ergenç
+2862,3095,Ali Nazîmâ,Ali Nazîmâ
+2863,3096,S. Sakaoğlu,Saim Sakaoğlu
+2864,3097,Ö. O. Umar,Ömer Osman Umar
+2865,3098,G. Maraş,Gökhan Maraş
+2866,3099,H. H. Top,H. Hüseyin Top
+2867,3100,H. Altun,Hanife Altun
+2868,3101,F. Çetin Kabadayı,Fatma Çetin Kabadayı
+2869,3102,T. Gümüşay,Tolga Gümüşay
+2870,3103,T. Baykara,Tuncer Baykara
+2871,3104,E. Günay,Engin Günay
+2872,3105,İ. Küçükömer,İdris Küçükömer
+2873,3106,N. Öztekin,Nezahat Öztekin
+2874,3107,İ. Erşahin,İbrahim Erşahin
+2875,3108,M. İz,Mahir İz
+2876,3109,M. N. Özön,Mustafa Nihat Özön
+2877,3110,G. Nair,Güney Nair
+2878,3111,Y. Z. Yörükan,Yusuf Ziya Yörükan
+2879,3112,Z. Yergök,Ziya Yergök
+2880,3113,A. R. Özkan,Ali Rafet Özkan
+2881,3114,O. Gümüşçü,Osman Gümüşçü
+2882,3115,M. Kılıç,Metin Kılıç
+2883,3116,M. Maviş,Mert Maviş
+2884,3117,H. Karpuz,Haşim Karpuz
+2885,3118,T. Bozkurt,Tolga Bozkurt
+2886,3119,İ. Üzüm,İlyas Üzüm
+2887,3120,M. İ. Çığ,Muazzez İlmiye Çığ
+2888,3121,H. Yurtsever,Haluk Yurtsever
+2889,3122,A. Soytürk,Ahmet Soytürk
+2891,3124,A. Ekşi,Aysel Ekşi
+2892,3125,Ü. Meriç,Ümit Meriç
+2893,3126,B. Yalman,Bedri Yalman
+2894,3127,M. S. Ünver,Mine Sultan Ünver
+2895,3128,H. Özönder,Hasan Özönder
+2896,3129,K. Sarıçelik,Kerim Sarıçelik
+2897,3130,F. Ökte,Faik Ökte
+2898,3131,E. Özarslan,Ersin Özarslan
+2899,3132,R. Sarıca,Ragıp Sarıca
+2900,3133,Ş. Halıcı,Şaduman Halıcı
+2902,3135,H. Çatalkaya,Hakan Çatalkaya
+2903,3136,A. Kazancıgil,Aykut Kazancıgil
+2904,3137,R. Çalık,Ramazan Çalık
+2905,3138,N. Çam,Nusret Çam
+2907,3140,V. Saygel,Vedat Saygel
+2908,3141,A. Us,Asım Us
+2909,3142,N. Tuğcu,Nemika Tuğcu
+2910,3143,N. Özyaycı,Nesrin Özyaycı
+2911,3144,S. G. Savcı,Sadun Galip Savcı
+2912,3145,M. Narlı,Mehmet Narlı
+2913,3146,İ. Gündağ Kayaoğlu,İ. Gündağ Kayaoğlu - Ersu Pekin
+2914,3147,S. Erdoğan,Selim Erdoğan
+2915,3148,A. Gürarslan,Alper Gürarslan
+2916,3149,M. Genç,Musa Genç
+2917,3150,S. Kayalı Türker,Sibel Kayalı Türker
+2918,3151,İ. H. Eröz,İsmail Hakkı Eröz
+2919,3152,F. Dığıroğlu,Filiz Dığıroğlu
+2920,3153,H. Akbulut,Hasan Akbulut
+2921,3154,A. M. Özyetgin,Ayşe Melek Özyetgin
+2922,3155,A. R. İşipek,Ali Rıza İşipek
+2923,3156,Y. Okur,Yamaç Okur
+2924,3157,T. Ağaoğlu,Tektaş Ağaoğlu
+2925,3158,I. Özgentürk,Işıl Özgentürk
+2926,3159,M. Ç. Uluçay,Mustafa Çağatay Uluçay
+2927,3160,D. D. Şimşek,Deniz Dengiz Şimşek
+2928,3161,Ö. H. Özalp,Ömer Hakan Özalp
+2929,3162,N. Subaşı,Necdet Subaşı
+2930,3163,A. Ataay,Aytekin Ataay
+2931,3164,Z. Kozanoğlu,Zeynep Kozanoğlu
+2932,3165,M. Gün,Mehmet Gün
+2933,3166,C. Başkent,Can Başkent
+2934,3167,A. Karaman,Abdullah Karaman
+2935,3168,Ö. Emiroğlu,Öztürk Emiroğlu
+2936,3169,G. Korat,Gürsel Korat
+2937,3170,Y. Küçükdağ,Yusuf Küçükdağ
+2940,3173,O. Genç,Ozan Genç
+2941,3174,K. Koç,Kemalettin Koç
+2942,3175,Mehmet İzzet,Mehmet İzzet
+2943,3176,S. Karakoyunlu,Sadri Karakoyunlu
+2944,3177,V. Tecim,Vahap Tecim
+2945,3178,İ. Orman,İsmail Orman
+2947,3180,M. E. Yeşil,Mehmet Emin Yeşil
+2948,3181,Âşık Seyrani,Âşık Seyrani
+2949,3182,İ. Kafesoğlu,İbrahim Kafesoğlu
+2950,3183,B. Yurtoğlu,Bilal Yurtoğlu
+2951,3184,E. Yıldırım,Elvin Yıldırım
+2952,3185,V. Öngören,Vasıf Öngören
+2953,3186,Baha Tevfik,Baha Tevfik
+2954,3187,Ş. A. Kansu,Şevket Aziz Kansu
+2955,3188,A. Uygur,Alper Uygur
+2956,3189,G. Tayfur,Gıyasettin Tayfur
+2957,3190,S. Eraslan,Sibel Eraslan
+2958,3191,Ç. Sezer,Çiğdem Sezer - İbrahim Dizman
+2959,3192,A. H. Celasun,Ali Haydar Celasun
+2960,3193,E. Demirhan,Ebru Demirhan
+2961,3194,C. Tan,Cem Tan
+2962,3195,Z. Şakir,Ziya Şakir
+2963,3196,Y. B. Bakiler,Yavuz Bülent Bakiler
+2964,3197,İ. Z. Eyüboğlu,İsmet Zeki Eyüboğlu
+2965,3198,C. Dura,Cihan Dura
+2966,3199,N. Keklik,Nihat Keklik
+2967,3200,F. Zeynelov,Ferhat Zeynelov
+2968,3201,S. Gürselgil,Selim Gürselgil
+2969,3202,Arifzade,Arifzade
+2970,3203,S. Menekay,Serra Menekay
+2971,3204,K. Perçin Akgül,Kamile Perçin Akgül
+2972,3205,A. Aydın,Ayhan Aydın
+2973,3206,S. Sezgin,Suat Sezgin
+2974,3207,F. Demirci Güler,Filiz Demirci Güler
+2975,3208,N. Pösteki,Nigar Pösteki
+2976,3209,A. Uçar,Ahmet Uçar
+2977,3210,H. A. Demirci,Hüseyin Aliyar Demirci
+2978,3211,M. Melis,Melike Melis
+2979,3212,E. Çankaya,Erol Çankaya
+2980,3213,Ç. Kurtuluş,Çiyil Kurtuluş
+2981,3214,İ. Aytekin,İbrahim Aytekin
+2982,3215,A. Böke Önder,Alper Böke Önder
+2983,3216,A. Şentürk,Alp Şentürk
+2984,3217,Y. Karayunusoğlu,Yaşar Karayunusoğlu
+2985,3218,A. R. Ergüven,Abdullah Rıza Ergüven
+2986,3219,A. Bora,Aksu Bora
+2987,3220,A. N. Göksel,Ali Nüzhet Göksel
+2988,3221,Mehmet Âsaf,Mehmet Âsaf
+2989,3222,C. Taşkıran,Celâl Taşkıran
+2991,3224,S. R. Kuğu,Süleyman Rıza Kuğu
+2992,3225,O. H. Bıldırki,Oyhan Hasan Bıldırki
+2993,3226,C. Gündemir,Cevdet Gündemir
+2994,3227,E. Güneş,Ekrem Güneş
+2995,3228,M. A. Zeren,M. Ayhan Zeren
+2996,3229,O. Yeşiltuna,Oğuzhan Yeşiltuna
+2997,3230,F. Adalı,Fatih Adalı
+2998,3231,O. Şenses,Oğuz Şenses
+2999,3232,O. İmregün,Oğuz İmregün
+3001,3234,E. Göksu,Erhan Göksu
+3002,3235,H. İ. Altınsoy,H. İlker Altınsoy
+3003,3236,F. Bakırcı,Fahri Bakırcı
+3004,3237,D. Özcan,Doğan Özcan
+3005,3238,Y. Kaya,Yalçın Kaya
+3006,3239,B. Umar,Bilge Umar
+3007,3240,C. Mıhçıoğlu,Cemal Mıhçıoğlu
+3008,3241,N. Aydın,Nurhan Aydın
+3009,3242,R. Fiş,Radi Fiş
+3010,3243,A. Buğra,Ayşe Buğra
+3011,3244,H. Faruk,Hanif Faruk
+3012,3245,İ. E. Ergenç,İsmail Erkut Ergenç
+3013,3246,E. Sevim,Engin Sevim
+3014,3247,A. Kezer,Aydın Kezer
+3015,3248,A. Kral,Arda Kral
+3016,3249,S. Kurt,Sevinç Kurt
+3017,3250,N. Özgür,Nurcan Özgür
+3018,3251,T. Erbak,Tolga Erbak
+3019,3252,M. Şahin,Metin Şahin
+3020,3253,F. Göktuna Yaylacı,Filiz Göktuna Yaylacı
+3021,3254,İ. Aksoy,İmran Aksoy
+3022,3255,N. Çağatay,Neşet Çağatay
+3023,3256,Z. Yıldız,Zekeriya Yıldız
+3024,3257,H. Aksay,Hasan Aksay
+3025,3258,N. Altunya,Niyazi Altunya
+3026,3259,S. Dingil,Süleyman Dingil
+3027,3260,E. Özkul,Ezgi Özkul
+3028,3261,S. Uyan,Salih Uyan
+3029,3262,Ö. Uluatam,Özhan Uluatam
+3030,3263,H. Aktaş,Hasan Aktaş
+3031,3264,T. Bilge,Tuğşah Bilge
+3032,3265,T. Çağdaş,Tamer Çağdaş
+3033,3266,Y. Gökmen,Yavuz Gökmen
+3035,3268,A. Ünver,Ahmet Ünver
+3036,3269,İ. Şahin,İlhan Şahin
+3037,3270,Y. Özger,Yusuf Özger
+3038,3271,E. Ayla,Elif Ayla
+3039,3272,E. Arsan,Esra Arsan
+3040,3273,İ. Akın,İlhan Akın
+3041,3274,İ. Dizman,İbrahim Dizman
+3042,3275,H. Doğan,Hasan Doğan
+3043,3276,E. Eldem,Edhem Eldem
+3044,3277,S. Somuncuoğlu,Servet Somuncuoğlu
+3045,3278,A. G. Manka,Ayşe Gülçin Manka
+3046,3279,Ö. Cankaya,Özden Cankaya
+3047,3280,G. Akbulut,Gülpınar Akbulut
+3048,3281,T. Yerlikaya,Turgay Yerlikaya
+3049,3282,Â. Kara,Âdem Kara
+3050,3283,M. Yoker,Mustafa Yoker
+3051,3284,H. Bayraktar,Hasan Bayraktar
+3052,3285,B. Önlem,Burak Önlem
+3053,3286,A. C. Saraçoğlu,Ahmet Cemaleddin Saraçoğlu
+3054,3287,Y. Meriçboyu,Yıldız Meriçboyu
+3055,3288,Y. Zeyrek,Yunus Zeyrek
+3056,3289,İ. Tongar,İsmail Tongar
+3059,3292,E. Tural,Erkan Tural
+3060,3293,A. Erarslan,Alev Erarslan
+3061,3294,T. Kurt,Tunç Kurt
+3062,3295,Y. Özşahiner,Yusuf Özşahiner
+3063,3296,M. Bayar,Muharrem Bayar
+3064,3297,A. Bağrıaçık,Atila Bağrıaçık
+3065,3298,F. Sürmeli,Fevzi Sürmeli
+3066,3299,Z. Çelikkol,Zeki Çelikkol
+3067,3300,M. Başekin,Murat Başekin
+3068,3301,M. Anıl,Mehmet Anıl
+3069,3302,M. Ziya,Mehmet Ziya
+3070,3303,Z. Demir,Ziya Demir
+3071,3304,Ö. Madra,Ömer Madra
+3072,3305,K. Z. Gençosman,Kemal Zeki Gençosman
+3073,3306,E. Akal,Emel Akal
+3074,3307,B. S. Kunt,Bekir Sıtkı Kunt
+3075,3308,R. Korkud,Refik Korkud
+3076,3309,A. Köktener,Aysun Köktener
+3077,3310,T. Cılızoğlu,Tanju Cılızoğlu
+3078,3311,E. Şahsuvar,Elif Şahsuvar
+3079,3312,M. Karahasan,Mustafa Karahasan
+3080,3313,C. Odabaşıoğlu,Cumhur Odabaşıoğlu
+3081,3314,K. Erdal,Kelime Erdal
+3082,3315,M. H. Sağlam,Mehmet Hakan Sağlam
+3083,3316,B. Altuğ,Barbaros Altuğ
+3084,3317,Y. Demiralp,Yekta Demiralp
+3085,3318,F. K. Timurtaş,Faruk Kadri Timurtaş
+3086,3319,Muzaffer Reşit,Muzaffer Reşit
+3087,3320,H. Argunşah,Hülya Argunşah
+3088,3321,N. Tan,Nail Tan
+3089,3322,N. Çömlekçi,Neclâ Çömlekçi
+3090,3323,M. A. Uz,Mehmet Ali Uz
+3091,3324,R. Kumaş,Rahmi Kumaş
+3092,3325,Y. Küçük,Yalçın Küçük
+3093,3326,R. R. Denktaş,Rauf Raif Denktaş
+3094,3327,Ö. Gürdal,Ömer Gürdal
+3095,3328,A. Ö. Üçler,Ali Ömer Üçler
+3096,3329,Ş. Pala,Şafak Pala
+3097,3330,M. E. Demirci,Mehmet Emin Demirci
+3098,3331,S. Dağlı,Süleyman Dağlı
+3099,3332,S. Sinanoğlu,Samim Sinanoğlu
+3100,3333,A. Sarısayın,Ayşe Sarısayın
+3101,3334,C. Toprakoğlu,Celâl Toprakoğlu
+3103,3336,O. Bayatlı,Osman Bayatlı
+3104,3337,G. Kıral,Gülsevin Kıral
+3105,3338,G. Sayın Kalyoncu,Güneş Sayın Kalyoncu
+3106,3339,M. A. Konukçu,Mehmet Alim Konukçu
+3107,3340,H. H. E. Erkilet,Hüseyin Hüsnü Emir Erkilet
+3108,3341,N. Tunçdilek,Necdet Tunçdilek
+3109,3342,M. C. Doğan,Mehmet Can Doğan
+3110,3343,M. Aytür,Memduh Aytür
+3111,3344,F. Adil,Fikret Adil
+3112,3345,N. Kocaarslan,Necip Kocaarslan
+3113,3346,T. Özgüç,Tahsin Özgüç
+3114,3347,Y. Aydı,Yeşim Aydı
+3115,3348,R. Akdur,Recep Akdur
+3116,3349,N. Keleş,Nevzat Keleş
+3117,3350,B. Rusçuklu,Bülent Rusçuklu
+3118,3351,R. Tosun,Resul Tosun
+3119,3352,G. Erginer,Gürbüz Erginer
+3120,3353,H. Alptekin,Halide Alptekin
+3121,3354,A. Akpınar,Ali Akpınar
+3122,3355,G. Bozkurt,Gülnihal Bozkurt
+3123,3356,F. Demirbağ,Fehmi Demirbağ
+3124,3357,S. Bora,Siren Bora
+3125,3358,A. Küçük,Abdurrahman Küçük
+3127,3360,S. Engin,Saffet Engin
+3128,3361,H. A. Turan,Hüseyinzâde Ali Turan
+3129,3362,S. Karaküçük,Suat Karaküçük
+3130,3363,A. Canıgüz,Alper Canıgüz
+3131,3364,A. Atmaca,Aylin Atmaca
+3132,3365,M. Küçük,Murat Küçük
+3133,3366,N. Erdoğan,Necmi Erdoğan
+3134,3367,M. Çakmak,Mustafa Çakmak
+3135,3368,S. Özaslan,Selâmet Özaslan
+3137,3370,K. Kamcı,Koray Kamcı
+3138,3371,S. Çelik,Semih Çelik
+3139,3372,E. N. Kaya,Ekim Nâzım Kaya
+3140,3373,S. Uludağ,Süleyman Uludağ
+3141,3374,C. Öztürk,Cemil Öztürk
+3142,3375,C. Tukin,Cemal Tukin
+3143,3376,K. Gürün,Kâmuran Gürün
+3144,3377,F. Özuğur,Fikret Özuğur
+3145,3378,A. Ersoy,Ayla Ersoy
+3146,3379,M. Çağlayan,Murat Çağlayan
+3147,3380,E. Ayaz,Eşref Ayaz
+3148,3381,G. Sururi,Gülriz Sururi
+3149,3382,E. Köksal,Ercan Köksal
+3150,3383,K. Demir,Kayahan Demir
+3151,3384,A. Aydemir,Aydın Aydemir
+3152,3385,Ece Ayhan,Ece Ayhan
+3153,3386,İ. Bilgen,İbrahim Bilgen
+3155,3388,S. Ögel,Semra Ögel
+3156,3389,E. Bektaş,Ekrem Bektaş
+3157,3390,E. Mencet,Elif Mencet
+3158,3391,A. Beyce,Alp Beyce
+3159,3392,E. Erkin,Erdoğan Erkin
+3160,3393,H. Öztekin,Halûk Öztekin
+3161,3394,Ö. Yağcı,Öner Yağcı
+3162,3395,Ş. Baytemur,Şerif Baytemur
+3163,3396,Ş. Membih,Şehat Membih
+3164,3397,M. Çolak,Mustafa Çolak
+3165,3398,M. Zenginbaş,Mustafa Zenginbaş
+3166,3399,N. Pembecioğlu,Nilüfer Pembecioğlu
+3167,3400,F. Kalkın,Fatih Kalkın
+3168,3401,E. Adalı,Eşref Adalı
+3169,3402,Ş. Ünal,Şahin Ünal
+3170,3403,V. C. Aşkun,Vehbi Cem Aşkun
+3171,3404,O. G. Baykal,Osman Gazi Baykal
+3172,3405,A. Ventura,Avram Ventura
+3173,3406,M. Abanoz,Müzeyyen Abanoz
+3174,3407,M. Yıldız,Muharrem Yıldız
+3176,3409,H. Bektaş,Habib Bektaş
+3177,3410,E. Çalış,Ercan Çalış
+3178,3411,S. Su,Süreyya Su
+3179,3412,N. Ö. Ergene,Nuri Ömer Ergene
+3180,3413,H. Y. Şehsuvaroğlu,Halûk Yusuf Şehsuvaroğlu
+3181,3414,S. Kili,Suna Kili
+3182,3415,A. Kılıç,Ali Kılıç
+3183,3416,B. Ak,Behiç Ak
+3184,3417,Süreyyya Evren,Süreyyya Evren
+3185,3418,Ö. Ceylan,Ömür Ceylan
+3186,3419,S. Kaygalak,Sedat Kaygalak
+3187,3420,O. Ural,Orhan Ural
+3188,3421,M. Bilgin,Mehmet Bilgin
+3189,3422,G. Meriç Coşkun,Gül Meriç Coşkun
+3190,3423,O. Erol,Oğuz Erol
+3192,3425,Ü. Yücel,Ünsal Yücel
+3193,3426,A.Tanyıldız,Ali Tanyıldız
+3194,3427,F. Büyükşahin,Ferhat Büyükşahin
+3195,3428,M. T. Tarkan,M. Tevfik Tarkan
+3196,3429,A. H. Bayat,Ali Haydar Bayat
+3197,3430,K. A. Sungur,Korkut Ata Sungur
+3198,3431,A. İsvan,Ahmet İsvan
+3199,3432,M. R. Esatlı,Mustafa Ragıp Esatlı
+3200,3433,T. E. Şahin,Tahir Erdoğan Şahin
+3201,3434,B. Doğru,Bülent Doğru
+3202,3435,S. R. Karluk,Sadık Rıdvan Karluk
+3203,3436,F. Tekin,Ferit Tekin
+3204,3437,E. Sarıkoyuncu Değerli,Esra Sarıkoyuncu Değerli
+3205,3438,Z. Hatiboğlu,Zeyyat Hatiboğlu
+3207,3440,C. Madanoğlu,Cemal Madanoğlu
+3208,3441,M. Bülbül,Mustafa Bülbül
+3209,3442,M. Y. İkizer,M. Yılmaz İkizer
+3210,3443,M. Aktok Kaşgarlı,Mehlika Aktok Kaşgarlı
+3211,3444,B. Çotuksöken,Betül Çotuksöken
+3212,3445,M. Gökberk,Macit Gökberk
+3213,3446,K. Arapgirlioğlu,Kumru Arapgirlioğlu
+3214,3447,F. Çelebi,Funda Çelebi
+3215,3448,T. Çavuşoğlu,Tayfun Çavuşoğlu
+3216,3449,İ. Gündüz,İbrahim Gündüz
+3217,3450,H. İlaydın,Hikmet İlaydın
+3218,3451,Y. Düzenli,Yahya Düzenli
+3219,3452,N. Çağıl,Necdet Çağıl
+3221,3454,Ş. Açıkkol,Şeyda Açıkkol
+3222,3455,Kul Himmet,Kul Himmet
+3223,3456,F. Barın Akman,Filiz Barın Akman
+3224,3457,G. Bilkay Aygün,Güler Bilkay Aygün
+3225,3458,M. Üzülmez,Müslüm Üzülmez
+3226,3459,Ş. Aydemir,Şerif Aydemir
+3227,3460,F. Karabıyık Barbarosoğlu,Fatma Karabıyık Barbarosoğlu
+3228,3461,İ. S. Çağlayangil,İhsan Sabri Çağlayangil
+3229,3462,Y. Hekimoğlu,Yücel Hekimoğlu
+3230,3463,Ü. Ayvaz,Ülkü Ayvaz
+3231,3464,Ç. Keyder,Çağlar Keyder
+3232,3465,E. Memiş,Emin Memiş
+3233,3466,N. Yazıcı,Nevin Yazıcı
+3234,3467,İ. H. Okday,İsmail Hakkı Okday
+3235,3468,G. Tokuz,Gonca Tokuz
+3236,3469,A. Zaloğlu,Ayşegül Zaloğlu
+3237,3470,N. Demirci,Nefi Demirci
+3238,3471,A. Y. Kaya,Ahmet Yalçın Kaya
+3239,3472,R. Yıldız,Reyhan Yıldız
+3241,3474,Ü. Sergün,Ümit Sergün
+3242,3475,O. Özsoy,Osman Özsoy
+3243,3476,F. Günergun,Feza Günergun
+3244,3477,Y. Ülker,Yalçın Ülker
+3245,3478,N. Özgüç,Nazmiye Özgüç
+3246,3479,M. Köktürk,Milay Köktürk
+3248,3481,Z. Başar,Zeki Başar
+3249,3482,Z. Özcan,Zafer Özcan
+3250,3483,İ. İlhan,İlhan İlhan
+3251,3484,H. Çınar,Hüseyin Çınar
+3252,3485,O. Akşit,Oktay Akşit
+3253,3486,A. Ş. Ceran,Ahmet Şeref Ceran
+3254,3487,T. Gülen,Tahsin Gülen
+3255,3488,A. A. Çınar,Ali Abbas Çınar
+3256,3489,L. Bağman,Lâtif Bağman
+3257,3490,O. Sönmez,Oktay Sönmez
+3259,3492,P. Kıyat Karakuş,Pürlen Kıyat Karakuş
+3260,3493,M. Gürsoy Sökmen,Müge Gürsoy Sökmen
+3261,3494,A. Bozdoğan,Ahmet Bozdoğan
+3262,3495,K. Yakuboğlu,Kenan Yakuboğlu
+3263,3496,Hekimoğlu İsmail,Hekimoğlu İsmail
+3264,3497,A. Ş. Çoruk,Ali Şükrü Çoruk
+3265,3498,E. Okçuoğlu,Evin Okçuoğlu
+3266,3499,C. Bilim,Cahit Bilim
+3267,3500,Ş. Tunç,Şafak Tunç
+3268,3501,T. Timur,Taner Timur
+3269,3502,Ş. Elçin,Şükrü Elçin
+3270,3503,M. Tosun,Mehmet Tosun
+3271,3504,A. Akbaş,Ali Akbaş
+3272,3505,S. Yalsızuçanlar,Sadık Yalsızuçanlar
+3273,3506,H. Yücel,Halûk Yücel
+3274,3507,A. Erkan,Arif Erkan
+3275,3508,Y. Almelek,Yakup Almelek
+3276,3509,N. Alkumru,Nizamettin Alkumru
+3277,3510,M. Ünlü,Mahir Ünlü
+3278,3511,A. F. Karamanlıoğlu,Ali Fehmi Karamanlıoğlu
+3279,3512,E. Efegil,Ertan Efegil
+3280,3513,A. B. Alptekin,Ali Berat Alptekin
+3281,3514,K. Türkmenoğlu,Kerkük Türkmenoğlu
+3282,3515,T. Gündüz,Tufan Gündüz
+3283,3516,M. K. Çalen,Mehmet Kaan Çalen
+3284,3517,M. Saray,Mehmet Saray
+3285,3518,İ. Kabaağaçlı Noonan,İsmet Kabaağaçlı Noonan
+3286,3519,N. Albayrak,Nurettin Albayrak
+3287,3520,İ. Z. Burdurlu,İbrahim Zeki Burdurlu
+3288,3521,C. Alpgüvenç,Can Alpgüvenç
+3289,3522,H. R. Sevimay,Hayri R. Sevimay
+3290,3523,Y. Goz,Yusuf Goz
+3291,3524,T. Kiremitçi,Tuna Kiremitçi
+3292,3525,Ş. Başlı,Şeyda Başlı
+3293,3526,K. Ermiş,Kenan Ermiş
+3294,3527,H. Tek,Hayati Tek
+3295,3528,Z. Kayadelen,Zeynep Kayadelen
+3296,3529,H. Ş. Oytun,Hasan Şükrü Oytun
+3297,3530,Y. Y. Demircanlı,Yüksel Yoldaş Demircanlı
+3298,3531,K. Nalça,Kıvanç Nalça
+3299,3532,İ. Sivri,İsmail Sivri
+3300,3533,S. Gökçen,Sabiha Gökçen
+3301,3534,M. Ekmekçi,Mustafa Ekmekçi
+3302,3535,M. Özay,Mahmut Özay
+3303,3536,R. Karaköse,Rukiye Karaköse
+3304,3537,R. N. Kestelli,Raif Necdet Kestelli
+3305,3538,R. Zarakolu,Ragıp Zarakolu
+3306,3539,E. Acarlar,Erdoğan Acarlar
+3307,3540,N. Birdoğan,Nejat Birdoğan
+3308,3541,M. B. Tapan,Mevlüt Baki Tapan
+3309,3542,D. Cüceloğlu,Doğan Cüceloğlu
+3310,3543,Ö. Göçgün,Önder Göçgün
+3311,3544,N. Gülmez,Nurettin Gülmez
+3312,3545,N. Şahiner,Necmettin Şahiner
+3313,3546,B. Emil,Birol Emil
+3314,3547,A. E. Yalman,Ahmet Emin Yalman
+3315,3548,K. Sağlamer,Kayhan Sağlamer
+3316,3549,M. O. Albasan,Metin Oktay Albasan
+3317,3550,Ö. Öktem,Öget Öktem
+3318,3551,A. Sirmen,Ali Sirmen
+3319,3552,Y. Ilgar,Yusuf Ilgar
+3320,3553,Y. Sayman,Yücel Sayman
+3321,3554,Y. Kerigan,Yeşim Kerigan
+3322,3555,Y. Çağlayan,Yusuf Çağlayan
+3323,3556,K. Ertop,Konur Ertop
+3324,3557,T. Şirin,Tolga Şirin
+3325,3558,M. O. Güloğlu,Mehmet Oktar Güloğlu
+3326,3559,M. Gönlübol,Mehmet Gönlübol
+3327,3560,N. Soyer,Nejat Soyer
+3328,3561,B. Günkut,Bedri Günkut
+3329,3562,N. Gülova,Nurhan Gülova
+3330,3563,N. Ekinci,Necdet Ekinci
+3331,3564,Ş. Turan,Şerafettin Turan
+3332,3565,E. Ş. Mengi,Emine Şeyma Mengi
+3333,3566,A. Kelce,Ayşe Kelce
+3334,3567,O. Müftüoğlu,Oğuzhan Müftüoğlu
+3335,3568,İ. Korkmaz,İlhan Korkmaz
+3336,3569,H. Karavelioğlu,Hanım Karavelioğlu
+3337,3570,G. Çandarlıoğlu,Gülçin Çandarlıoğlu
+3338,3571,M. Mollaosmanoğlu,Mehmet Mollaosmanoğlu
+3339,3572,T. Güran,Tevfik Güran
+3340,3573,B. Duygulu,Behiç Duygulu
+3341,3574,M. O. Kızıldemir,M. Orhan Kızıldemir
+3342,3575,C. Oktay,Cemil Oktay
+3343,3576,N. Vergin,Nur Vergin
+3344,3577,A. Yaraman Başbuğu,Ayşegül Yaraman Başbuğu
+3345,3578,N. Akalın,Nur Akalın
+3346,3579,S. Akpınar,Sinan Akpınar
+3347,3580,T. Tekin,Talât Tekin
+3348,3581,İ. Oluklu,İbrahim Oluklu
+3349,3582,O. Yivli,Oktay Yivli
+3350,3583,M. Özmen,Mustafa Özmen
+3351,3584,O. Kahyaoğlu,Orhan Kahyaoğlu
+3352,3585,S. Güray,Sevim Güray
+3353,3586,A. Yalçınkaya,Alaeddin Yalçınkaya
+3354,3587,Y. İlik,Yunus İlik
+3355,3588,S. Sönmez,Süleyman Sönmez
+3356,3589,M. Başoğlu,Mustafa Başoğlu
+3357,3590,S. Bosnalı,Sonel Bosnalı
+3358,3591,N. S. Atmaca,Nidai Sulhi Atmaca
+3359,3592,S. Göksu,Sadık Göksu
+3360,3593,S. Sokullu,Sevinç Sokullu
+3361,3594,M. G. Demiray,M. Güner Demiray
+3362,3595,N. Ayas,Nevzat Ayas
+3363,3596,H. S. Arel,Hüseyin Sadettin Arel
+3364,3597,M. Gültekin,Mehmet Gültekin
+3365,3598,S. Bülbül,Sevilay Bülbül
+3366,3599,E. Reşah,Emin Reşah
+3367,3600,İ. Karaahmetoğlu,İsmail Karaahmetoğlu
+3368,3601,O. Uçar,Orkun Uçar
+3369,3602,T. O. Özcüre,Taha Oğuzhan Özcüre
+3370,3603,G. Gültekin,Gökhan Gültekin
+3371,3604,F. Soysal,Fikri Soysal - Hikmet Toker
+3372,3605,B. Ugar,Barış Ugar
+3373,3606,Y. Yazıcı,Yüksel Yazıcı
+3374,3607,Y. Monus,Yeşim Monus
+3375,3608,E. Merçil,Erdoğan Merçil
+3376,3609,A. Emeksiz,Abdülkadir Emeksiz
+3377,3610,M. T. Uras,Münir Tevfik Uras
+3378,3611,Z. Kazıcı,Ziya Kazıcı
+3379,3612,M. Baydur,Memet Baydur
+3380,3613,A. Türkgücü,Aydın Türkgücü
+3381,3614,A. F. Örenç,Ali Fuat Örenç
+3382,3615,E. Afşar Aral,Esin Afşar Aral
+3383,3616,B. Sağlam,Bahaettin Sağlam
+3384,3617,U. Korum,Uğur Korum
+3385,3618,M. Baysal,Mevlüt Baysal
+3386,3619,Y. İnandı,Yusuf İnandı
+3387,3620,İ. Sarıibrahimoğlu,İbrahim Sarıibrahimoğlu
+3388,3621,M. Solmaz,Mehmet Solmaz
+3389,3622,E. Baran,Ethem Baran
+3390,3623,R. Apak,Rahmi Apak
+3391,3624,A. Müftüoğlu,Atasoy Müftüoğlu
+3392,3625,S. Maden Avcu,Selma Maden Avcu
+3393,3626,B. Çerezcioğlu,Burçak Çerezcioğlu
+3395,3628,N. Kurt,Nurettin Kurt
+3396,3629,R. S. Atabinen,Reşit Saffet Atabinen
+3397,3630,Mehmed Niyazi,Mehmed Niyazi
+3398,3631,M. Canova,Mahir Canova
+3399,3632,N. Eruz,Nahit Eruz
+3400,3633,Z. Damlapınar,Zülfikar Damlapınar
+3401,3634,Ö. Erdem,Ömer Erdem
+3402,3635,N. Itr,Nureddin Itr
+3403,3636,A. E. Bolayır,Ali Ekrem Bolayır
+3404,3637,Y. İncesi,Yıldız İncesi
+3405,3638,O. S. Kocahanoğlu,Osman S. Kocahanoğlu
+3406,3639,İ. İnönü,İsmet İnönü
+3407,3640,M. Hacıhasanoğlu,Muzaffer Hacıhasanoğlu
+3408,3641,İ. Eren,İbrahim Eren
+3409,3642,İ. Ergün,İsmail Ergün
+3410,3643,D. Gürlek,Dursun Gürlek
+3411,3644,M. Tunç,Mustafa Tunç
+3412,3645,A. Kuzu,Ali Kuzu
+3414,3647,D. Gürsoy,Deniz Gürsoy
+3416,3649,M. Çulhaoğlu,Metin Çulhaoğlu
+3417,3650,H. E. Beriş,Hamit Emrah Beriş
+3419,3652,S. Hirik,Seçil Hirik
+3420,3653,B. Uncular,Betül Uncular
+3421,3654,M. B. Dede,Mehmet Bilal Dede
+3422,3655,E. Haytoğlu,Ercan Haytoğlu
+3423,3656,,
+3425,3658,N. Kadıoğlu Çevik,Nihal Kadıoğlu Çevik
+3426,3659,H. Şahballı,Hilmi Şahballı
+3427,3660,A. Gökbel,Ahmet Gökbel
+3428,3661,M. Attilâ,Mahmut Attilâ
+3429,3662,O. N. Koçtürk,Osman Nuri Koçtürk
+3430,3663,H. N. Artıran,Hayat Nur Artıran
+3431,3664,M. Okur,Münevver Okur
+3432,3665,Bayburtlu Hicrani,Bayburtlu Hicrani
+3433,3666,S. Başkan,Seyfi Başkan
+3434,3667,R. Sevgili,Ramazan Sevgili
+3435,3668,E. Aydınonat,Emrah Aydınonat
+3436,3669,C. Taslaman,Caner Taslaman
+3437,3670,B. Özbek,Buket Özbek
+3438,3671,F. Kam,Ferid Kam
+3439,3672,M. T. Hatiboğlu,M. Tahir Hatiboğlu
+3440,3673,M. Z. Altan,Mustafa Zülküf Altan
+3441,3674,Y. Atsız,Yağmur Atsız
+3442,3675,H. B. Akgiray,Hasan Basri Akgiray
+3443,3676,A. Akın,Ali Akın
+3444,3677,Y. Halaçoğlu,Yusuf Halaçoğlu
+3446,3679,B. Civelek,Bilal Civelek
+3447,3680,B. Çulhaoğlu,Benian Çulhaoğlu
+3448,3681,H. B. Eren,Hafize Bilge Eren
+3449,3682,R. S. Tatar,Recep S. Tatar
+3450,3683,G. Koç,Gamze Koç
+3452,3685,H. Yaman,Hakan Yaman
+3453,3686,N. Ş. Kösemihal,Nurettin Şazi Kösemihal
+3454,3687,Mimar Kemalettin,Mimar Kemalettin
+3455,3688,D. Durukan,Deniz Durukan
+3456,3689,E. Karataş,Esmeray Karataş
+3457,3690,H. Mazıoğlu,Hasibe Mazıoğlu
+3458,3691,V. Nureddin,Vâlâ Nureddin
+3459,3692,T. Onuk,Taciser Onuk
+3460,3693,Y. Erkaya,Yusuf Erkaya
+3461,3694,H. Soyşekerci,Hülya Soyşekerci
+3462,3695,Y. Kansu,Yavuz Kansu - Sermet Şenöz - Yılmaz Öztuna
+3463,3696,M. Y. Özel,Mehmet Yıldırım Özel
+3464,3697,C. Fedai,Celâl Fedai
+3465,3698,V. Koç,Vehbi Koç
+3467,3700,Levnî,Levnî
+3468,3701,C. Alyılmaz,Cengiz Alyılmaz
+3469,3702,L. Doğan,Lütfi Doğan 
+3470,3703,H. Güllüpınar,Hasan Güllüpınar
+3471,3704,S. Güler,Sabır Güler
+3472,3705,T. Ertem,Tuna Ertem
+3473,3706,M. Rifat,Mehmet Rifat
+3474,3707,B. Durmaz,Berna Durmaz
+3475,3708,C. Çoban,Cezmi Çoban
+3476,3709,A. Behramoğlu,Ataol Behramoğlu
+3477,3710,M. Kemal,Mehmet Kemal
+3478,3711,Ali Seydi,Ali Seydi
+3479,3712,H. Edhem,Halil Edhem
+3480,3713,Beşir Fuad,Beşir Fuad
+3481,3714,Ö. A. Aksoy,Ömer Asım Aksoy
+3482,3715,N. Gürbilek,Nurdan Gürbilek
+3483,3716,Mehmed Salâhî,Mehmed Salâhî
+3484,3717,E. Hatipoğlu,Emrah Hatipoğlu
+3485,3718,İ. Güleç,İsmail Güleç
+3486,3719,H. R. Tekgüç,Hüseyin Remzi Tekgüç
+3487,3720,S. Nazik,Sıtkı Nazik
+3488,3721,A. Çetin,Altan Çetin
+3489,3722,S. Sertoğlu,Sedat Sertoğlu
+3490,3723,F. Belen,Fahri Belen
+3491,3724,A. Çelik,Adnan Çelik - M. Şerif Şimşek
+3492,3725,K. Anadol,Kemal Anadol
+3493,3726,M. Baytimur,Mehmet Baytimur
+3494,3727,T. R. Aras,Tevfik Rüştü Aras
+3495,3728,Z. A. Zorbulut,Zeynel Abidin Zorbulut
+3496,3729,M. Yağmur,Mahmut Yağmur
+3497,3730,F. Başaran,Funda Başaran
+3498,3731,T. Ulucan,Turgut Ulucan
+3499,3732,S. Karaibrahimoğlu,Sacit Karaibrahimoğlu
+3500,3733,A. Ş. Ergin,Ali Şakir Ergin
+3501,3734,A. Birinci,Ali Birinci
+3502,3735,Y. E. Kavak,Yunus Emre Kavak
+3504,3737,H. Sarıoğlu,Halide Sarıoğlu
+3505,3738,E. Baymak,Ethem Baymak
+3506,3739,H. Pehlivanlı,Hamit Pehlivanlı
+3507,3740,Z. Koylu,Zafer Koylu 
+3508,3741,A. Günşen,Ahmet Günşen
+3509,3742,E. Canberk,Eray Canberk
+3510,3743,N. Tekelioğlu,Nejat Tekelioğlu
+3511,3744,A. M. Tuncoku,A. Mete Tuncoku
+3512,3745,A. F. Oğuzkan,A. Ferhan Oğuzkan
+3513,3746,Ö. Köknel,Özcan Köknel
+3514,3747,Y. Yalçın,Yasin Yalçın
+3515,3748,M. Küçükuğurlu,Murat Küçükuğurlu
+3516,3749,V. Bardakçı,Vehbi Bardakçı
+3517,3750,M. Türker Küyel,Mübahat Türker Küyel
+3518,3751,U. Kalkan,Uğur Kalkan
+3519,3752,H. Aslan,Hürol Aslan
+3520,3753,A. Anıker,Alpertunga Anıker
+3521,3754,B. Şen,Besime Şen-Ali Ekber Doğan
+3522,3755,Ç. Sarıbıyık,Çağlar Sarıbıyık
+3523,3756,M. Bayram,Mikâil Bayram
+3524,3757,Y. Nazım,Yusuf Nazım
+3525,3758,S. Demirdal,Sait Demirdal
+3526,3759,Kilisli Kadri,Kilisli Kadri
+3528,3761,F. Balcı,Fatih Balcı
+3529,3762,S. V. Örnek,Sedat Veyis Örnek
+3530,3763,A. Buran,Ahmet Buran
+3531,3764,B. Y. Seyhan,Beyazıt Yaşar Seyhan
+3532,3765,E. Tokmakçıoğlu,Erdoğan Tokmakçıoğlu
+3533,3766,M. Peker,Mümtaz Peker
+3534,3767,E. Koç,Emel Koç
+3535,3768,A. Akdoğan,Ali Akdoğan
+3536,3769,Ş. Yılmaz Özkarslı,Şirin YIlmaz Özkarslı
+3537,3770,Abdülaziz Bey,Abdülaziz Bey
+3538,3771,Ü. Yaşar,Ümmühan Yaşar
+3539,3772,B. C. Morkaya,Burhan Cahit Morkaya
+3540,3773,G. Candoğan,Galip Candoğan
+3541,3774,H. Şahin,Hatice Şahin
+3543,3776,İ. C. Aşkun,İnal Cem Aşkun
+3544,3777,T. Açık,Tansu Açık
+3545,3778,A. Aksu,Aynur Aksu
+3546,3779,K. Özkan,Kaan Özkan
+3547,3780,N. Çetin,Nurullah Çetin
+3548,3781,F. Üstel,Füsun Üstel
+3549,3782,M. Özen,Mehmet Özen - Alpay Azap - Günhan Gürman - Hamdi Akan
+3550,3783,N. Erdem,Nehir Erdem
+3551,3784,Ö. F. Bayrak,Ömer Faruk Bayrak
+3553,3786,S. Akın,Sunay Akın
+3554,3787,A. Seyda,Ahmet Seyda
+3555,3788,F. Türkmen,Fikret Türkmen
+3556,3789,A. K. Aksüt,Ali Kemali Aksüt
+3557,3790,M. Elmalı,Mustafa Elmalı
+3558,3791,N. Açıkgöz,Namık Açıkgöz
+3559,3792,İ. H. Konyalı,İbrahim Hakkı Konyalı
+3560,3793,A. Demir,Abdullah Demir
+3562,3795,L. Güçer,Lütfi Güçer
+3563,3796,İ. Taşcı,İlhan Taşcı
+3564,3797,A. Jorma,Atilla Jorma
+3565,3798,H. Eren,Hasan Eren
+3566,3799,Ubeydullah Efendi,Ubeydullah Efendi
+3567,3800,İ. Temo,İbrahim Temo - Ahmet Rıza
+3568,3801,K. Ekinci,Kamuran Ekinci
+3569,3802,C. Osmanağaoğlu,Cihan Osmanağaoğlu
+3570,3803,S. Ataman,Sırrı Ataman
+3571,3804,M. Özyüksel,Murat Özyüksel
+3572,3805,M. K. Bilgegil,M. Kaya Bilgegil
+3573,3806,O. Yıldız,Osman Yıldız
+3574,3807,B. Vardar,Berke Vardar
+3575,3808,A. T. Bilgiç,A. Timur Bilgiç
+3576,3809,B. Cömert,Bedrettin Cömert
+3577,3810,İ. Güner,İsmail Güner
+3578,3811,H. Gürel,Hasan Gürel
+3579,3812,Y. Akçura,Yusuf Akçura
+3580,3813,M. K. Bıyıkoğlu,M. Kemal Bıyıkoğlu
+3581,3814,N. N. Türk,Neslihan Nur Türk
+3582,3815,M. S. Atak,M. Sadık Atak
+3583,3816,S. Korkmaz,Serap Korkmaz
+3585,3818,A. C. Emre,Ahmet Cevat Emre
+3586,3819,E. Özsüer,Esra Özsüer
+3587,3820,H. Karahisar,Hasan Karahisar
+3588,3821,İ. Sözer, İlkim SÖZER
+3589,3822,S. Irzık,Sibel Irzık - Jale Parla
+3590,3823,A. Arslan,Alper Arslan
+3591,3824,C. Demirci,Cihan Demirci
+3592,3825,T. Yalçın,Tülün Yalçın
+3593,3826,A. Köse,Abdullah Köse
+3594,3827,E. İlhan,Enes İlhan
+3595,3828,A. İnsel,Ahmet İnsel
+3596,3829,H. Çevik,Hikmet Çevik
+3597,3830,A. T. Oflazoğlu,Ahmet Turan Oflazoğlu
+3598,3831,K. Birand,Kamiran Birand
+3599,3832,N. Nurin,Nihat Nurin
+3600,3833,F. Devellioğlu,Ferit Devellioğlu
+3601,3834,U. Gergerlioğlu,Ufuk Gergerlioğlu
+3602,3835,O. İyiler,Orhan İyiler
+3603,3836,K. Bek,Kemal Bek
+3604,3837,E. Türbedar,Erhan Türbedar
+3605,3838,Ö. F. Reca,Ömer Faruk Reca
+3606,3839,A. Yüce,Ali Yüce
+3607,3840,O. Can,Orhan Can
+3608,3841,V. Sağıroğlu,Venhar Sağıroğlu
+3609,3842,B. Duran,Bakiye Duran
+3610,3843,Y. K. Taştan,Yahya Kemal Taştan
+3611,3844,H. Sanal,Haydar Sanal
+3613,3846,R. Tarım,Rahim Tarım
+3614,3847,S. R. İskit,Server Rifat İskit
+3615,3848,G. K. Söylemezoğlu,Galip Kemali Söylemezoğlu
+3616,3849,L. Dağtaş,Lütfü Dağtaş
+3617,3850,A. Naim,Ahmet Naim
+3618,3851,D. Uyar,Demet Uyar
+3619,3852,E. Akçan,Esra Akçan
+3620,3853,I. Zileli,Irmak Zileli
+3621,3854,S. Yüksel,Semahat Yüksel
+3622,3855,O. N. Dülgerler,Osman Nuri Dülgerler
+3623,3856,K. Esengin,Kenan Esengin
+3624,3857,B. L. Bahar,Beki L. Bahar
+3625,3858,M. Tatlıyer,Mevlüt Tatlıyer
+3626,3859,İ. Tüzer,İbrahim Tüzer
+3627,3860,Y. Yıldırım,Yüksel Yıldırım
+3628,3861,E. Daybelge,Esat Daybelge
+3629,3862,K. Özbel,Kenan Özbel
+3630,3863,V. Arıkan,Vural Arıkan
+3631,3864,Ş. Bektan,Şule Bektan
+3632,3865,K. Altuğ,Kurtul Altuğ
+3633,3866,S. Nişan K.,Selin Nişan K.
+3635,3868,C. Çelik,C. Çelik - Ersal Özkan - Efkan Vural
+3636,3869,E. A. Okur,E. Ali Okur
+3637,3870,S. D. Aladoğan,Sinan Doğan Aladoğan
+3638,3871,H. T. Uçankuş,Hasan Tahsin Uçankuş
+3640,3873,S. Ünal,Serkan Ünal
+3641,3874,Y. Özbek,Yılmaz Özbek
+3642,3875,H. Kayıhan,Hasan Kayıhan
+3644,3877,B. Tünay,Bekir Tünay
+3645,3878,G. Sarioğlu,Güner Sarioğlu
+3646,3879,C. İleri Aksoy,Cahide İleri Aksoy
+3647,3880,F. Çömlekçi,Ferruh Çömlekçi
+3648,3881,Âşık Kâtibi,Âşık Kâtibi
+3649,3882,M. Bayter,Mustafa Bayter
+3650,3883,C. Okurer,Cahit Okurer
+3651,3884,G. Dilmen,Güngör Dilmen
+3652,3885,S. Debboğlu,Serhat Debboğlu
+3653,3886,Basından,Basından
