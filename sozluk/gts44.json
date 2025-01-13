@@ -1,0 +1,171 @@
+{
+  "_id": 45,
+  "madde_id": "45",
+  "kac": "0",
+  "kelime_no": "14834",
+  "cesit": "0",
+  "anlam_gor": "0",
+  "on_taki": null,
+  "madde": "durak",
+  "cesit_say": "0",
+  "anlam_say": "7",
+  "taki": "ğı",
+  "cogul_mu": "0",
+  "ozel_mi": "0",
+  "egik_mi": "0",
+  "lisan_kodu": "0",
+  "lisan": "",
+  "telaffuz": null,
+  "birlesikler": "dolmuş durağı, emniyet durağı",
+  "font": null,
+  "madde_duz": "durak",
+  "gosterim_tarihi": null,
+  "anlamlarListe": [
+    {
+      "anlam_id": "25907",
+      "madde_id": "45",
+      "anlam_sira": "1",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Tren, tramvay, otobüs, minibüs vb. genel taşıtların durmak zorunda olduğu veya durabileceği yer",
+      "gos": "0",
+      "orneklerListe": [
+        {
+          "ornek_id": "688",
+          "anlam_id": "25907",
+          "ornek_sira": "1",
+          "ornek": "İlk durakta otobüsten atlayarak geriye döndüm.",
+          "kac": "1",
+          "yazar_id": "1",
+          "yazar_vd": "",
+          "yazar": [
+            {
+              "yazar_id": "1",
+              "tam_adi": "Sait Faik Abasıyanık",
+              "kisa_adi": "S. F. Abasıyanık",
+              "ekno": "8"
+            }
+          ]
+        }
+      ],
+      "ozelliklerListe": [
+        {
+          "ozellik_id": "19",
+          "tur": "3",
+          "tam_adi": "isim",
+          "kisa_adi": "a.",
+          "ekno": "30"
+        }
+      ]
+    },
+    {
+      "anlam_id": "25908",
+      "madde_id": "45",
+      "anlam_sira": "2",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Çok sayıda taksinin bir arada çalıştığı ve bağlı olduğu işletme",
+      "gos": "0"
+    },
+    {
+      "anlam_id": "25909",
+      "madde_id": "45",
+      "anlam_sira": "3",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Kısa bir süre konaklanacak, durulacak yer",
+      "gos": "0",
+      "orneklerListe": [
+        {
+          "ornek_id": "689",
+          "anlam_id": "25909",
+          "ornek_sira": "1",
+          "ornek": "Sonraki durağımız sebzeci Mecit'in dükkânıydı.",
+          "kac": "1",
+          "yazar_id": "212",
+          "yazar_vd": "",
+          "yazar": [
+            {
+              "yazar_id": "212",
+              "tam_adi": "Ayşe Kulin",
+              "kisa_adi": "A. Kulin",
+              "ekno": "437"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "anlam_id": "25910",
+      "madde_id": "45",
+      "anlam_sira": "4",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Konuşmada, anlamın gerektirdiği biçimde kelimeler arasındaki ses kesintisi",
+      "gos": "0",
+      "ozelliklerListe": [
+        {
+          "ozellik_id": "46",
+          "tur": "1",
+          "tam_adi": "dil bilgisi",
+          "kisa_adi": "db.",
+          "ekno": "95"
+        }
+      ]
+    },
+    {
+      "anlam_id": "25911",
+      "madde_id": "45",
+      "anlam_sira": "5",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Hece ölçüsüyle yazılmış şiirlerde ölçü kalıpları içindeki durma yerleri",
+      "gos": "0",
+      "ozelliklerListe": [
+        {
+          "ozellik_id": "54",
+          "tur": "1",
+          "tam_adi": "edebiyat",
+          "kisa_adi": "ed.",
+          "ekno": "103"
+        }
+      ]
+    },
+    {
+      "anlam_id": "25912",
+      "madde_id": "45",
+      "anlam_sira": "6",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Bir ölçü uzunluğunda susma",
+      "gos": "0",
+      "ozelliklerListe": [
+        {
+          "ozellik_id": "39",
+          "tur": "1",
+          "tam_adi": "müzik",
+          "kisa_adi": "müz.",
+          "ekno": "88"
+        }
+      ]
+    },
+    {
+      "anlam_id": "25913",
+      "madde_id": "45",
+      "anlam_sira": "7",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Cümle sonundaki nokta",
+      "gos": "0",
+      "ozelliklerListe": [
+        {
+          "ozellik_id": "31",
+          "tur": "4",
+          "tam_adi": "eskimiş",
+          "kisa_adi": "esk.",
+          "ekno": "42"
+        }
+      ]
+    }
+  ]
+}

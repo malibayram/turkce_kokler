@@ -1,0 +1,63 @@
+{
+  "_id": 34882,
+  "madde_id": "34882",
+  "kac": "0",
+  "kelime_no": "23450",
+  "cesit": "0",
+  "anlam_gor": "0",
+  "on_taki": null,
+  "madde": "hünersiz",
+  "cesit_say": "0",
+  "anlam_say": "2",
+  "taki": null,
+  "cogul_mu": "0",
+  "ozel_mi": "0",
+  "egik_mi": "0",
+  "lisan_kodu": "0",
+  "lisan": "",
+  "telaffuz": null,
+  "birlesikler": null,
+  "font": null,
+  "madde_duz": "hunersiz",
+  "gosterim_tarihi": null,
+  "anlamlarListe": [
+    {
+      "anlam_id": "40602",
+      "madde_id": "34882",
+      "anlam_sira": "1",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Hüneri olmayan (kimse)",
+      "gos": "0",
+      "orneklerListe": [
+        {
+          "ornek_id": "5742",
+          "anlam_id": "40602",
+          "ornek_sira": "1",
+          "ornek": null,
+          "kac": "1",
+          "yazar_id": "0",
+          "yazar_vd": ""
+        }
+      ],
+      "ozelliklerListe": [
+        {
+          "ozellik_id": "20",
+          "tur": "3",
+          "tam_adi": "sıfat",
+          "kisa_adi": "sf.",
+          "ekno": "31"
+        }
+      ]
+    },
+    {
+      "anlam_id": "40603",
+      "madde_id": "34882",
+      "anlam_sira": "2",
+      "fiil": "0",
+      "tipkes": "0",
+      "anlam": "Hünerle yapılmayan, hüner istemeyen",
+      "gos": "0"
+    }
+  ]
+}
