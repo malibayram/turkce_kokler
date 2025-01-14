@@ -31,13 +31,23 @@
     "nın",
     "nin",
     "nun",
-    "nün"
+    "nün",
+    "la",
+    "le",
+    "yla",
+    "yle"
   ],
   "possessive_suffixes": [
     "ım",
     "im",
     "um",
     "üm",
+    "m",
+    "n",
+    "ız",
+    "iz",
+    "uz",
+    "üz",
     "ımız",
     "imiz",
     "umuz",
@@ -46,12 +56,12 @@
     "niz",
     "nuz",
     "nüz",
-    "m",
-    "n",
-    "ız",
-    "iz",
-    "uz",
-    "üz"
+    "sı",
+    "si",
+    "su",
+    "sü",
+    "ları",
+    "leri"
   ],
   "question_suffixes": [
     "mı",
@@ -59,15 +69,23 @@
     "mu",
     "mü"
   ],
+  "infinitive_suffixes": [
+    "mak",
+    "mek"
+  ],
+  "negative_suffixes": [
+    "ma",
+    "me"
+  ],
   "verb_tense_suffixes": [
     "yor",
     "makta",
+    "mekte",
     "mede",
     "acak",
     "ecek",
     "acağ",
     "eceğ",
-    "r",
     "ar",
     "er",
     "malı",
@@ -85,7 +103,8 @@
     "mış",
     "miş",
     "muş",
-    "müş"
+    "müş",
+    "r"
   ],
   "compound_verb_suffixes": [
     "yacak",
@@ -126,23 +145,19 @@
     "cük",
     "ça",
     "ce",
-    "ça",
     "çe",
     "daş",
     "deş",
     "msı",
     "msi",
     "msu",
-    "cı",
-    "cı",
-    "lık",
-    "lık",
     "gil",
-    "daş",
     "ımsa",
     "ıcık",
     "nç",
-    "ncu"
+    "ncu",
+    "sal",
+    "sel"
   ],
   "auxiliary_suffixes": [
     "dır",
@@ -154,11 +169,15 @@
     "tur",
     "tür",
     "ki",
-    "y"
+    "y",
+    "idi",
+    "imiş",
+    "ise"
   ],
   "protective_consonants": [
     "y",
-    "n"
+    "n",
+    "s"
   ],
   "adjective_suffixes": [
     "lı",
